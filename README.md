@@ -20,16 +20,16 @@ in consuming information; while exuding professionalism. It needs to work well o
 users are on the move, as well as working on tablets and desktop to allow for a more comfortable viewing 
 in the office/ home.</p>
 
-<center>*”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
-ruthless process”*</center>
+*<center>”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
+ruthless process”</center>*
 
 *<center>“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
 Well-rounded, Training”</center>*
 
-<center>“To have an online presence so that casting directors, producers and directors who are 
-interested can learn more about you.”</center>
+*<center>“To have an online presence so that casting directors, producers and directors who are 
+interested can learn more about you.”</center>*
 
-<center>![Strategy Plan|512x397,20%](/assets/README-Files/Strategy-Plan.png/)</center>
+<center>![Strategy Plan(/assets/README-Files/Strategy-Plan.png/)</center>
 
 <h3>SCOPE</h3>
 
