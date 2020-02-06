@@ -20,7 +20,7 @@ in consuming information; while exuding professionalism. It needs to work well o
 users are on the move, as well as working on tablets and desktop to allow for a more comfortable viewing 
 in the office/ home.</p>
 
-_<center>”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be 
+_<center>”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
 ruthless process”</center>_
 
 _<center>“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
@@ -29,7 +29,7 @@ Well-rounded, Training”</center>_
 _<center>“To have an online presence so that casting directors, producers and directors who are 
 interested can learn more about you.”</center>_
 
-<center>![Strategy Plan](/assets/README-Files/Strategy-Plan.png/ "=100x20)</center>
+<center>![Strategy Plan](/assets/README-Files/Strategy-Plan.png/ =100x20)</center>
 
 <h3>SCOPE</h3>
 
@@ -56,18 +56,6 @@ and telephone number and be viewable in all pages so that an agent can click int
 without.</p>
 
 
+<h3>SKELETON</h3>
 
-
-
-
-
-<h1>FEATURES</h1>
-<h2>EXISTING FEATURES</h2>
-<h2>FEATURES LEFT TO IMPLIMENT</h2>
-<h1>TECHNOLOGIES USED</h1>
-<h1>TESTING</h1>
-<h1>DEPLOYMENT</h1>
-<h1>CREDITS</h1>
-<h2>CONTENT</h2>
-<h2>MEDIA</h2>
-<h2>ACKNOWLEDGEMENTS</h2>
+<h3>SURFACE</h3>
