@@ -20,16 +20,16 @@ in consuming information; while exuding professionalism. It needs to work well o
 users are on the move, as well as working on tablets and desktop to allow for a more comfortable viewing 
 in the office/ home.</p>
 
-_”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be 
-ruthless process”_
+_<center>”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be 
+ruthless process”</center>_
 
-_“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
-Well-rounded, Training”_
+_<center>“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
+Well-rounded, Training”</center>_
 
-_“To have an online presence so that casting directors, producers and directors who are 
-interested can learn more about you.”_
+_<center>“To have an online presence so that casting directors, producers and directors who are 
+interested can learn more about you.”</center>_
 
-![Strategy Plan](/assets/README-Files/Strategy-Plan.png/)
+<center>![Strategy Plan](/assets/README-Files/Strategy-Plan.png/ "=100x20)</center>
 
 <h3>SCOPE</h3>
 
@@ -42,7 +42,7 @@ little feature to add yet once again this can be discussed at a later date. The 
 all desired features at this stage should not jeopardize the initiation of a website as the content we can 
 add will be enough to kick-start Lisa Fairfield’s career.</p>
 
-<h3>Structure</h3>
+<h3>STRUCTURE</h3>
 
 The website needs to be clean and slick without too much clutter and information to prevent cognitive 
 overload. It needs to be fresh, stylistic and minimalist for the artistic audience.  At the same time 
