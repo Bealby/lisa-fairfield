@@ -4,12 +4,16 @@
 roles in Adverts, Theatre and Film. Providing Lisa Fairfield the opportunity to catapult her career 
 in the dexterous world of acting.</p>
 
+A live version can be found [here](https://bealby.github.io/Milestone-Project-1/)
+
 
 <h1>UX</h1>
 
 <p>Our client desires a website to seek out an agent while being able to use the website on business 
 cards and on email signatures. Once an agent is established the ultimate prize would then to be 
 introduced to a producer.</p>
+
+<br>
 
 <h3>STRATEGY</h3>
 
@@ -20,16 +24,22 @@ in consuming information; while exuding professionalism. It needs to work well o
 users are on the move, as well as working on tablets and desktop to allow for a more comfortable viewing 
 in the office/ home.</p>
 
-*<center>”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
-ruthless process”</center>*
+<br>
 
-*<center>“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
-Well-rounded, Training”</center>*
+- *”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
+ruthless process”*
 
-*<center>“To have an online presence so that casting directors, producers and directors who are 
-interested can learn more about you.”</center>*
+- *“Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
+Well-rounded, Training”*
 
-<center>![Strategy Plan(/assets/README-Files/Strategy-Plan.png/)</center>
+- *“To have an online presence so that casting directors, producers and directors who are 
+interested can learn more about you.”*
+
+<br>
+
+- ![viabilty-importance-graph](/assets/images/viability-importance.png/)
+
+<br>
 
 <h3>SCOPE</h3>
 
@@ -41,6 +51,8 @@ feasible at this stage to implement. This should however change as time passes. 
 little feature to add yet once again this can be discussed at a later date. The tradeoff in not implementing 
 all desired features at this stage should not jeopardize the initiation of a website as the content we can 
 add will be enough to kick-start Lisa Fairfield’s career.</p>
+
+<br>
 
 <h3>STRUCTURE</h3>
 
@@ -55,7 +67,10 @@ be centered above the navigation bar in clear standout font. The footer will inc
 and telephone number and be viewable in all pages so that an agent can click intuitively and with ease 
 without.</p>
 
+<br>
 
 <h3>SKELETON</h3>
+
+<br>
 
 <h3>SURFACE</h3>
