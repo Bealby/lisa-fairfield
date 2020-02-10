@@ -12,7 +12,7 @@ A live version can be found [here](https://bealby.github.io/Milestone-Project-1/
 
 <p>Our client desires a website to seek out an agent, while being able to use the website on business 
 cards and on email signatures. Once an agent is established the ultimate goal would be for it to 
-lead to being introduced to a producer.</p>
+lead to a producer.</p>
 
 <br>
 
@@ -49,10 +49,10 @@ interested can learn more about you.”*
 photos that will be narrowed down to highlight her different personalities. A biography of reviews
 and past and present performances, along with a ‘blurb’, will be provided by my client. With Lisa 
 Fairfield being at the start of her career, show reels/ voice reels are not adequate and hence feasible 
-at this stage to implement. This should however change as time passes.</p>
+at this stage to implement. This should however change as time passes. A blog could also be a nice little feature 
+to add once my client’s career has taken-off.</p>
 
-<p>A blog could also be a nice little feature to add once my client’s career has taken-off. The 
-tradeoff in not implementing all desired features mentioned, will not be at the detriment of the 
+<p>The tradeoff in not implementing all desired features mentioned, will not be at the detriment of the 
 website, as the content we can add will be suffice to kick-start Lisa Fairfield’s career.</p>
 
 <br>
@@ -75,7 +75,7 @@ ease.</p>
 
 <h3>SKELETON</h3>
 
-Please find my Wireframes for Desktop, Tablet and Mobile [here](/assets/images/wireframe.pdf/)
+Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/images/wireframes.pdf)
 
 <br>
 
