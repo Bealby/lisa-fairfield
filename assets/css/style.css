@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Calligraffitti&display=swap');
 
+/*Header Title*/
 
-.header-title{
+.header-title h1{
     font-family: 'Calligraffitti', cursive;
     font-size:60px;
     color:#000;
     text-align:center;
     margin-top:50px;
+    text-decoration:none;
+}
+
+.header-title a{
+    text-decoration:none;
 }
