@@ -56,3 +56,11 @@ hr{
     font-weight:600;
     color:#000;
 }
+
+.menuitem-footer a{
+    font-family: 'Playfair Display', serif;
+    font-size:18px;
+    font-weight:600;
+    color:#000;
+    margin:0px;
+}
