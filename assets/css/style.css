@@ -38,3 +38,21 @@ hr{
     color:#000;
     margin:0px;
 }
+
+.navbar-toggler
+    {
+        width: 100%;
+        left: 0;
+        text-align: center;
+        border:none;
+    }
+
+/*Footer*/
+
+.footer-contact{
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+    font-size:15px;
+    font-weight:600;
+    color:#000;
+}
