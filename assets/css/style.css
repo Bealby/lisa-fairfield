@@ -47,6 +47,13 @@ hr{
         border:none;
     }
 
+/*Section Hero Image*/
+
+.hero-image img{
+    margin: auto;
+}
+
+
 /*Footer*/
 
 .footer-contact{
