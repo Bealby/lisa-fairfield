@@ -49,8 +49,9 @@ hr{
 
 /*Section Hero Image*/
 
-.hero-image img{
-    margin: auto;
+.hero-image{
+    margin-top:30px;
+    margin-bottom:30px;
 }
 
 
@@ -71,3 +72,4 @@ hr{
     color:#000;
     margin:0px;
 }
+
