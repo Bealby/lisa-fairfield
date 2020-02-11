@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700,800');
 
 /*Header Title*/
 
@@ -18,7 +18,7 @@
 /*Block Dividers*/
 
 .block-divider{
-    width: 530px;
+    width: 550px;
     height: 1px;
     border: 0;
     background-color:#000;
@@ -34,12 +34,7 @@ hr{
 .menuitem a{
     font-family: 'Playfair Display', serif;
     font-size:28px;
+    font-weight:600;
     color:#000;
     margin:0px;
-}
-
-/*Hover Nav Menu*/
-
-.hvr-rectangle-out:after{
-    background-color:rgba(0,0,0,0.2);
 }
