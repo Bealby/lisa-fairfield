@@ -39,17 +39,11 @@ hr{
     margin:0px;
 }
 
-.navbar{
-    margin-top:50px;
-    margin-right:30px;
-}
-
-
 /*Section Hero Image*/
 
 .hero-image{
-    margin-top:30px;
-    margin-bottom:30px;
+    margin-top:15px;
+    margin-bottom:15px;
 }
 
 /*Gallery Images*/
@@ -87,10 +81,3 @@ hr{
 
 
 /*Menu Queries*/
-
-@media(min-width: 576px){
-.navbar{
-    margin-top:0px;
-    margin-right:0px;
-    }
-}
