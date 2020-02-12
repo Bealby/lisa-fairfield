@@ -76,6 +76,16 @@ hr{
     margin:0px;
 }
 
+.menuitem-contact p{
+    font-family: 'Playfair Display', serif;
+    font-size:18px;
+    font-weight:600;
+    color:#000;
+    margin-top:70px;
+    text-align:center;
+}
+
+
 /*Menu Queries*/
 
 @media(min-width: 576px){
