@@ -38,15 +38,6 @@ hr{
     color:#000;
     margin:0px;
 }
-
-.navbar-toggler
-    {
-        width: 100%;
-        left: 0;
-        text-align: center;
-        border:none;
-    }
-
 /*Section Hero Image*/
 
 .hero-image{
