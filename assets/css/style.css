@@ -36,6 +36,16 @@
     margin:0px;
 }
 
+.nav-menu-title{
+    font-family: 'Calligraffitti', cursive;
+    font-size:30px;
+    color:#000;
+    margin-top:0px;
+    margin-left:0px;
+    margin-bottom:0px;
+    margin-right:30px;
+}
+
 /*SECTIONS*/
 
 .section-hero-image{
@@ -61,23 +71,10 @@
 }
 /*FOOTERS*/
 
-.footer-contact{
-    text-align:center;
-    font-family: 'Playfair Display', serif;
-    font-size:15px;
-    font-weight:600;
-    color:#000;
-}
-
-.footer-menuitem a{
-    font-family: 'Playfair Display', serif;
+.footer-menuitem{
+    font-family: inherit;
     font-size:18px;
     font-weight:600;
     color:#000;
     margin:0px;
 }
-
-
-
-
-/*Menu Queries*/
