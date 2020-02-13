@@ -81,18 +81,24 @@
 				</div>
 				<div class="col-6">
 					<form>
-						<input type="text" class="form-control" placeholder="First name">
+						<input type="text" name="name" id="firstname" class="form-control" placeholder="First Name" required>
                     </form>
 				</div>
 				<div class="col-6">
 					<form>
-						<input type="text" class="form-control" placeholder="First name">
+						<input type="text" name="name" id="lastname" class="form-control" placeholder="Last Name" required>
                     </form>
 				</div>
-                <div class="col-6 offset-3">
+				<div class="col-12">
 					<form>
-						<input type="text" class="form-control" placeholder="First name">
-                    </form>
+						<input type="text" name="email" id="emailaddress" class="form-control" placeholder="Email" required>
+						<textarea rows="5" name="enquiries" id="enquiries" class="form-control" placeholder="Comment" required></textarea>
+						<div class="form-row text-center">
+							<div class="col">
+								<button type="submit" class="btn btn-secondary">Send</button>
+							</div>
+						</div>
+					</form>
 				</div>
 			</div>
 		</div>
