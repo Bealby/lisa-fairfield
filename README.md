@@ -90,7 +90,7 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 <h1>DEPLOYMENT</h1>
 
-<h3>To allow for GitHub repository to be published, please take the following steps:</h3>
+<h3>PUBLISH GitHub REPOSITORY</h3>
 
 1.	Load up GitHub at https://github.com
 
@@ -116,7 +116,7 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 <br>
 
-<h3>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</h3>
+<h3>CLONE GitHub REPOSITORY</h3>
 
 1.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
 
