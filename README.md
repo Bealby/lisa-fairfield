@@ -6,7 +6,7 @@ dexterous world of acting.</p>
 
 A live version can be found [here](https://bealby.github.io/Milestone-Project-1/)
 
-<br>
+---
 
 <h1>UX</h1>
 
@@ -86,31 +86,34 @@ website slick and minimal so that is easy for a potential agent to navigate. I h
 color theme with grey dividers for overall structure. This will allow photos and text to stand out boldly 
 against the white background, encouraging the desire and ease to navigate fluidly.</p>
 
-<br>
+---
 
 <h1>DEPLOYMENT</h1>
 
-<p>To allow for the **GitHub** repository to be published, please take the following steps:</p>
+<p>To allow for GitHub repository to be published, please take the following steps:</p>
 
-1.	Load up GitHub at htttps://github.com
-2.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1
-3.	Click Settings
+**1.	Load up GitHub at https://github.com**
+
+**2.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1**
+
+**3.	Click Settings**
 
 ![viabilty-importance-graph](/assets/readme/deployment-1.png/)
 
-4.	Scroll down to:
+**4.	Scroll down to:**
+
 - Github Pages
 - Source 
 - From drop-down menu choose master branch
 
 ![viabilty-importance-graph](/assets/readme/deployment-2.png/)
 				
-5.	From selecting master branch the repository will be refreshed and published.
-6.	Published website will be found highlighted in green under Github Pages as below:
+**5.	From selecting master branch the repository will be refreshed and published.**
+
+**6.	Published website will be found highlighted in green under Github Pages as below:**
 
 ![viabilty-importance-graph](/assets/readme/deployment-3.png/)
 
 <p>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</p>
-
 
 
