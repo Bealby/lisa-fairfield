@@ -90,7 +90,7 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 <h1>DEPLOYMENT</h1>
 
-<p>To allow for GitHub repository to be published, please take the following steps:</p>
+<h3>To allow for GitHub repository to be published, please take the following steps:</h3>
 
 **1.	Load up GitHub at https://github.com**
 
@@ -98,7 +98,7 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 **3.	Click Settings**
 
-![viabilty-importance-graph](/assets/readme/deployment-1.png/)
+![Deployment](/assets/readme/deployment-1.png/)
 
 **4.	Scroll down to:**
 
@@ -106,17 +106,17 @@ against the white background, encouraging the desire and ease to navigate fluidl
 - Source 
 - From drop-down menu choose master branch
 
-![viabilty-importance-graph](/assets/readme/deployment-2.png/)
+![Deployment](/assets/readme/deployment-2.png/)
 				
 **5.	From selecting master branch the repository will be refreshed and published.**
 
 **6.	Published website will be found highlighted in green under Github Pages as below:**
 
-![viabilty-importance-graph](/assets/readme/deployment-3.png/)
+![Deployment](/assets/readme/deployment-3.png/)
 
 <br>
 
-<p>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</p>
+<h3>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</h3>
 
 **1.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.**
 
@@ -124,9 +124,14 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 **3.	In the main page for the Repository click Clone or Download, then click on URL as shown below.**
 
+![Deployment](/assets/readme/deployment-4.png/)
+
 **4.	Open in Terminal**
 
 - Change current directory to local directory
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
 
+---
+___
+***
