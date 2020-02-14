@@ -6,9 +6,11 @@ dexterous world of acting.</p>
 
 A live version can be found [here](https://bealby.github.io/Milestone-Project-1/)
 
----
+<br>
 
 <h1>UX</h1>
+
+---
 
 <p>Our client desires a website to seek out an agent, while being able to use the website on business 
 cards and on email signatures. Once an agent is established the ultimate goal would be for it to 
@@ -86,9 +88,19 @@ website slick and minimal so that is easy for a potential agent to navigate. I h
 color theme with grey dividers for overall structure. This will allow photos and text to stand out boldly 
 against the white background, encouraging the desire and ease to navigate fluidly.</p>
 
+<br>
+
+<h1>FEATURES</h1>
+
 ---
 
+<h3>EXISTING FEATURE</h3>
+
+<br>
+
 <h1>DEPLOYMENT</h1>
+
+---
 
 <h3>PUBLISH GitHub REPOSITORY</h3>
 
