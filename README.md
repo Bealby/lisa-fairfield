@@ -114,6 +114,19 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 ![viabilty-importance-graph](/assets/readme/deployment-3.png/)
 
+<br>
+
 <p>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</p>
+
+**1.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.**
+
+**2.	In the main page for the Repository click Clone or Downlaod as shown below.**
+
+**3.	In the main page for the Repository click Clone or Download, then click on URL as shown below.**
+
+**4.	Open in Terminal**
+
+- Change current directory to local directory
+- Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
 
