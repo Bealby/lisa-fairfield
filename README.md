@@ -39,7 +39,7 @@ interested can learn more about you.”*
 
 <br>
 
-- ![viabilty-importance-graph](/assets/images/viability-importance.png/)</div>
+... ![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
 
 <br>
 
@@ -75,7 +75,7 @@ ease.</p>
 
 <h3>SKELETON</h3>
 
-Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/images/wireframes.pdf)
+Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/wireframes.pdf)
 
 <br>
 
@@ -85,3 +85,32 @@ Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.c
 website slick and minimal so that is easy for a potential agent to navigate. I have chosen to use a white 
 color theme with grey dividers for overall structure. This will allow photos and text to stand out boldly 
 against the white background, encouraging the desire and ease to navigate fluidly.</p>
+
+<br>
+
+<h1>DEPLOYMENT</h1>
+
+<p>To allow for the **GitHub** repository to be published, please take the following steps:</p>
+
+1.	Load up GitHub at htttps://github.com
+2.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1
+3.	Click Settings
+
+![viabilty-importance-graph](/assets/readme/deployment-1.png/)
+
+4.	Scroll down to:
+- Github Pages
+- Source 
+- From drop-down menu choose master branch
+
+![viabilty-importance-graph](/assets/readme/deployment-2.png/)
+				
+5.	From selecting master branch the repository will be refreshed and published.
+6.	Published website will be found highlighted in green under Github Pages as below:
+
+![viabilty-importance-graph](/assets/readme/deployment-3.png/)
+
+<p>To enable cloning of the GitHub Repository to be run locally, please take the following steps:</p>
+
+
+
