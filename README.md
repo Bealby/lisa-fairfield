@@ -121,8 +121,24 @@ Center `mx-auto` was used to centre horizontally.
 **Footer:** Lisa Fairfield’s email and phone number are always visible at the footer of the page. Each is initially grey, but 
 once clicked highlight black and directly open either their email or Skype accounts respectively.
 
+**Sections:** 
 
+- **Home:** A striking and bold a Hero-Image centred over a white background nestled between the Navbar and Footer.
 
+- **Gallery:**
+
+- **Bio:**
+
+- **Resume:** When the Resume is clicked another tab will be opened to display a CV in PDF format. This ensures user does not lose 
+their way on the website. This is implemented by using `target="_blank"``
+
+- **Contact:** As well as the contact details in the footer a content section was also implemented with the use of `<forms>` in bootstrap. 
+This allows for a more user friendly UX in communication and helps keep a record of interest back-end developing.
+
+**Features for smaller devices**
+
+**Tablets:** Some minor features were implemented in the UX for tablets to condense the Gallery and Bio section from three to two columns
+using the bootstrap function of `col-md-6 col-lg-4`.
 
 <h3>EXISTING FEATURE</h3>
 
