@@ -96,6 +96,34 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 ---
 
+<p>The website consists of five separate sections; Home, Gallery, Bio, Resume and Contact; that are centred between 
+a navigation bar and footer, that remain constant and similar throughout. This allows the Actress’ name and contact 
+details to always be apparent on the webpage no matter where a user is navigating through the website. This keeps to 
+the premise that with agents’ time constraints, Lisa Fairfield and her contact details will be the lasting memories 
+etched into their minds.</p>
+
+<p>It has been decided not to implement the scrolling feature for all sections to be placed on one continuous page. 
+Contrary to current trends, it was felt that with the current quantity of content available, and with the initial main 
+desire being to promote Lisa Fairfield from the outset, separate pages for sections seemed more fitting. With the focus 
+also being on imagery this may overload the webpage - especially on mobile devices. This can be reassessed again
+at a future date.</p>
+
+</p>Much of the layout of the website used the Bootstrap layout feature of containers, rows and columns; styled by css.</p>
+
+**Features of the website:**
+
+**Header:** A bold, definitive font that can always be clicked to go back to index.html
+
+**Navigation Bar:** The slick, simplistic navigation bar is initially grey for each section, turning black (and remaining black) 
+once clicked. The same feature applies for all other sections, enabling the user to reference where they are on the website. 
+Center `mx-auto` was used to centre horizontally.
+
+**Footer:** Lisa Fairfield’s email and phone number are always visible at the footer of the page. Each is initially grey, but 
+once clicked highlight black and directly open either their email or Skype accounts respectively.
+
+
+
+
 <h3>EXISTING FEATURE</h3>
 
 <br>
