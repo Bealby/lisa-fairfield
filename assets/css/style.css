@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800');
 
 /*HEADERS*/
 
@@ -48,13 +48,10 @@
 
 /*SECTIONS*/
 
-.section-menuitem p{
-    font-family: 'Playfair Display', serif;
-    font-size:18px;
-    font-weight:600;
+.section-text p{
+    font-family:'Sriracha', cursive;
+    font-size:15px;
     color:#000;
-    margin-top:70px;
-    text-align:center;
 }
 
 .contact-center-form{
@@ -68,8 +65,11 @@
     width:80%;
 }
 
+.bio-image{
+    width:80%;
+}
 .section-hero-image{
-    width:60%;
+    width:50%;
 }
 
 /*FOOTERS*/
