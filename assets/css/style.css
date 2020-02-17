@@ -62,8 +62,12 @@
     margin:0 auto;
     max-width:80%;
     padding:20px;
-
 }
+
+.gallery-image{
+    width:100%;
+}
+
 /*FOOTERS*/
 
 .footer-menuitem{
