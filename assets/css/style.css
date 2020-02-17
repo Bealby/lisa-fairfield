@@ -48,17 +48,8 @@
 
 /*SECTIONS*/
 
-.section-hero-image{
-    padding-top:35px;
-    padding-bottom:35px;
-    padding-left:10px;
-    padding-right:10px;
-}
-
-/*Gallery.html Images*/
-
-.section-gallery{
-    padding-top:35px;
+.section-images{
+    padding-top:100px;
     padding-bottom:35px;
     padding-left:10px;
     padding-right:10px;
