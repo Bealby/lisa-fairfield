@@ -65,7 +65,11 @@
 }
 
 .gallery-image{
-    width:100%;
+    width:80%;
+}
+
+.section-hero-image{
+    width:60%;
 }
 
 /*FOOTERS*/
