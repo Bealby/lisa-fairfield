@@ -18,7 +18,7 @@
 /*Header Block Dividers*/
 
 .header-block-divider{
-    width: 550px;
+    width: 95%;
     height: 1px;
     border: 0;
     background-color:#000;
@@ -57,7 +57,7 @@
 .contact-center-form{
     padding-top:20px;
     margin:0 auto;
-    max-width:80%;
+    max-width:100%;
     padding:20px;
 }
 
@@ -68,8 +68,9 @@
 .bio-image{
     width:80%;
 }
+
 .section-hero-image{
-    width:50%;
+    width:100%;
 }
 
 /*FOOTERS*/
@@ -82,10 +83,10 @@
     margin:0px;
 }
 
-@media(min-width:992px){
+@media(min-width:792px){
 .contact-center-form{
     padding-top:20px;
     margin:0 auto;
-    max-width:650%;
+    max-width:60%;
     padding:20px;}
 }
