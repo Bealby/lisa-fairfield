@@ -125,22 +125,33 @@ once clicked highlight black and directly open either their email or Skype accou
 
 - **Home:** A striking and bold a Hero-Image centred over a white background nestled between the Navbar and Footer.
 
-- **Gallery:**
+- **Gallery:** Users are presented with a collage of photos using bootstrap grid system. Each image is clickable at navigates to source of event website.
 
-- **Bio:**
+- **Bio:** A combination of photos and text explaining Lisa’s dreams and desire. Including her training credentials.
 
 - **Resume:** When the Resume is clicked another tab will be opened to display a CV in PDF format. This ensures user does not lose 
-their way on the website. This is implemented by using `target="_blank"``
+their way on the website. This is implemented by using `target="_blank"`
 
 - **Contact:** As well as the contact details in the footer a content section was also implemented with the use of `<forms>` in bootstrap. 
 This allows for a more user friendly UX in communication and helps keep a record of interest back-end developing.
 
 **Features for smaller devices**
 
-**Tablets:** Some minor features were implemented in the UX for tablets to condense the Gallery and Bio section from three to two columns
-using the bootstrap function of `col-md-6 col-lg-4`.
+**Tablets:** Some minor features were implemented in the UX for tablets to condense the Gallery and Bio section from three to two columns using the bootstrap function of `col-md-6 col-lg-4`.
 
-<h3>EXISTING FEATURE</h3>
+**Mobile:** It was important to collapse the navigation bar on mobile device but hat the same time keep the bold, distint heading. A series of block features were used remove block divider and keep main header but in smaller format using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respecively.
+To reduce the size of the forms in the Contact page the follwoing media query was used `@(min-width:992px)`. This allows for a beter UX in smaller devices.
+
+<h3>FEATURES LEFT TO IMPLEMENT</h3>
+
+<p>Below are the list of features I would like to implement in the future which have not been possible in the current website:
+
+**blog** As Lis'a career progress an added feature would be a blog page which can be updated on a regular basis
+
+**Form Database** A feature to enable tabulation of data from potential clients to create a news update list for Lisa Bealby
+
+**Voice/Show Reels** An important feature to implment when avaiulable are showreels and voicereels, which will be a crucial feature to implment.
+
 
 <br>
 
