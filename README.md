@@ -155,6 +155,31 @@ To reduce the size of the forms in the Contact page the follwoing media query wa
 
 <br>
 
+<h1>TECHNOLOGIES USED</h1>
+
+---
+
+The following technolgies were used in this project:
+
+Balsamiq Mockups 3
+HTML5
+CSS3
+Bootstrap
+Google-Fonts
+Font Awesome
+JavaScript
+W3C
+WSC-CSS
+
+<br>
+
+<h1>TESTING</h1>
+
+---
+
+
+<br>
+
 <h1>DEPLOYMENT</h1>
 
 ---
@@ -171,9 +196,9 @@ To reduce the size of the forms in the Contact page the follwoing media query wa
 
 4.	Scroll down to:
 
-- Github Pages
-- Source 
-- From drop-down menu choose master branch
+    - Github Pages
+    - Source 
+    - From drop-down menu choose master branch
 
 ![Deployment](/assets/readme/deployment-2.png/)
 				
@@ -200,4 +225,15 @@ To reduce the size of the forms in the Contact page the follwoing media query wa
 - Change current directory to local directory
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
+<br>
 
+<h1>CREDITS</h1>
+
+- **Content**
+    - The text for section Y was copied from the Wikipedia article Z
+
+- **Media**
+    - The photos used in this site were obtained from ...
+
+- **Acknowledgements**
+    - I received inspiration for this project from X
