@@ -161,17 +161,22 @@ To reduce the size of the forms in the Contact page the follwoing media query wa
 
 The following technolgies were used in this project:
 
-Balsamiq Mockups 3
-HTML5
-CSS3
-Bootstrap
-Google-Fonts
-Font Awesome
-JavaScript
-W3C
-WSC-CSS
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/)
+- [GitHub](https://github.com/)
+I used to store my repository for the project and record all my commits.I used to deploy my website.
+- [GitPod](https://gitpod.io/workspaces/)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [BOOTSTRAP](https://getbootstrap.com/)
+This was used to create the overall responsiveness of the website through the use of their flexible grid layout and style .
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [JavaScript](https://www.javascript.com/)
+- [W3C](https://validator.w3.org/)
+- [WSC](https://jigsaw.w3.org/css-validator/)
 
 <br>
+
 
 <h1>TESTING</h1>
 
