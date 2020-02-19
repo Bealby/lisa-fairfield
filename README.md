@@ -163,12 +163,11 @@ The following technolgies were used in this project:
 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/)
 - [GitHub](https://github.com/)
-I used to store my repository for the project and record all my commits.I used to deploy my website.
+    - Used to store repository and deply website
 - [GitPod](https://gitpod.io/workspaces/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [BOOTSTRAP](https://getbootstrap.com/)
-This was used to create the overall responsiveness of the website through the use of their flexible grid layout and style .
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [JavaScript](https://www.javascript.com/)
