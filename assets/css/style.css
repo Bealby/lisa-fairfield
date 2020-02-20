@@ -11,12 +11,12 @@
     margin-bottom:0px;
 }
 .header-title h2{
-    font-family: 'Calligraffitti', cursive;
-    font-size:50px;
+    font-family: 'Playfair Display', serif;
+    font-size:25px;
     color:#000;
     text-align:center;
     margin-top:0px;
-    margin-bottom:10px;
+    margin-bottom:20px;
 }
 
 .header-title a{
