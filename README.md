@@ -2,9 +2,9 @@
 
 ---
 
-The aim of this website is to promote and attract potential casting agents that are looking for roles
-in Adverts, Theatre and Film. Providing Lisa Fairfield the opportunity to catapult her career in the
-dexterous world of acting.
+The aim of this website is to promote and attract potential casting agents
+that are looking for roles in Adverts, Theatre and Film. Providing Lisa
+Fairfield the opportunity to catapult her career in the dexterous world of acting.
 
 A live version can be found [here](https://bealby.github.io/Milestone-Project-1/)
 
@@ -14,32 +14,34 @@ A live version can be found [here](https://bealby.github.io/Milestone-Project-1/
 
 ---
 
-Our client desires a website to seek out an agent, while being able to use the website on business
-cards and on email signatures. Once an agent is established the ultimate goal would be for it to
-lead to a producer.
+Our client desires a website to seek out an agent, while being able to use the website
+on business cards and on email signatures. Once an agent is established the ultimate
+goal would be for it to lead to a producer.
 
 <br>
 
 ## STRATEGY
 
-The main focus of the website is to allure and attract potential casting agents and writers
-to seek Lisa Fairfield in a broad range of roles, including adverts, theatre and films. With
-the acting market being heavily competitive, the website needs to stand out from the crowd; be
-intuitive in gaining information; while exuding professionalism.
+The main focus of the website is to allure and attract potential casting agents
+and writers to seek Lisa Fairfield in a broad range of roles, including adverts,
+theatre and films. With the acting market being heavily competitive, the website
+needs to stand out from the crowd; be intuitive in gaining information; while
+exuding professionalism.
 
-It needs to work well on mobile devices while users are on the move, as well as working on
-tablets and desktop to allow for a more comfortable viewing in the office/ home.
+It needs to work well on mobile devices while users are on the move, as well
+as working on tablets and desktop to allow for a more comfortable viewing in
+the office/ home.
 
 <br>
 
-- ”Producers and directors work under a lot of pressure. Searching for actors/ actresses will be a 
-ruthless process”
+- ”Producers and directors work under a lot of pressure. Searching for actors/
+actresses will be a ruthless process”
 
-- “Casting agents mainly seek information on: Naturalness, Personality, Professionalism, 
-Well-rounded, Training”
+- “Casting agents mainly seek information on: Naturalness, Personality,
+Professionalism, Well-rounded, Training”
 
-- “To have an online presence so that casting directors, producers and directors who are 
-interested can learn more about you.”
+- “To have an online presence so that casting directors, producers and
+directors who are interested can learn more about you.”
 
 <br>
 
@@ -49,31 +51,34 @@ interested can learn more about you.”
 
 ## SCOPE
 
-An online presence is fundamental and will be implemented. The client has provided a montage of
-photos that will be narrowed down to highlight her different personalities. A biography of reviews
-and past and present performances, along with a ‘blurb’, will be provided by my client. With Lisa
-Fairfield being at the start of her career, show reels/ voice reels are not adequate and hence feasible
-at this stage to implement. This should however change as time passes. A blog could also be a nice little feature
-to add once my client’s career has taken-off.
+An online presence is fundamental and will be implemented. The client has
+provided a montage of photos that will be narrowed down to highlight her different
+personalities. A biography of reviews and past and present performances, along with
+a ‘blurb’, will be provided by my client. With LisaFairfield being at the start of
+her career, show reels/ voice reels are not adequate and hence feasible at this
+stage to implement. This should however change as time passes. A blog could also
+be a nice little feature to add once my client’s career has taken-off.
 
-The tradeoff in not implementing all desired features mentioned, will not be at the detriment of the 
-website, as the content we can add will be suffice to kick-start Lisa Fairfield’s career.
+The tradeoff in not implementing all desired features mentioned, will not be at
+the detriment of the website, as the content we can add will be suffice to kick-start
+Lisa Fairfield’s career.
 
 <br>
 
 ## STRUCTURE
 
-The website needs to be clean and slick without too much clutter and information, which can cause
-cognitive overload. It needs to be fresh, stylistic and minimalist for the artistic audience.  At
-the same time it needs to provide enough content to promote Lisa Fairfield as an actress. A ‘hero-image’
-will be the prominent feature on the index.html page, alluring potential agents and enticing them to
-learn more. The navigation bar and footer will remain fixed through all pages. Alterations will be made
-on the navigation bars in mobile and tablets to maintain the look and feel.
+The website needs to be clean and slick without too much clutter and information,
+which can cause cognitive overload. It needs to be fresh, stylistic and minimalist
+for the artistic audience. At the same time it needs to provide enough content to
+promote Lisa Fairfield as an actress. A ‘hero-image’ will be the prominent feature
+on the index.html page, alluring potential agents and enticing them to learn more.
+The navigation bar and footer will remain fixed through all pages. Alterations will
+be madeon the navigation bars in mobile and tablets to maintain the look and feel.
 
-The navigation bar will include tabs for Home, Gallery, Bio, Resume and Contact. My client’s name
-will be centered above the navigation bar in clear standout font. The footer will include a clickable
-email and telephone number and be viewable in all pages so that an agent can click intuitively and with
-ease.
+The navigation bar will include tabs for Home, Gallery, Bio, Resume and Contact.
+My client’s name will be centered above the navigation bar in clear standout font.
+The footer will include a clickable email and telephone number and be viewable in
+all pages so that an agent can click intuitively and with ease.
 
 <br>
 
@@ -85,30 +90,30 @@ Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.c
 
 ## SURFACE
 
-It is important not to overly <i>glitz-and-glam</i> the website (as the user may believe), but to keep the
-website slick and minimal so that is easy for a potential agent to navigate. I have chosen to use a white
-color theme with grey dividers for overall structure. This will allow photos and text to stand out boldly
+It is important not to overly <i>glitz-and-glam</i> the website (as the user
+may believe), but to keep the website slick and minimal so that is easy for a
+potential agent to navigate. I have chosen to use a white color theme with grey
+dividers for overall structure. This will allow photos and text to stand out boldly
 against the white background, encouraging the desire and ease to navigate fluidly.
 
 <br>
 
-<h1>FEATURES</h1>
+# FEATURES
 
 ---
 
-<p>The website consists of five separate sections; Home, Gallery, Bio, Resume and Contact; that are centred between 
-a navigation bar and footer, that remain constant and similar throughout. This allows the Actress’ name and contact 
-details to always be apparent on the webpage no matter where a user is navigating through the website. This keeps to 
-the premise that with agents’ time constraints, Lisa Fairfield and her contact details will be the lasting memories 
-etched into their minds.</p>
+The website consists of five separate sections; Home, Gallery, Bio, Resume and
+Contact; that are centred between a navigation bar and footer that remain constant
+and similar throughout. Keeping to the premise that the name and contact details
+are always visable for potential agents.
 
-<p>It has been decided not to implement the scrolling feature for all sections to be placed on one continuous page. 
-Contrary to current trends, it was felt that with the current quantity of content available, and with the initial main 
-desire being to promote Lisa Fairfield from the outset, separate pages for sections seemed more fitting. With the focus 
-also being on imagery this may overload the webpage - especially on mobile devices. This can be reassessed again
-at a future date.</p>
+The website is divided into four separate pages rather than scrolling through one
+page. Contrary to current trends, it seemed more fitting for agents, especially
+due to the large content of imagery that could potentially overload the Webpage.
 
-</p>Much of the layout of the website used the Bootstrap layout feature of containers, rows and columns; styled by css.</p>
+Much of the layout of the website used the Bootstrap grid system of containers,
+rows and columns; styled by css. This allowed the Website to be clearly structured
+and for the content to exude its purpose.
 
 **Features of the website:**
 
