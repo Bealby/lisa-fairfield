@@ -10,7 +10,7 @@ A live version can be found [here](https://bealby.github.io/Milestone-Project-1/
 
 <br>
 
-# UX
+## UX
 
 ---
 
@@ -20,7 +20,7 @@ goal would be for it to lead to a producer.
 
 <br>
 
-## STRATEGY
+### STRATEGY
 
 The main focus of the website is to allure and attract potential casting agents
 and writers to seek Lisa Fairfield in a broad range of roles, including adverts,
@@ -49,7 +49,7 @@ directors who are interested can learn more about you.”
 
 <br>
 
-## SCOPE
+### SCOPE
 
 An online presence is fundamental and will be implemented. The client has
 provided a montage of photos that will be narrowed down to highlight her different
@@ -65,7 +65,7 @@ Lisa Fairfield’s career.
 
 <br>
 
-## STRUCTURE
+### STRUCTURE
 
 The website needs to be clean and slick without too much clutter and information,
 which can cause cognitive overload. It needs to be fresh, stylistic and minimalist
@@ -82,13 +82,13 @@ all pages so that an agent can click intuitively and with ease.
 
 <br>
 
-## SKELETON
+### SKELETON
 
 Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/wireframes.pdf)
 
 <br>
 
-## SURFACE
+### SURFACE
 
 It is important not to overly <i>glitz-and-glam</i> the website (as the user
 may believe), but to keep the website slick and minimal so that is easy for a
@@ -98,7 +98,7 @@ against the white background, encouraging the desire and ease to navigate fluidl
 
 <br>
 
-# FEATURES
+## FEATURES
 
 ---
 
@@ -115,16 +115,19 @@ Much of the layout of the website used the Bootstrap grid system of containers,
 rows and columns; styled by css. This allowed the Website to be clearly structured
 and for the content to exude its purpose.
 
-**Features of the website:**
+### FEATURES OF THE WEBSITE
 
-**Header:** A bold, definitive font that can always be clicked to go back to index.html
+**Header:** A bold, definitive font that can always be clicked to go back to
+index.html
 
-**Navigation Bar:** The slick, simplistic navigation bar is initially grey for each section, turning black (and remaining black) 
-once clicked. The same feature applies for all other sections, enabling the user to reference where they are on the website. 
-Center `mx-auto` was used to centre horizontally.
+**Navigation Bar:** The slick, simplistic navigation bar is initially grey for
+each section, turning black (and remaining black) once clicked. The same feature
+applies for all other sections, enabling the user to reference where they are on
+the Website. Center `mx-auto` was used to centre Nav Bar horizontally.
 
-**Footer:** Lisa Fairfield’s email and phone number are always visible at the footer of the page. Each is initially grey, but 
-once clicked highlight black and directly open either their email or Skype accounts respectively.
+**Footer:** Lisa Fairfield’s email and phone number are always visible at the
+footer of the page. Each is initially grey, but once clicked are highlight black
+anddirectly open either their email or Skype accounts respectively.
 
 **Sections:** 
 
