@@ -4,9 +4,11 @@
 
 The aim of this website is to promote and attract potential casting agents
 that are looking for roles in Adverts, Theatre and Film. Providing Lisa
-Fairfield the opportunity to catapult her career in the dexterous world of acting.
+Fairfield the opportunity to catapult her career in the dexterous world of
+acting.
 
-A live version can be found [here](https://bealby.github.io/Milestone-Project-1/)
+A live version can be found
+[here](https://bealby.github.io/Milestone-Project-1/)
 
 <br>
 
@@ -35,13 +37,13 @@ the office/ home.
 <br>
 
 - ”Producers and directors work under a lot of pressure. Searching for actors/
-actresses will be a ruthless process”
+   actresses will be a ruthless process”
 
 - “Casting agents mainly seek information on: Naturalness, Personality,
-Professionalism, Well-rounded, Training”
+   Professionalism, Well-rounded, Training”
 
 - “To have an online presence so that casting directors, producers and
-directors who are interested can learn more about you.”
+   directors who are interested can learn more about you.”
 
 <br>
 
@@ -129,38 +131,38 @@ the Website. Center `mx-auto` was used to centre Nav Bar horizontally.
 footer of the page. Each is initially grey, but once clicked are highlight black
 and directly link to either their email or telephone respectively.
 
-**Sections:** 
+**Sections:**
 
 - **Home:** A striking and bold Hero-Image centred over a white background, nestled
-between the Navbar and Footer.
+   between the Navbar and Footer.
 
 - **Gallery:** Users are presented with a collage of photos using the Bootstrap
-Grid System. Each image is clickable at navigates to source of event website.
+   Grid System. Each image is clickable at navigates to source of event website.
 
 - **Bio:** A combination of photos and text explaining Lisa’s dreams and desire.
-Including her training credentials.
+   Including her training credentials.
 
 - **Resume:** When the Resume is clicked another tab will be opened to display a
-CV in PDF format. This ensures user does not lose their way on the website. This
-is implemented by using `target="_blank"`
+   CV in PDF format. This ensures user does not lose their way on the website. This
+  is implemented by using `target="_blank"`
 
 - **Contact:** As well as the contact details in the footer a content section was
-also implemented with the use of `<forms>` in bootstrap. This allowes for a more
-user friendly UX in communication and helps keep a record of interest in back-end
-developing.
+  also implemented with the use of `<forms>` in bootstrap. This allowes for a more
+  user friendly UX in communication and helps keep a record of interest in back-end
+  developing.
 
 ### FEATURES FOR SMALLER DEVICES
 
 **Tablets:** Some minor features were implemented in the UX for tablets to condense
-the Gallery and Bio section from three to two columns using the bootstrap function
-of `col-md-6 col-lg-4`.
+   the Gallery and Bio section from three to two columns using the bootstrap function
+   of `col-md-6 col-lg-4`.
 
 **Mobile:** It was important to collapse the navigation bar on mobile device but
-hat the same time keep the bold, distint heading. A series of block features were
-used remove block divider and keep main header but in smaller format using
-Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respecively.
-To reduce the size of the forms in the Contact page the follwoing media query was
-used `@(min-width:992px)`. This allows for a beter UX in smaller devices.
+  hat the same time keep the bold, distint heading. A series of block features were
+  used remove block divider and keep main header but in smaller format using
+  Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respecively.
+  To reduce the size of the forms in the Contact page the follwoing media query was
+  used `@(min-width:992px)`. This allows for a beter UX in smaller devices.
 
 ### FEATURES LEFT TO IMPLEMENT
 
@@ -168,13 +170,13 @@ Below are the list of features I would like to implement in the future which hav
 been possible in the current website:
 
 **blog** As Lis'a career progress an added feature would be a blog page which can
-be updated on a regular basis
+         be updated on a regular basis
 
 **Form Database** A feature to enable tabulation of data from potential clients to
-create a news update list for Lisa Bealby
+                  create a news update list for Lisa Bealby
 
 **Voice/Show Reels** An important feature to implment when avaiulable are showreels
-and voicereels, which will be a crucial feature to implment.
+                     and voicereels, which will be a crucial feature to implment.
 
 <br>
 
@@ -226,27 +228,26 @@ The following technolgies were used in this project:
 
 ## PUBLISH GitHub REPOSITORY
 
-1. Load up GitHub at https://github.com
+1. Load up GitHub at https://github.com.
 
-2. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1
+2. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
 
-3. Click Settings
+3. Click Settings.
 
 ![Deployment](/assets/readme/deployment-1.png/)
 
 4. Scroll down to:
-
-    - Github Pages
-    - Source 
-    - From drop-down menu choose master branch
+- Github Pages
+- Source 
+- From drop-down menu choose master branch
 
 ![Deployment](/assets/readme/deployment-2.png/)
-				
+
 5. From selecting master branch the repository will be refreshed and
-published.
+   published.
 
 6. Published website will be found highlighted in green under Github Pages
-as below:
+   as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
@@ -259,7 +260,7 @@ as below:
 2. In the main page for the Repository click Clone or Downlaod as shown below.
 
 3. In the main page for the Repository click Clone or Download, then click on
-URL as shown below.
+   URL as shown below.
 
 ![Deployment](/assets/readme/deployment-4.png/)
 
