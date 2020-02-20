@@ -127,49 +127,64 @@ the Website. Center `mx-auto` was used to centre Nav Bar horizontally.
 
 **Footer:** Lisa Fairfield’s email and phone number are always visible at the
 footer of the page. Each is initially grey, but once clicked are highlight black
-anddirectly open either their email or Skype accounts respectively.
+and directly link to either their email or telephone respectively.
 
 **Sections:** 
 
-- **Home:** A striking and bold a Hero-Image centred over a white background nestled between the Navbar and Footer.
+- **Home:** A striking and bold Hero-Image centred over a white background, nestled
+between the Navbar and Footer.
 
-- **Gallery:** Users are presented with a collage of photos using bootstrap grid system. Each image is clickable at navigates to source of event website.
+- **Gallery:** Users are presented with a collage of photos using the Bootstrap
+Grid System. Each image is clickable at navigates to source of event website.
 
-- **Bio:** A combination of photos and text explaining Lisa’s dreams and desire. Including her training credentials.
+- **Bio:** A combination of photos and text explaining Lisa’s dreams and desire.
+Including her training credentials.
 
-- **Resume:** When the Resume is clicked another tab will be opened to display a CV in PDF format. This ensures user does not lose 
-their way on the website. This is implemented by using `target="_blank"`
+- **Resume:** When the Resume is clicked another tab will be opened to display a
+CV in PDF format. This ensures user does not lose their way on the website. This
+is implemented by using `target="_blank"`
 
-- **Contact:** As well as the contact details in the footer a content section was also implemented with the use of `<forms>` in bootstrap. 
-This allows for a more user friendly UX in communication and helps keep a record of interest back-end developing.
+- **Contact:** As well as the contact details in the footer a content section was
+also implemented with the use of `<forms>` in bootstrap. This allowes for a more
+user friendly UX in communication and helps keep a record of interest in back-end
+developing.
 
-<h3>FEATURE FOR SMALLER DEVICES</h3>
+### FEATURES FOR SMALLER DEVICES
 
-**Tablets:** Some minor features were implemented in the UX for tablets to condense the Gallery and Bio section from three to two columns using the bootstrap function of `col-md-6 col-lg-4`.
+**Tablets:** Some minor features were implemented in the UX for tablets to condense
+the Gallery and Bio section from three to two columns using the bootstrap function
+of `col-md-6 col-lg-4`.
 
-**Mobile:** It was important to collapse the navigation bar on mobile device but hat the same time keep the bold, distint heading. A series of block features were used remove block divider and keep main header but in smaller format using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respecively.
-To reduce the size of the forms in the Contact page the follwoing media query was used `@(min-width:992px)`. This allows for a beter UX in smaller devices.
+**Mobile:** It was important to collapse the navigation bar on mobile device but
+hat the same time keep the bold, distint heading. A series of block features were
+used remove block divider and keep main header but in smaller format using
+Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respecively.
+To reduce the size of the forms in the Contact page the follwoing media query was
+used `@(min-width:992px)`. This allows for a beter UX in smaller devices.
 
-<h3>FEATURES LEFT TO IMPLEMENT</h3>
+### FEATURES LEFT TO IMPLEMENT
 
-<p>Below are the list of features I would like to implement in the future which have not been possible in the current website:
+Below are the list of features I would like to implement in the future which have not
+been possible in the current website:
 
-**blog** As Lis'a career progress an added feature would be a blog page which can be updated on a regular basis
+**blog** As Lis'a career progress an added feature would be a blog page which can
+be updated on a regular basis
 
-**Form Database** A feature to enable tabulation of data from potential clients to create a news update list for Lisa Bealby
+**Form Database** A feature to enable tabulation of data from potential clients to
+create a news update list for Lisa Bealby
 
-**Voice/Show Reels** An important feature to implment when avaiulable are showreels and voicereels, which will be a crucial feature to implment.
-
+**Voice/Show Reels** An important feature to implment when avaiulable are showreels
+and voicereels, which will be a crucial feature to implment.
 
 <br>
 
-<h1>TECHNOLOGIES USED</h1>
+## TECHNOLOGIES USED
 
 ---
 
 The following technolgies were used in this project:
 
-- [Balsamiq Wireframes](`https://balsamiq.com/wireframes/desktop/`)
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/)
     - Allowed preliminary designs to be drawn up of Website
 - [GitHub](`https://github.com/`)
     - Used to store repository and deploy website
@@ -180,13 +195,17 @@ The following technolgies were used in this project:
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     - Used to style HTML elements
 - [BOOTSTRAP](https://getbootstrap.com/)
-    - A famework for building responsive Websites where the powerful Grid system was used along with styling
+    - A famework for building responsive Websites where the powerful Grid
+    system was used along with styling
 - [Google Fonts](https://fonts.google.com/)
-    - Programme used to import main fonts in Website: **Playfair Display** and **Calligraffitti**
+    - Programme used to import main fonts in Website: **Playfair Display**
+    and **Calligraffitti**
 - [Font Awesome](https://fontawesome.com/)
-    - Programme used to import icons for Footer in Website: **far-envelope** and **fas fa-phone**
+    - Programme used to import icons for Footer in Website: **far-envelope**
+    and **fas fa-phone**
 - [JavaScript](https://www.javascript.com/)
-    - Used in collabration with Bootstrap to collaspe Navigation Bar for small devices
+    - Used in collabration with Bootstrap to collaspe Navigation Bar for
+    small devices
 - [W3C](https://validator.w3.org/)
     - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/)
@@ -194,19 +213,18 @@ The following technolgies were used in this project:
 
 <br>
 
-
-<h1>TESTING</h1>
+## TESTING
 
 ---
 
 
 <br>
 
-<h1>DEPLOYMENT</h1>
+## DEPLOYMENT
 
 ---
 
-<h3>PUBLISH GitHub REPOSITORY</h3>
+## PUBLISH GitHub REPOSITORY
 
 1.	Load up GitHub at https://github.com
 
@@ -224,21 +242,24 @@ The following technolgies were used in this project:
 
 ![Deployment](/assets/readme/deployment-2.png/)
 				
-5.	From selecting master branch the repository will be refreshed and published.
+5.	From selecting master branch the repository will be refreshed and
+published.
 
-6.	Published website will be found highlighted in green under Github Pages as below:
+6.	Published website will be found highlighted in green under Github Pages
+as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
 <br>
 
-<h3>CLONE GitHub REPOSITORY</h3>
+### CLONE GitHub REPOSITORY
 
 1.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
 
 2.	In the main page for the Repository click Clone or Downlaod as shown below.
 
-3.	In the main page for the Repository click Clone or Download, then click on URL as shown below.
+3.	In the main page for the Repository click Clone or Download, then click on
+URL as shown below.
 
 ![Deployment](/assets/readme/deployment-4.png/)
 
@@ -249,7 +270,7 @@ The following technolgies were used in this project:
 
 <br>
 
-<h1>CREDITS</h1>
+## CREDITS
 
 - **Content**
     - The text for section Y was copied from the Wikipedia article Z
