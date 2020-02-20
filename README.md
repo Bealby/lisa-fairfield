@@ -168,7 +168,7 @@ The following technolgies were used in this project:
 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/)
   - Allowed preliminary designs to be drawn up of Website
-- [GitHub](`https://github.com/`)
+- [GitHub](https://github.com/)
   - Used to store repository and deploy website
 - [GitPod](https://gitpod.io/workspaces/)
   - A platform used for hard coding of Website
@@ -203,32 +203,31 @@ The following technolgies were used in this project:
 
 ## PUBLISH GitHub REPOSITORY
 
-1. Load up GitHub at <https://github.com>.
+1. Load up GitHub at <https://github.com>
 
-2. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>.
+2. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
 
-3. Click Settings.
+3. Click Settings
 
-![Deployment](/assets/readme/deployment-1.png/)
+4. ![Deployment](/assets/readme/deployment-1.png/)
 
-4. Scroll down to:
-- Github Pages
-- Source
-- From drop-down menu choose master branch
+5. Scroll down to:
+  - Github Pages
+  - Source
+  - From drop-down menu choose master branch
 
-![Deployment](/assets/readme/deployment-2.png/)
+6. ![Deployment](/assets/readme/deployment-2.png/)
 
-5. From selecting master branch the repository will be refreshed and
+7. From selecting master branch the repository will be refreshed and
    published.
-
-6. Published website will be found highlighted in green under Github Pages
+8. Published website will be found highlighted in green under Github Pages
    as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
-### CLONE GitHub REPOSITORY
+## CLONE GitHub REPOSITORY
 
-1. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>
+1. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>.
 
 2. In the main page for the Repository click Clone or Downlaod as shown below.
 
@@ -244,10 +243,10 @@ The following technolgies were used in this project:
 ## CREDITS
 
 - **Content**
-   - The text for section Y was copied from the Wikipedia article Z
+  - The text for section Y was copied from the Wikipedia article Z
 
 - **Media**
-   - The photos used in this site were obtained from ...
+  - The photos used in this site were obtained from ...
 
 - **Acknowledgements**
-   - I received inspiration for this project from X
+  - I received inspiration for this project from X
