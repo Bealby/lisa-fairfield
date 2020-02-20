@@ -204,7 +204,7 @@ The following technolgies were used in this project:
 
 ---
 
-## PUBLISH GitHub REPOSITORY
+### PUBLISH GitHub REPOSITORY
 
 1. Load up GitHub at <https://github.com>
 
@@ -228,7 +228,7 @@ The following technolgies were used in this project:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
-## CLONE GitHub REPOSITORY
+### CLONE GitHub REPOSITORY
 
 1. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>.
 
