@@ -193,6 +193,9 @@ The following technolgies were used in this project:
 - [WSC](https://jigsaw.w3.org/css-validator/)
   - Used to validate CSS code
 
+  Popper
+  Jquery
+
 ## TESTING
 
 ---
