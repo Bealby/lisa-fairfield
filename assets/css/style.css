@@ -68,7 +68,7 @@
 /*SECTIONS*/
 
 .section-text p{
-    font-family:'Sriracha', cursive;
+    font-family:'Playfair Display', serif;
     font-size:15px;
     color:#000;
 }
@@ -85,7 +85,7 @@
 }
 
 .bio-image{
-    width:80%;
+    width:60%;
 }
 
 .section-hero-image{
