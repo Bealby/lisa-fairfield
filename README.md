@@ -10,8 +10,6 @@ acting.
 A live version can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
 
-<br>
-
 ## UX
 
 ---
@@ -19,8 +17,6 @@ A live version can be found
 Our client desires a website to seek out an agent, while being able to use the website
 on business cards and on email signatures. Once an agent is established the ultimate
 goal would be for it to lead to a producer.
-
-<br>
 
 ### STRATEGY
 
@@ -34,8 +30,6 @@ It needs to work well on mobile devices while users are on the move, as well
 as working on tablets and desktop to allow for a more comfortable viewing in
 the office/ home.
 
-<br>
-
 - ”Producers and directors work under a lot of pressure. Searching for actors/
    actresses will be a ruthless process”
 
@@ -45,11 +39,7 @@ the office/ home.
 - “To have an online presence so that casting directors, producers and
    directors who are interested can learn more about you.”
 
-<br>
-
 ... ![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
-
-<br>
 
 ### SCOPE
 
@@ -64,8 +54,6 @@ be a nice little feature to add once my client’s career has taken-off.
 The tradeoff in not implementing all desired features mentioned, will not be at
 the detriment of the website, as the content we can add will be suffice to kick-start
 Lisa Fairfield’s career.
-
-<br>
 
 ### STRUCTURE
 
@@ -82,23 +70,17 @@ My client’s name will be centered above the navigation bar in clear standout f
 The footer will include a clickable email and telephone number and be viewable in
 all pages so that an agent can click intuitively and with ease.
 
-<br>
-
 ### SKELETON
 
 Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/wireframes.pdf)
 
-<br>
-
 ### SURFACE
 
-It is important not to overly <i>glitz-and-glam</i> the website (as the user
+It is important not to overly glitz-and-glam the website (as the user
 may believe), but to keep the website slick and minimal so that is easy for a
 potential agent to navigate. I have chosen to use a white color theme with grey
 dividers for overall structure. This will allow photos and text to stand out boldly
 against the white background, encouraging the desire and ease to navigate fluidly.
-
-<br>
 
 ## FEATURES
 
@@ -166,8 +148,8 @@ and directly link to either their email or telephone respectively.
 
 ### FEATURES LEFT TO IMPLEMENT
 
-Below are the list of features I would like to implement in the future which have not
-been possible in the current website:
+Below are the list of features I would like to implement in the future which have
+not been possible in the current website:
 
 **blog** As Lis'a career progress an added feature would be a blog page which can
          be updated on a regular basis
@@ -178,8 +160,6 @@ been possible in the current website:
 **Voice/Show Reels** An important feature to implment when avaiulable are showreels
                      and voicereels, which will be a crucial feature to implment.
 
-<br>
-
 ## TECHNOLOGIES USED
 
 ---
@@ -187,40 +167,35 @@ been possible in the current website:
 The following technolgies were used in this project:
 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/)
-    - Allowed preliminary designs to be drawn up of Website
+   - Allowed preliminary designs to be drawn up of Website
 - [GitHub](`https://github.com/`)
-    - Used to store repository and deploy website
+   - Used to store repository and deploy website
 - [GitPod](https://gitpod.io/workspaces/)
-    - A platform used for hard coding of Website
+   - A platform used for hard coding of Website
 - [HTML](https://en.wikipedia.org/wiki/HTML)
-    - Markup language of Website
+   - Markup language of Website
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-    - Used to style HTML elements
+   - Used to style HTML elements
 - [BOOTSTRAP](https://getbootstrap.com/)
-    - A famework for building responsive Websites where the powerful Grid
+   - A famework for building responsive Websites where the powerful Grid
     system was used along with styling
 - [Google Fonts](https://fonts.google.com/)
-    - Programme used to import main fonts in Website: **Playfair Display**
+   - Programme used to import main fonts in Website: **Playfair Display**
     and **Calligraffitti**
 - [Font Awesome](https://fontawesome.com/)
-    - Programme used to import icons for Footer in Website: **far-envelope**
+   - Programme used to import icons for Footer in Website: **far-envelope**
     and **fas fa-phone**
 - [JavaScript](https://www.javascript.com/)
-    - Used in collabration with Bootstrap to collaspe Navigation Bar for
+   - Used in collabration with Bootstrap to collaspe Navigation Bar for
     small devices
 - [W3C](https://validator.w3.org/)
-    - Used to validate HTML code
+   - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/)
-    - Used to validate CSS code
-
-<br>
+   - Used to validate CSS code
 
 ## TESTING
 
 ---
-
-
-<br>
 
 ## DEPLOYMENT
 
@@ -228,10 +203,8 @@ The following technolgies were used in this project:
 
 ## PUBLISH GitHub REPOSITORY
 
-1. Load up GitHub at https://github.com.
-
-2. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
-
+1. Load up GitHub at <https://github.com>
+2. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
 3. Click Settings.
 
 ![Deployment](/assets/readme/deployment-1.png/)
@@ -251,11 +224,9 @@ The following technolgies were used in this project:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
-<br>
-
 ### CLONE GitHub REPOSITORY
 
-1. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
+1. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>
 
 2. In the main page for the Repository click Clone or Downlaod as shown below.
 
@@ -269,15 +240,13 @@ The following technolgies were used in this project:
 - Change current directory to local directory
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
-<br>
-
 ## CREDITS
 
 - **Content**
-    - The text for section Y was copied from the Wikipedia article Z
+   - The text for section Y was copied from the Wikipedia article Z
 
 - **Media**
-    - The photos used in this site were obtained from ...
+   - The photos used in this site were obtained from ...
 
 - **Acknowledgements**
-    - I received inspiration for this project from X
+   - I received inspiration for this project from X
