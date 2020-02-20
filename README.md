@@ -226,15 +226,15 @@ The following technolgies were used in this project:
 
 ## PUBLISH GitHub REPOSITORY
 
-1.	Load up GitHub at https://github.com
+1. Load up GitHub at https://github.com
 
-2.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1
+2. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1
 
-3.	Click Settings
+3. Click Settings
 
 ![Deployment](/assets/readme/deployment-1.png/)
 
-4.	Scroll down to:
+4. Scroll down to:
 
     - Github Pages
     - Source 
@@ -242,10 +242,10 @@ The following technolgies were used in this project:
 
 ![Deployment](/assets/readme/deployment-2.png/)
 				
-5.	From selecting master branch the repository will be refreshed and
+5. From selecting master branch the repository will be refreshed and
 published.
 
-6.	Published website will be found highlighted in green under Github Pages
+6. Published website will be found highlighted in green under Github Pages
 as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
@@ -254,16 +254,16 @@ as below:
 
 ### CLONE GitHub REPOSITORY
 
-1.	Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
+1. Navigate to the repository titled https://github.com/Bealby/Milestone-Project-1.
 
-2.	In the main page for the Repository click Clone or Downlaod as shown below.
+2. In the main page for the Repository click Clone or Downlaod as shown below.
 
-3.	In the main page for the Repository click Clone or Download, then click on
+3. In the main page for the Repository click Clone or Download, then click on
 URL as shown below.
 
 ![Deployment](/assets/readme/deployment-4.png/)
 
-4.	Open in Terminal**
+4. Open in Terminal**
 
 - Change current directory to local directory
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
