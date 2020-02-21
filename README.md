@@ -39,7 +39,7 @@ the office/ home.
 - “To have an online presence so that casting directors, producers and
    directors who are interested can learn more about you.”
 
-... ![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
+![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
 
 ### SCOPE
 
@@ -151,14 +151,15 @@ and directly link to either their email or telephone respectively.
 Below are a list of features I would like to implement in the future which have
 not been possible due to the limited content available:
 
-**Blog:** As Lisa's career progresses an added feature would be a blog page which can
-         be updated on a regular basis
+**Blog:** As Lisa's career progresses an added feature would be a blog page
+which can be updated on a regular basis
 
-**Form Database:** A feature to enable tabulation of data from potential clients to
-                  create a news update list for Lisa Bealby
+**Form Database:** A feature to enable tabulation of data from potential
+clients to create a news update list for Lisa Bealby
 
-**Voice/Show Reels:** An important feature to implement when available are showreels
-                     and voicereels, which will be a crucial featurein promoting my client
+**Voice/Show Reels:** An important feature to implement when available
+are showreels and voicereels, which will be a crucial featurein
+promoting my client
 
 ## TECHNOLOGIES USED
 
@@ -167,25 +168,27 @@ not been possible due to the limited content available:
 The following technolgies were used in this project:
 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/) - Allowed
-preliminary designs to be drawn up of Website
+   preliminary designs to be drawn up of Website
 - [GitHub](https://github.com/) - Used to store repository and deploy website
 - [GitPod](https://gitpod.io/workspaces/) - A platform used for hard coding
-of Website
+   of Website
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Markup language of Website
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used to style
-HTML elements
+   HTML elements
 - [BOOTSTRAP](https://getbootstrap.com/) - A famework for building responsive
-Websites where the powerful Grid system was used along with styling
+   Websites where the powerful Grid system was used along with styling
 - [Google Fonts](https://fonts.google.com/) - Programme used to import main
-fonts in Website: **Playfair Display** and **Calligraffitti**
+   fonts in Website: **Playfair Display** and **Calligraffitti**
 - [Font Awesome](https://fontawesome.com/) - Programme used to import icons
-for Footer in Website: **far-envelope** and **fas fa-phone**
+   for Footer in Website: **far-envelope** and **fas fa-phone**
 - [JavaScript](https://www.javascript.com/) - Used in collabration with
-Bootstrap to collaspe Navigation Bar for small devices
+   Bootstrap to collaspe Navigation Bar for small devices
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
 - Popper
 - Jquery
+- Lint
+- Lighthouse Audit
 
 ## TESTING
 
@@ -197,40 +200,42 @@ Bootstrap to collaspe Navigation Bar for small devices
 
 ### PUBLISH GitHub REPOSITORY
 
-1. Load up GitHub at <https://github.com>
+1.Load up GitHub at <https://github.com>
 
-2. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
+2.Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
 
-3. Click Settings
+3.Click Settings
 
-4. ![Deployment](/assets/readme/deployment-1.png/)
+4.![Deployment](/assets/readme/deployment-1.png/)
 
-5. Scroll down to:
-  - Github Pages
-  - Source
-  - From drop-down menu choose master branch
+5.Scroll down to:
 
-6. ![Deployment](/assets/readme/deployment-2.png/)
+- Github Pages
+- Source
+- From drop-down menu choose master branch
 
-7. From selecting master branch the repository will be refreshed and
+6.![Deployment](/assets/readme/deployment-2.png/)
+
+7.From selecting master branch the repository will be refreshed and
    published.
-8. Published website will be found highlighted in green under Github Pages
+8.Published website will be found highlighted in green under Github Pages
    as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
 ### CLONE GitHub REPOSITORY
 
-1. Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>.
+1.Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>.
 
-2. In the main page for the Repository click Clone or Downlaod as shown below.
+2.In the main page for the Repository click Clone or Downlaod as shown below.
 
-3. In the main page for the Repository click Clone or Download, then click on
+3.In the main page for the Repository click Clone or Download, then click on
    URL as shown below.
 
 ![Deployment](/assets/readme/deployment-4.png/)
 
-4. Open in Terminal
+4.Open in Terminal
+
 - Change current directory to local directory
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
