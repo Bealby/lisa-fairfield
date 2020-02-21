@@ -72,7 +72,7 @@ all pages so that an agent can click intuitively and with ease.
 
 ### SKELETON
 
-Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/wireframes.pdf)
+Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/lisa-fairfield-wireframes.pdf)
 
 ### SURFACE
 
