@@ -95,10 +95,10 @@
 /*FOOTERS*/
 
 .footer-menuitem{
-    font-family: inherit;
-    font-size:18px;
+    font-family: 'Playfair Display', serif;
+    font-size:25px;
     font-weight:600;
-    color:#000;
+    color:blue;
     margin:0px;
 }
 
