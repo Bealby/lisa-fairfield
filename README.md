@@ -234,13 +234,25 @@ The following technolgies were used in this project:
     fonts are currently all working on the Website.
 
 [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
-    feature in Chrome Developing Tools - Lighthouse Audit - was carried out
-    mobile and desktop to assess **Performacne**, **Accesibility** and **UX**. 
+    feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
+    Mobile and Desktop to assess **Performacne**, **Accesibility** and **UX**. 
 
 - **Mobile:** An average of 96% was recieved in total. No major changes
     to implement but potential for some further tweaks at a later date.
 - **Desktop:** An average of 93% was recieved in total.
     **Search Engine Optimisation** scored the lowest and would need further anaylsis to improve
+
+###NON-AUTOMATED TESTING
+
+
+
+**Browesers**
+
+**Overall User Experience** Explain how meets needs???
+
+
+###BUGS
+
 
 ## DEPLOYMENT
 
