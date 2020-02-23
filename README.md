@@ -218,7 +218,7 @@ The following technolgies were used in this project:
 
 ---
 
-###AUTOMATED TESTING
+### AUTOMATED TESTING
 
 [W3C](https://validator.w3.org/) - All HTML files with their data were directly
     inputted in the Mark-Up Validation Service. The results produced one error:-
@@ -242,16 +242,24 @@ The following technolgies were used in this project:
 - **Desktop:** An average of 93% was recieved in total.
     **Search Engine Optimisation** scored the lowest and would need further anaylsis to improve
 
-###NON-AUTOMATED TESTING
+### NON-AUTOMATED TESTING
 
+Write of test manually through website
 
+**Contact**
 
 **Browesers**
 
 **Overall User Experience** Explain how meets needs???
 
 
-###BUGS
+### BUGS
+
+**Fixed**
+
+**Not Fixed**
+
+
 
 
 ## DEPLOYMENT
