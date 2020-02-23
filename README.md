@@ -207,10 +207,9 @@ The following technolgies were used in this project:
    Bootstrap to collaspe Navigation Bar for small devices
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
-- Popper
-- Jquery
-- Lint
-- Lighthouse Audit
+- [jQuery](https://jquery.com/) - Used to implement Navigation Collaspe feature
+- [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation checks on README.md content
+- [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - Helped tp improving the quality of Website.
 
 ## TESTING
 
