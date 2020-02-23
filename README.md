@@ -3,9 +3,9 @@
 ---
 
 The aim of this website is to promote and attract potential casting agents
-that are looking for roles in Adverts, Theatre and Film. Providing Lisa
-Fairfield the opportunity to catapult her career in the dexterous world of
-acting.
+that are looking for roles in Advertising, Theatre and Film. to give Lisa
+Fairfield the opportunity to launch her career in the competitive,
+challenging world of acting.
 
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
@@ -14,21 +14,24 @@ A live version of Website can be found
 
 ---
 
-Our client desires a website to seek out an agent, while being able to use the website
-on business cards and on email signatures. Once an agent is established the ultimate
-goal would be for it to lead to a producer.
+Our client desires a website to seek out agents or key contacts, while being 
+able to use the Website on business cards and on email signatures. Ultimately
+these agents or key contacts in the acting world will lead onto bigger and
+greater opportunities with producers and directors. 
 
 ### STRATEGY
 
-The main focus of the website is to allure and attract potential casting agents
-and writers to seek Lisa Fairfield in a broad range of roles, including adverts,
-theatre and films. With the acting market being heavily competitive, the website
-needs to stand out from the crowd; be intuitive in gaining information; while
-exuding professionalism.
+The main focus of the website is to allure and attract these agents and key
+contacts who can open up new doors in a broad range of roles, including
+advertising, theatre and films. With the acting market being heavily
+competitive, the website needs to stand out from the crowd; be intuitive
+in gaining information; while exuding professionalism.
 
-It needs to work well on mobile devices while users are on the move, as well
-as working on tablets and desktop to allow for a more comfortable viewing in
-the office/ home.
+It needs to come across well on mobile devices while users are on the move,
+as well as being highly afective on tablets and desktop to allow for a more
+comfortable viewing in the office/ home.
+
+Some snippets of user feeback can be find below: 
 
 - ”Producers and directors work under a lot of pressure. Searching for actors/
    actresses will be a ruthless process”
@@ -38,6 +41,8 @@ the office/ home.
 
 - “To have an online presence so that casting directors, producers and
    directors who are interested can learn more about you.”
+
+A graph below illustrates features to implement, valued with importance against viability:
 
 ![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
 
