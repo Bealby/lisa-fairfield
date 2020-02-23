@@ -74,10 +74,9 @@
 }
 
 .contact-center-form{
-    padding-top:20px;
     margin:0 auto;
-    max-width:100%;
-    padding:20px;
+    max-width:90%;
+    padding:0px;
 }
 
 .gallery-image{
@@ -89,7 +88,7 @@
 }
 
 .section-hero-image{
-    width:80%;
+    width:100%;
 }
 
 /*FOOTERS*/
@@ -104,8 +103,12 @@
 
 @media(min-width:792px){
 .contact-center-form{
-    padding-top:20px;
     margin:0 auto;
-    max-width:60%;
+    max-width:100%;
     padding:20px;}
+}
+
+@media(min-width:792px){
+.section-hero-image{
+    width:80%;
 }
