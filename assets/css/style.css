@@ -91,6 +91,10 @@
     width:100%;
 }
 
+.bio-image-1-top-margin{
+    margin-top:50px;
+}
+
 /*FOOTERS*/
 
 .footer-menuitem{
@@ -116,4 +120,9 @@
 @media(min-width:510px){
 .bio-image{
     width:70%;
+}
+
+@media(min-width:992px){
+.bio-image-1-top-margin{
+    margin-top:50px;
 }
