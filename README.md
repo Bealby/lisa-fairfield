@@ -98,9 +98,12 @@ Contact; that are centred between a navigation bar and footer that remain consta
 and similar throughout. Keeping to the premise that the name and contact details
 are always visable for potential agents.
 
-The website is divided into four separate pages rather than scrolling through one
-page. Contrary to current trends, it seemed more fitting for agents, especially
-due to the large content of imagery that could potentially overload the Webpage.
+The website is divided into four separate pages that can be clicked
+accordingly. It was decided against having too much content on one single page
+as the user could be found scrolling endlessely thorugh images and their smaller
+devices. It also helps keep to the concise, simplistic selling goal of the Website.
+That requires only ever one click to get in contact with Lisa Fairfield.  
+
 
 Much of the layout of the website used the Bootstrap grid system of containers,
 rows and columns; styled by css. This allowed the Website to be clearly structured
@@ -128,7 +131,7 @@ and directly link to either their email or telephone respectively.
 - **Gallery:** Users are presented with a collage of photos using the Bootstrap
    Grid System.
 
-- **Bio:** A combination of photos and text explaining Lisa’s dreams and desire.
+- **Bio:** A combination of photos and text explaining Lisa’s dreams and desires.
    Including a link to a reference which opens up in a separate page.
 
 - **Resume:** When the Resume is clicked another tab will be opened to display a
@@ -136,7 +139,7 @@ and directly link to either their email or telephone respectively.
   is implemented by using `target="_blank"`
 
 - **Contact:** As well as the contact details in the footer a content section was
-  also implemented with the use of `<forms>` in bootstrap. This allowes for a more
+  also implemented with the use of `<forms>` in Bootstrap. This allowes for a more
   user friendly UX in communication and helps keep a record of interest in back-end
   developing.
 
@@ -150,23 +153,35 @@ and directly link to either their email or telephone respectively.
   at the same time keep the bold, distint heading. A series of block features were
   used to remove a block divider and keep main header but in a smaller format using
   Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
-  To reduce the size of the forms in the Contact page the a media query was
+  To reduce the size of the forms in the Contact page a media query was
   used `@(min-width:992px)`. This allowed for a beter UX in smaller devices.
 
 ### FEATURES LEFT TO IMPLEMENT
 
-Below are a list of features I would like to implement in the future which have
-not been possible due to the limited content available:
+Below are a list of features I feel would be beneficial to add to the Website at a
+later date when more data/ information can be provided:
 
-**Blog:** As Lisa's career progresses an added feature would be a blog page
-which can be updated on a regular basis
+**Blog:**  As Lisa Fairfield career progresses and added feature could be a
+blog page which can be updated on a regular basis. This could also include
+a calendar of productions in which Lisa Fairfield is taking part. Along with
+a comment section for punters/professional fellow actors to express their
+views/comments on Lisa Fairfield’s performances.
 
-**Form Database:** A feature to enable tabulation of data from potential
-clients to create a news update list for Lisa Bealby
+**statistics** Add a feature to enable tabulation of data from potential
+clients, as well as statistics of people viewing her site and what they look at.
 
-**Voice/Show Reels:** An important feature to implement when available
-are showreels and voicereels, which will be a crucial featurein
-promoting my client
+**Voice/Show Reels:** An important feature to implement when they become
+available are showreels and voicereels, which will be a crucial feature
+in promoting Lisa Fairfield.
+
+**Search Function** A search funciton where you can speculatively look for
+performances in which Lisa Fairfield took part.
+
+**Fans/Mechandise** Develop a “Fans of Lisa Fairfield” page where people
+could join/register and buy “Lisa Fairfield” branded goods eg signed photos.
+
+**Booking** A page for punters to book tickets for shows she is in without
+having to go to the venue website.
 
 ## TECHNOLOGIES USED
 
