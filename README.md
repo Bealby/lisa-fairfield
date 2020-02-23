@@ -14,10 +14,10 @@ A live version of Website can be found
 
 ---
 
-Our client desires a website to seek out agents or key contacts, while being 
+Our client desires a website to seek out agents or key contacts, while being
 able to use the Website on business cards and on email signatures. Ultimately
 these agents or key contacts in the acting world will lead onto bigger and
-greater opportunities with producers and directors. 
+greater opportunities with producers and directors.
 
 ### STRATEGY
 
@@ -31,7 +31,7 @@ It needs to come across well on mobile devices while users are on the move,
 as well as being highly afective on tablets and desktop to allow for a more
 comfortable viewing in the office/ home.
 
-Some snippets of user feeback can be find below: 
+Some snippets of user feeback can be find below:
 
 - ”Producers and directors work under a lot of pressure. Searching for actors/
    actresses will be a ruthless process”
@@ -58,9 +58,9 @@ A blog and further references would also be a good addition to the Website, and
 can be addressed at a later date when Lisa Fairfield's career is at the next
 level.
 
-
-The tradeoff in not implementing all desired features mentioned at launch, will not be
-detrimental to the website, and the Website can be continually refreshed as time passes.
+The tradeoff in not implementing all desired features mentioned at launch,
+will not be detrimental to the website, and the Website can be continually
+refreshed as time passes.
 
 ### STRUCTURE
 
@@ -102,8 +102,7 @@ The website is divided into four separate pages that can be clicked
 accordingly. It was decided against having too much content on one single page
 as the user could be found scrolling endlessely thorugh images and their smaller
 devices. It also helps keep to the concise, simplistic selling goal of the Website.
-That requires only ever one click to get in contact with Lisa Fairfield.  
-
+That requires only ever one click to get in contact with Lisa Fairfield.
 
 Much of the layout of the website used the Bootstrap grid system of containers,
 rows and columns; styled by css. This allowed the Website to be clearly structured
@@ -158,8 +157,8 @@ and directly link to either their email or telephone respectively.
 
 ### FEATURES LEFT TO IMPLEMENT
 
-Below are a list of features I feel would be beneficial to add to the Website at a
-later date when more data/ information can be provided:
+Below are a list of features I feel would be beneficial to add to the Website
+at a later date when more data/ information can be provided:
 
 **Blog:**  As Lisa Fairfield career progresses and added feature could be a
 blog page which can be updated on a regular basis. This could also include
@@ -208,8 +207,10 @@ The following technolgies were used in this project:
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
 - [jQuery](https://jquery.com/) - Used to implement Navigation Collaspe feature
-- [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation checks on README.md content
-- [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - Helped tp improving the quality of Website.
+- [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation
+    checks on README.md content
+- [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
+    Helped tp improving the quality of Website.
 
 ## TESTING
 
