@@ -210,11 +210,37 @@ The following technolgies were used in this project:
 - [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation
     checks on README.md content
 - [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
-    Helped tp improving the quality of Website.
+    Helped tp improving the quality of Website
+- [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful 
+    developing tool in Chrome to edit pages and diagnose problems
 
 ## TESTING
 
 ---
+
+###AUTOMATED TESTING
+
+[W3C](https://validator.w3.org/) - All HTML files with their data were directly
+    inputted in the Mark-Up Validation Service. The results produced one error:-
+    `Warning: Section lacks heading. Consider using h2-h6 elements to add
+    identifying headings to all sections.` This warning is not a show-stopper
+    but it should be considered to use a `<main>` element in combination with an
+    `<article>` element in future projects.
+
+[WSC](https://jigsaw.w3.org/css-validator/) - CSS data was directly inputted in
+    the CSS Validation Service. The results produced one error:- `Imported style
+    sheets are not checked in direct input and file upload modes`. Which
+    concludes that the `@import url` fonts will not be checked. The variety of
+    fonts are currently all working on the Website.
+
+[Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
+    feature in Chrome Developing Tools - Lighthouse Audit - was carried out
+    mobile and desktop to assess **Performacne**, **Accesibility** and **UX**. 
+
+- **Mobile:** An average of 96% was recieved in total. No major changes
+    to implement but potential for some further tweaks at a later date.
+- **Desktop:** An average of 93% was recieved in total.
+    **Search Engine Optimisation** scored the lowest and would need further anaylsis to improve
 
 ## DEPLOYMENT
 
