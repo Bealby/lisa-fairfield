@@ -48,17 +48,19 @@ A graph below illustrates features to implement, valued with importance against 
 
 ### SCOPE
 
-An online presence is fundamental and will be implemented. The client has
-provided a montage of photos that will be narrowed down to highlight her different
-personalities. A biography of reviews and past and present performances, along with
-a ‘blurb’, will be provided by my client. With LisaFairfield being at the start of
-her career, show reels/ voice reels are not adequate and hence feasible at this
-stage to implement. This should however change as time passes. A blog could also
-be a nice little feature to add once my client’s career has taken-off.
+To meet the clients objectives fo the Website an online presence is fundamental
+and will be implemented. The client has provided a montage of photos that will
+be narrowed down to highlight her different personalities and potentual. A
+biography of past and present performances, along with an introduction to
+Lisa Fairfield, will be provided by my client. Show reels/ voice reels are
+currently in the making and are not ready for the initual launch of the Website.
+A blog and further references would also be a good addition to the Website, and
+can be addressed at a later date when Lisa Fairfield's career is at the next
+level.
 
-The tradeoff in not implementing all desired features mentioned, will not be at
-the detriment of the website, as the content we can add will be suffice to kick-start
-Lisa Fairfield’s career.
+
+The tradeoff in not implementing all desired features mentioned at launch, will not be
+detrimental to the website, and the Website can be continually refreshed as time passes.
 
 ### STRUCTURE
 
