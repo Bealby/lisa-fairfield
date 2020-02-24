@@ -7,6 +7,10 @@ that are looking for roles in Advertising, Theatre and Film. to give Lisa
 Fairfield the opportunity to launch her career in the competitive,
 challenging world of acting.
 
+## DEMO
+
+![Mockup Generator](/assets/readme/mockup-generator.png/)
+
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
 
@@ -45,7 +49,7 @@ Some snippets of user feeback can be find below:
 A graph below illustrates features to implement, valued with importance against
 viability:
 
-![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
+![viabilty-importance-graph](/assets/readme/viability-importance.png/)
 
 ### SCOPE
 
@@ -221,6 +225,8 @@ The following technolgies were used in this project:
     Helped tp improving the quality of Website
 - [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful 
     developing tool in Chrome to edit pages and diagnose problems
+- [Responsive Design](http://ami.responsivedesign.is/) - Free software
+    to generate Mockup of Website on different devices
 
 ## TESTING
 
