@@ -8,6 +8,7 @@ Fairfield the opportunity to launch her career in the competitive,
 challenging world of acting.
 
 ## DEMO
+---
 
 ![Mockup Generator](/assets/readme/mockup-generator.png/)
 
