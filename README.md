@@ -42,7 +42,8 @@ Some snippets of user feeback can be find below:
 - “To have an online presence so that casting directors, producers and
    directors who are interested can learn more about you.”
 
-A graph below illustrates features to implement, valued with importance against viability:
+A graph below illustrates features to implement, valued with importance against
+viability:
 
 ![viabilty-importance-graph](/assets/readme/viability-importance.png/)</div>
 
@@ -237,16 +238,16 @@ The following technolgies were used in this project:
     feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
     Mobile and Desktop to assess **Performacne**, **Accesibility** and **UX**. 
 
-- **Mobile:** An average of 96% was recieved in total. No major changes
+- **Mobile:** An overall average of 96% was recieved. No major changes
     to implement but potential for some further tweaks at a later date.
-- **Desktop:** An average of 93% was recieved in total.
+- **Desktop:** An overall average of 93% was recieved.
     **Search Engine Optimisation** scored the lowest and would need further anaylsis to improve
 
 ### NON-AUTOMATED TESTING
 
 Write of test manually through website
 
-**Contact**
+**Navigation Bar Links**
 
 **Browesers**
 
