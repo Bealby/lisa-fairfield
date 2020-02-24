@@ -270,9 +270,9 @@ The following technolgies were used in this project:
   error message should appear and data fields become blank
 
 **Footer**
-- Ensure that on each navigation link the footer links work for
-  Telephone and Email. Opening up Email and Calling features on
-  devices accordingly.
+- Ensure that on each Web Page the footer links work for
+  Telephone and Email (Opening up Email and Calling features on
+  devices accordingly).
 
 **Browesers**
 - Chrome: ?
@@ -280,12 +280,19 @@ The following technolgies were used in this project:
 - Internet Explorer: ?
 - Safari: ?
 
-**Overall User Experience**
+**Bio Refernce**
+- Click on `Bio`and ensure link to reference opens up in a new window.
 
-
-
+**User Experience**
+- Overall the User experience fits the objective of the UX goals.
+  The Website is highly affective on mobile devices, with contact
+  details, as well as imagery is bold and apparant through out 
+  a User's navigation through the Website.
+- It provides information on Lisa Fairfield with an option to delve
+  into futher information through links in `Resume` and in `Bio`.
+  
 ### BUGS
-
+  
 **Fixed**
 
 **Not Fixed**
@@ -340,11 +347,20 @@ The following technolgies were used in this project:
 
 ## CREDITS
 
-- **Content**
-  - The text for section Y was copied from the Wikipedia article Z
+**Content**
+- All content for this Website was provided by Lisa Bealby.
+- Lisa Fairfeid's referece in Bio was provided by
+  Nick Brice – Artistic Director.
 
-- **Media**
-  - The photos used in this site were obtained from ...
+**Media**
+All photos were provided by Lisa Fairfield who in turn recieved permission
+from her Peers to publish on Website. 
+- Nick Brice - Artistic Director
+- Jack Shepherd - English Actor, Playwright and Theatre director
 
 - **Acknowledgements**
-  - I received inspiration for this project from X
+
+**Bootstrap:** For it's features and tutorials
+**Slack Forum/ Code Institute Tutorial:** The benevolent force that always provide advice and support when needed
+**Aaron Sinnott:** My Mentor for professional advice and good practice
+**Friedns and Family:** For critical User advice and ideas.
