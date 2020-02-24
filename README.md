@@ -361,6 +361,9 @@ from her Peers to publish on Website.
 - **Acknowledgements**
 
 **Bootstrap:** For it's features and tutorials
+
 **Slack Forum/ Code Institute Tutorial:** The benevolent force that always provide advice and support when needed
+
 **Aaron Sinnott:** My Mentor for professional advice and good practice
+
 **Friedns and Family:** For critical User advice and ideas.
