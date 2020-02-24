@@ -83,8 +83,9 @@
     text-align: initial;
 }
 
-.gallery-image{
-    width:80%;
+.gallery-images{
+    max-width:90%;
+    max-height:350px;
 }
 
 .bio-image{
