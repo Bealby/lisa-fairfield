@@ -79,6 +79,10 @@
     padding:0px;
 }
 
+.bio-text-justify{
+    text-align: initial;
+}
+
 .gallery-image{
     width:80%;
 }
@@ -125,4 +129,9 @@
 @media(min-width:992px){
 .bio-image-1-top-margin{
     margin-top:50px;
+}
+
+@media(min-width:510px){
+.bio-text-justify{
+    text-align:justify;
 }

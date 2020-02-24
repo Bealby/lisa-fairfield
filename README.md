@@ -295,6 +295,14 @@ The following technolgies were used in this project:
   
 **Fixed**
 
+- Content in Bio page was justified but spacing became to large
+  and inconsistant on mobile devies. A `@media(min-width:510px)`
+  was used to set content to `text-align:initial` on mobile
+  devices only. Justified content was not implmented on tablet
+  size screens however as stated in Media query. However this
+  fix, overall, serves it's purpuse better than with no Media
+  query.
+
 **Not Fixed**
 
 
