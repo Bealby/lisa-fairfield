@@ -212,6 +212,9 @@ The following technolgies were used in this project:
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
 - [jQuery](https://jquery.com/) - Used to implement Navigation Collaspe feature
+   JavaScript Plugin
+- [Popper](https://popper.js.org/) - Used to implement Navigation Collaspe
+   feature JavaScript Plugin
 - [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation
     checks on README.md content
 - [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
@@ -302,6 +305,10 @@ The following technolgies were used in this project:
   size screens however as stated in Media query. However this
   fix, overall, serves it's purpuse better than with no Media
   query.
+
+- For the email address in Footer the digit **1** was not
+  clear/elligible in the email address. This was fixed by implementing
+  a `<span>`element and changing the font and size of digit **1**
 
 **Not Fixed**
 

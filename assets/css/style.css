@@ -109,6 +109,15 @@
     margin:0px;
 }
 
+.footer-menuitem span{
+    font-family: serif;
+    font-size:22px;
+}
+
+/*FOOTERS*/
+
+/*Media Queries*/
+
 @media(min-width:792px){
 .contact-center-form{
     margin:0 auto;
