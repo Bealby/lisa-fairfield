@@ -298,7 +298,7 @@ The following technolgies were used in this project:
   
 **Fixed**
 
-- Content in Bio page was justified but spacing became to large
+- Content in Bio page was justified but spacing became too large
   and inconsistant on mobile devies. A `@media(min-width:510px)`
   was used to set content to `text-align:initial` on mobile
   devices only. Justified content was not implmented on tablet
@@ -313,11 +313,6 @@ The following technolgies were used in this project:
 - For mobile devices the contact form for `Forename` was cut off
   on iphone/se. This was fixed with the help of Google Development 
   tools, where I increased the margins with the use of Bootdtrap code
-
-**Not Fixed**
-
-
-
 
 ## DEPLOYMENT
 
