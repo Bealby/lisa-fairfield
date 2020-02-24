@@ -353,17 +353,18 @@ The following technolgies were used in this project:
   Nick Brice – Artistic Director.
 
 **Media**
-All photos were provided by Lisa Fairfield who in turn recieved permission
-from her Peers to publish on Website. 
+
+- All photos were provided by Lisa Fairfield who in turn recieved permission
+  from her Peers to publish on Website. 
 - Nick Brice - Artistic Director
 - Jack Shepherd - English Actor, Playwright and Theatre director
 
-- **Acknowledgements**
+**Acknowledgements**
 
-**Bootstrap:** For it's features and tutorials
+- **Bootstrap:** For it's features and tutorials
 
-**Slack Forum/ Code Institute Tutorial:** The benevolent force that always provide advice and support when needed
+- **Slack Forum/ Code Institute Tutorial:** The benevolent force that always provide advice and support when needed
 
-**Aaron Sinnott:** My Mentor for professional advice and good practice
+- **Aaron Sinnott:** My Mentor for professional advice and good practice
 
-**Friedns and Family:** For critical User advice and ideas.
+- **Friends and Family:** For critical User advice and ideas.
