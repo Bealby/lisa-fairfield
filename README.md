@@ -241,13 +241,31 @@ The following technolgies were used in this project:
 - **Mobile:** An overall average of 96% was recieved. No major changes
     to implement but potential for some further tweaks at a later date.
 - **Desktop:** An overall average of 93% was recieved.
-    **Search Engine Optimisation** scored the lowest and would need further anaylsis to improve
+    **Search Engine Optimisation** scored the lowest and would need further
+    anaylsis to improve
 
 ### NON-AUTOMATED TESTING
 
-Write of test manually through website
-
 **Navigation Bar Links**
+- Click through `Home`, `Gallery`, `Bio`, `Resume` and `Contact` links,
+  ensuring each becomes active and highlighted black.
+- Click each navigation link and randomaly navigate to other links.
+- For each link navigated to, ensure main header `Actress Lisa Bealby`,
+  directs you back to `Home` each time.
+
+**Resume**
+- While located on each navigation link, ensure separate window opens up
+  when clicking `Resume`, displaying CV accordingly.
+
+**Contact Form**
+- Navigate to `Contact` page and click `Send` without submitting any data.
+  An error message should appear. 
+- Fill in all required fields in form with an invalid email address. An
+  error message should appear. 
+- Fill in all required fields in form with a valid email address. No
+  error message should appear and data fields become blank
+
+
 
 **Browesers**
 
