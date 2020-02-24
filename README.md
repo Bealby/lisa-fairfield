@@ -156,6 +156,10 @@ and directly link to either their email or telephone respectively.
   To reduce the size of the forms in the Contact page a media query was
   used `@(min-width:992px)`. This allowed for a beter UX in smaller devices.
 
+  Font Awesome icons were also removed on mobile devices to reduce whote space
+  and allow for Telephone and Email links to fit cleaner on screen. An
+  `d-none d-sm-block` was used for this feature.
+
 ### FEATURES LEFT TO IMPLEMENT
 
 Below are a list of features I feel would be beneficial to add to the Website
@@ -265,11 +269,19 @@ The following technolgies were used in this project:
 - Fill in all required fields in form with a valid email address. No
   error message should appear and data fields become blank
 
-
+**Footer**
+- Ensure that on each navigation link the footer links work for
+  Telephone and Email. Opening up Email and Calling features on
+  devices accordingly.
 
 **Browesers**
+- Chrome: ?
+- Firefox: ?
+- Internet Explorer: ?
+- Safari: ?
 
-**Overall User Experience** Explain how meets needs???
+**Overall User Experience**
+
 
 
 ### BUGS
