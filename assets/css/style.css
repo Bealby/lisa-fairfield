@@ -73,6 +73,11 @@
     color:#000;
 }
 
+.section-text{
+    margin-left:0px;
+    margin-right:0px;
+}
+
 .contact-center-form{
     margin:0 auto;
     max-width:90%;
@@ -142,4 +147,11 @@
 @media(min-width:510px){
 .bio-text-justify{
     text-align:justify;
+}
+
+@media(min-width:510px){
+.section-text{
+    margin-left:20px;
+    margin-right:20px;
+}
 }

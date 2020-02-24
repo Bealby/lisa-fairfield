@@ -314,6 +314,12 @@ The following technolgies were used in this project:
   on iphone/se. This was fixed with the help of Google Development 
   tools, where I increased the margins with the use of Bootdtrap code
 
+  -Media Queuries
+  .section-text{
+    margin-left:20px;
+    margin-right:20px;
+}
+
 ## DEPLOYMENT
 
 ---
