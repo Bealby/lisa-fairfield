@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800|PT+Serif&display:100,200,300,400,500,600,700,800');
 
 /*HEADERS*/
 
@@ -110,7 +110,7 @@
 }
 
 .footer-menuitem span{
-    font-family: serif;
+    font-family: 'PT Serif';
     font-size:22px;
 }
 
