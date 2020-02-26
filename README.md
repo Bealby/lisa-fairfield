@@ -37,10 +37,10 @@ A live version of Website can be found
     - [FIXES](#fixes)
 
 5. [DEPLOYMENT](#deployment)
-    - [PUBLISH GitHub REPOSITORY](#publish-github-repostory)
+    - [PUBLISH GitHub REPOSITORY](#publish-github-repository)
     - [CLONE GitHub REPOSITORY](#clone-github-repository)
 
-6. [CREDITS](# credit)
+6. [CREDITS](#credit)
 
 ---
 
