@@ -321,10 +321,11 @@ The following technolgies were used in this project:
 - Click on `Bio`and ensure link to reference opens up in a new window.
 
 **Browesers**
-- Chrome: ?
-- Firefox: ?
-- Internet Explorer: ?
-- Safari: ?
+- Chrome: Website renders well on all screen sizes
+- Firefox/Safari: Website renders well on both Firefox and Safari
+  for all screen sizes. The Main Header however,
+  **Actor Lisa Fairfield**, does increase in thickness
+  but does not affect UX overall
 
 **User Experience**
 - Overall the User experience fits the objective of the UX goals.
@@ -350,13 +351,15 @@ The following technolgies were used in this project:
 
 - For mobile devices the contact form for `Forename` was cut off
   on iphone/se. This was fixed with the help of Google Development 
-  tools, where I increased the margins with the use of Bootdtrap code
+  tools, where I increased the margins with the use of Bootdtrap code.
 
-  -Media Queuries
-  .section-text{
-    margin-left:20px;
-    margin-right:20px;
-}
+- For mobile devices the contact form for `Forename` was cut off
+  on iphone/se. This was fixed with the help of Google Development 
+  tools, where I increased the margins with the use of Bootdtrap code.
+
+- Further `Media Queries`were used to render images in index.html and
+    bio.html to size the images correctly in diffrent devices as
+    even though responsive were either too small or too large.
 
 ## DEPLOYMENT
 ##### [Home](#contents)
