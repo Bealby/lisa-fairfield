@@ -418,8 +418,8 @@ The following technolgies were used in this project:
 
 - All photos were provided by Lisa Fairfield who in turn recieved permission
   from her Peers to publish on Website. 
-- Nick Brice - Artistic Director
-- Jack Shepherd - English Actor, Playwright and Theatre director
+    - Nick Brice - Artistic Director
+    - Jack Shepherd - English Actor, Playwright and Theatre director
 
 **Acknowledgements**
 
