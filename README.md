@@ -8,6 +8,7 @@ Fairfield the opportunity to launch her career in the competitive,
 challenging world of acting.
 
 ## DEMO
+
 ---
 
 ![Mockup Generator](/assets/readme/mockup-generator.png/)
@@ -17,35 +18,40 @@ A live version of Website can be found
 
 ## CONTENTS
 
-1. [UX](#ux)
-    - [STRATEGY](#strategy)
-    - [SCOPE](#scope)
-    - [STRUCTURE](#structure)
-    - [SKELETON](#skeleton)
-    - [SURFACE](#surface)
+1.[UX](#ux)
 
-2. [FEATURES](#features)
-    - [FEATURES OF THE WEBSITE](#features-of-the-website)
-    - [FEATURES FOR SMALLER DEVICES](#features-for-smaller-devices)
-    - [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
+- [STRATEGY](#strategy)
+- [SCOPE](#scope)
+- [STRUCTURE](#structure)
+- [SKELETON](#skeleton)
+- [SURFACE](#surface)
 
-3. [TEACHNOLOGIES USED](#technologies-used)
+2.[FEATURES](#features)
 
-4. [TESTING](#testing)
-    - [AUTOMATED TESTING](#automated-testing)
-    - [NON-AUTOMATED TESTING](#non-automated-testing)
-    - [FIXES](#fixes)
+- [FEATURES OF THE WEBSITE](#features-of-the-website)
+- [FEATURES FOR SMALLER DEVICES](#features-for-smaller-devices)
+- [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
 
-5. [DEPLOYMENT](#deployment)
-    - [PUBLISH GitHub REPOSITORY](#publish-github-repository)
-    - [CLONE GitHub REPOSITORY](#clone-github-repository)
+3.[TEACHNOLOGIES USED](#technologies-used)
 
-6. [CREDITS](#credit)
+4.[TESTING](#testing)
+
+- [AUTOMATED TESTING](#automated-testing)
+- [NON-AUTOMATED TESTING](#non-automated-testing)
+- [FIXES](#fixes)
+
+5.[DEPLOYMENT](#deployment)
+
+- [PUBLISH GitHub REPOSITORY](#publish-github-repository)
+- [CLONE GitHub REPOSITORY](#clone-github-repository)
+
+6.[CREDITS](#credit)
 
 ---
 
-## UX 
-##### [Home](#contents)
+## UX
+
+[Home](#contents)
 
 ---
 
@@ -126,7 +132,8 @@ dividers for overall structure. This will allow photos and text to stand out bol
 against the white background, encouraging the desire and ease to navigate fluidly.
 
 ## FEATURES
-##### [Home](#contents)
+
+[Home](#contents)
 
 ---
 
@@ -224,7 +231,8 @@ could join/register and buy “Lisa Fairfield” branded goods eg signed photos.
 having to go to the venue website.
 
 ## TECHNOLOGIES USED
-##### [Home](#contents)
+
+[Home](#contents)
 
 ---
 
@@ -256,13 +264,14 @@ The following technolgies were used in this project:
     checks on README.md content
 - [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
     Helped tp improving the quality of Website
-- [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful 
-    developing tool in Chrome to edit pages and diagnose problems
+- [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful
+   developing tool in Chrome to edit pages and diagnose problems
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
     to generate Mockup of Website on different devices
 
 ## TESTING
-##### [Home](#contents)
+
+[Home](#contents)
 
 ---
 
@@ -283,7 +292,7 @@ The following technolgies were used in this project:
 
 [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
     feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
-    Mobile and Desktop to assess **Performacne**, **Accesibility** and **UX**. 
+    Mobile and Desktop to assess **Performacne**, **Accesibility** and **UX**.
 
 - **Mobile:** An overall average of 96% was recieved. No major changes
     to implement but potential for some further tweaks at a later date.
@@ -293,49 +302,58 @@ The following technolgies were used in this project:
 
 ### NON-AUTOMATED TESTING
 
-**Navigation Bar Links**
+#### Navigation Bar Links
+
 - Click through `Home`, `Gallery`, `Bio`, `Resume` and `Contact` links,
   ensuring each becomes active and highlighted black.
 - Click each navigation link and randomaly navigate to other links.
 - For each link navigated to, ensure main header `Actress Lisa Bealby`,
   directs you back to `Home` each time.
 
-**Resume**
+#### Resume
+
 - While located on each navigation link, ensure separate window opens up
   when clicking `Resume`, displaying CV accordingly.
 
-**Contact Form**
+#### Contact Form
+
 - Navigate to `Contact` page and click `Send` without submitting any data.
-  An error message should appear. 
+  An error message should appear.
 - Fill in all required fields in form with an invalid email address. An
-  error message should appear. 
+  error message should appear.
 - Fill in all required fields in form with a valid email address. No
   error message should appear and data fields become blank
 
-**Footer**
+#### Footer
+
 - Ensure that on each Web Page the footer links work for
   Telephone and Email (Opening up Email and Calling features on
   devices accordingly).
 
-**Bio Reference**
-- Click on `Bio`and ensure link to reference opens up in a new window.
+#### Bio Reference
 
-**Browesers**
-- Chrome: Website renders well on all screen sizes
+- Click on`Bio`and ensure link to reference opens up in a new window.
+
+#### Browesers
+
+- Chrome: Website renders well on all screen sizes.
+
 - Firefox/Safari: Website renders well on both Firefox and Safari
   for all screen sizes. The Main Header however,
   **Actor Lisa Fairfield**, does increase in thickness
-  but does not affect UX overall
+  but does not affect UX overall.
 
-**User Experience**
+#### User Experience
+
 - Overall the User experience fits the objective of the UX goals.
   The Website is highly affective on mobile devices, with contact
-  details, as well as imagery is bold and apparant through out 
+  details, as well as imagery is bold and apparant through out
   a User's navigation through the Website.
+
 - It provides information on Lisa Fairfield with an option to delve
   into futher information through links in `Resume` and in `Bio`.
-  
-### FIXES
+
+#### FIXES
 
 - Content in Bio page was justified but spacing became too large
   and inconsistant on mobile devies. A `@media(min-width:510px)`
@@ -350,11 +368,11 @@ The following technolgies were used in this project:
   a `<span>`element and changing the font and size of digit **1**
 
 - For mobile devices the contact form for `Forename` was cut off
-  on iphone/se. This was fixed with the help of Google Development 
+  on iphone/se. This was fixed with the help of Google Development
   tools, where I increased the margins with the use of Bootdtrap code.
 
 - For mobile devices the contact form for `Forename` was cut off
-  on iphone/se. This was fixed with the help of Google Development 
+  on iphone/se. This was fixed with the help of Google Development
   tools, where I increased the margins with the use of Bootdtrap code.
 
 - Further `Media Queries`were used to render images in index.html and
@@ -362,7 +380,8 @@ The following technolgies were used in this project:
     even though responsive were either too small or too large.
 
 ## DEPLOYMENT
-##### [Home](#contents)
+
+[Home](#contents)
 
 ---
 
@@ -408,28 +427,29 @@ The following technolgies were used in this project:
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
 ## CREDITS
-##### [Home](#contents)
+
+[Home](#contents)
 
 ---
 
-**Content**
+### Content
+
 - All content for this Website was provided by Lisa Bealby.
 - Lisa Fairfeid's referece in Bio was provided by
   Nick Brice – Artistic Director.
 
-**Media**
+### Media
 
 - All photos were provided by Lisa Fairfield who in turn recieved permission
-  from her Peers to publish on Website. 
-    - Nick Brice - Artistic Director
-    - Jack Shepherd - English Actor, Playwright and Theatre director
+  from her Peers to publish on Website.
 
-**Acknowledgements**
+  Nick Brice - Artistic Director
+  Jack Shepherd - English Actor, Playwright and Theatre director
+
+### Acknowledgements
 
 - **Bootstrap:** For it's features and tutorials
-
-- **Slack Forum/ Code Institute Tutorial:** The benevolent force that always provide advice and support when needed
-
+- **Slack Forum/ Code Institute Tutorial:** The benevolent force that
+   always provide advice and support when needed
 - **Aaron Sinnott:** My Mentor for professional advice and good practice
-
 - **Friends and Family:** For critical User advice and ideas.
