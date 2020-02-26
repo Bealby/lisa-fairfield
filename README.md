@@ -15,6 +15,35 @@ challenging world of acting.
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
 
+## CONTENTS Page
+
+1. [UX](#ux)
+    - [STRATEGY](#strategy)
+    - [SCOPE](#scope)
+    - [STRUCTURE](#structure)
+    - [SKELETON](#skeleton)
+    - [SURFACE](#surface)
+
+2. [FEATURES](#features)
+    - [FEATURES OF THE WEBSITE](#features-of-the-website)
+    - [FEATURES FOR SMALLER DEVICES](#features-for-smaller-devices)
+    - [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
+
+3. [TEACHNOLOGIES USED](#technologies-used)
+
+4. [TESTING](#testing)
+    - [AUTOMATED TESTING](#automated-testing)
+    - [NON-AUTOMATED TESTING](#non-automated-testing)
+    - [FIXES](#fixes)
+
+5. [DEPLOYMENT](#deployment)
+    - [PUBLISH GitHub REPOSITORY](#publish-github-repostory)
+    - [CLONE GitHub REPOSITORY](#clone-github-repository)
+
+6. [CREDITS](# credit)
+
+---
+
 ## UX
 
 ---
@@ -284,14 +313,14 @@ The following technolgies were used in this project:
   Telephone and Email (Opening up Email and Calling features on
   devices accordingly).
 
+**Bio Reference**
+- Click on `Bio`and ensure link to reference opens up in a new window.
+
 **Browesers**
 - Chrome: ?
 - Firefox: ?
 - Internet Explorer: ?
 - Safari: ?
-
-**Bio Refernce**
-- Click on `Bio`and ensure link to reference opens up in a new window.
 
 **User Experience**
 - Overall the User experience fits the objective of the UX goals.
@@ -301,9 +330,7 @@ The following technolgies were used in this project:
 - It provides information on Lisa Fairfield with an option to delve
   into futher information through links in `Resume` and in `Bio`.
   
-### BUGS
-  
-**Fixed**
+### FIXES
 
 - Content in Bio page was justified but spacing became too large
   and inconsistant on mobile devies. A `@media(min-width:510px)`
