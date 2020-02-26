@@ -15,7 +15,7 @@ challenging world of acting.
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
 
-## CONTENTS Page
+## CONTENTS
 
 1. [UX](#ux)
     - [STRATEGY](#strategy)
@@ -44,7 +44,8 @@ A live version of Website can be found
 
 ---
 
-## UX
+## UX 
+##### [Home](#contents)
 
 ---
 
@@ -125,6 +126,7 @@ dividers for overall structure. This will allow photos and text to stand out bol
 against the white background, encouraging the desire and ease to navigate fluidly.
 
 ## FEATURES
+##### [Home](#contents)
 
 ---
 
@@ -222,6 +224,7 @@ could join/register and buy “Lisa Fairfield” branded goods eg signed photos.
 having to go to the venue website.
 
 ## TECHNOLOGIES USED
+##### [Home](#contents)
 
 ---
 
@@ -259,6 +262,7 @@ The following technolgies were used in this project:
     to generate Mockup of Website on different devices
 
 ## TESTING
+##### [Home](#contents)
 
 ---
 
@@ -355,6 +359,7 @@ The following technolgies were used in this project:
 }
 
 ## DEPLOYMENT
+##### [Home](#contents)
 
 ---
 
@@ -400,6 +405,9 @@ The following technolgies were used in this project:
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
 
 ## CREDITS
+##### [Home](#contents)
+
+---
 
 **Content**
 - All content for this Website was provided by Lisa Bealby.
