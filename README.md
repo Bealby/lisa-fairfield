@@ -436,7 +436,7 @@ The following technolgies were used in this project:
 
 ### Content
 
-- All content for this Website was provided by Lisa Bealby.
+- All content for this Website was provided by Lisa Fairfied.
 - Lisa Fairfeid's referece in Bio was provided by
   Nick Brice – Artistic Director.
 
