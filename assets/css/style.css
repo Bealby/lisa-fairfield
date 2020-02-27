@@ -40,7 +40,7 @@
 
 .nav-menuitem a{
     font-family: 'Playfair Display', serif;
-    font-size:28px;
+    font-size:20px;
     font-weight:600;
     color:#000;
     margin:0px;
@@ -147,6 +147,15 @@
 @media(min-width:510px){
 .bio-text-justify{
     text-align:justify;}
+}
+
+@media(min-width:576px){
+.nav-menuitem a{
+    font-family: 'Playfair Display', serif;
+    font-size:28px;
+    font-weight:600;
+    color:#000;
+    margin:0px;}
 }
 
 @media(min-width:510px){
