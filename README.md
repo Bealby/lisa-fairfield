@@ -347,8 +347,7 @@ The following technolgies were used in this project:
 
 - People were asked to use the finished Website to test usability
   and adopt the role of an agent. This helped reinforce that the
-  aims of the Website were being acheived.  
-
+  aims of the Website were being acheived.
 
 #### User Experience
 
