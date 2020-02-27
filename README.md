@@ -53,7 +53,7 @@ A live version of Website can be found
 
 ## UX
 
-[Home](#contents)
+[Comtents](#contents)
 
 ---
 
@@ -135,7 +135,7 @@ against the white background.
 
 ## FEATURES
 
-[Home](#contents)
+[Contents](#contents)
 
 ---
 
@@ -235,7 +235,7 @@ negating any booking fees.
 
 ## TECHNOLOGIES USED
 
-[Home](#contents)
+[Contents](#contents)
 
 ---
 
@@ -274,7 +274,7 @@ The following technolgies were used in this project:
 
 ## TESTING
 
-[Home](#contents)
+[Contents](#contents)
 
 ---
 
@@ -383,7 +383,7 @@ The following technolgies were used in this project:
 
 ## DEPLOYMENT
 
-[Home](#contents)
+[Contents](#contents)
 
 ---
 
@@ -430,7 +430,7 @@ The following technolgies were used in this project:
 
 ## CREDITS
 
-[Home](#contents)
+[Contents](#contents)
 
 ---
 
