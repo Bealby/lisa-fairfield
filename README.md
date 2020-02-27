@@ -369,18 +369,11 @@ The following technolgies were used in this project:
 - Content in Bio page was justified but spacing became too large
   and inconsistant on mobile devies. A `@media(min-width:510px)`
   was used to set content to `text-align:initial` on mobile
-  devices only. Justified content was not implmented on tablet
-  size screens however as stated in Media query. However this
-  fix, overall, serves it's purpuse better than with no Media
-  query.
+  devices only.
 
 - For the email address in Footer the digit **1** was not
   clear/elligible in the email address. This was fixed by implementing
   a `<span>`element and changing the font and size of digit **1**.
-
-- For mobile devices the contact form for `Forename` was cut off
-  on iphone/se. This was fixed with the help of Google Development
-  tools, where I increased the margins with the use of Bootstrap code.
 
 - Further `Media Queries`were used to render images in index.html and
     bio.html to size the images correctly in diffrent devices as
