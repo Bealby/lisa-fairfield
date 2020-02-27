@@ -365,11 +365,7 @@ The following technolgies were used in this project:
 
 - For the email address in Footer the digit **1** was not
   clear/elligible in the email address. This was fixed by implementing
-  a `<span>`element and changing the font and size of digit **1**
-
-- For mobile devices the contact form for `Forename` was cut off
-  on iphone/se. This was fixed with the help of Google Development
-  tools, where I increased the margins with the use of Bootdtrap code.
+  a `<span>`element and changing the font and size of digit **1**.
 
 - For mobile devices the contact form for `Forename` was cut off
   on iphone/se. This was fixed with the help of Google Development
