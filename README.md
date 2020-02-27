@@ -199,8 +199,12 @@ and directly link to either their email or telephone respectively.
   used to remove a block divider and keep the main header but in a smaller format
   using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
   To reduce the size of the form field left and right margins in the Contact page,
-  a media query was used `@(min-width:992px)`. This allowed for a beter UX in
+  a media query was used `@media(min-width:992px)`. This allowed for a beter UX in
   smaller devices.
+
+  The font size for the Navbar was reduced from `20px` to `28px` using the
+  `@media(min-width:576px)` which allowed for a better sizing font
+  when the collaspe function kick-in on mobile devices.  
 
   Font Awesome icons were also removed on mobile devices to increase white space
   and allow for Telephone and Email links to fit cleaner on screen. An
