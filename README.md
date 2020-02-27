@@ -53,7 +53,7 @@ A live version of Website can be found
 
 ## UX
 
-[Comtents](#contents)
+[Contents](#contents)
 
 ---
 
