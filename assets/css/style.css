@@ -120,7 +120,7 @@
     font-size:22px;
 }
 
-/*MWÉDIA QUERIES*/
+/*MÉDIA QUERIES*/
 
 @media(min-width:792px){
 .contact-center-form{
@@ -131,7 +131,7 @@
 
 @media(min-width:792px){
 .section-hero-image{
-    width:60%;
+    width:60%;}
 }
 
 @media(min-width:510px){
