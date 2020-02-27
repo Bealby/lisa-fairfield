@@ -376,7 +376,7 @@ The following technolgies were used in this project:
 
 - For mobile devices the contact form for `Forename` was cut off
   on iphone/se. This was fixed with the help of Google Development
-  tools, where I increased the margins with the use of Bootdtrap code.
+  tools, where I increased the margins with the use of Bootstrap code.
 
 - Further `Media Queries`were used to render images in index.html and
     bio.html to size the images correctly in diffrent devices as
