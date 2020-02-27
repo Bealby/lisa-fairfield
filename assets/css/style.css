@@ -149,7 +149,7 @@
     text-align:justify;}
 }
 
-@media(min-width:576px){
+@media(min-width:640px){
 .nav-menuitem a{
     font-family: 'Playfair Display', serif;
     font-size:28px;
