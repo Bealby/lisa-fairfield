@@ -198,9 +198,10 @@ and directly link to either their email or telephone respectively.
   at the same time keep the bold, distint heading. A series of block features were
   used to remove a block divider and keep the main header but in a smaller format
   using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
-  To reduce the size of the form field left and right margins in the Contact page,
-  a media query was used `@media(min-width:992px)`. This allowed for a beter UX in
-  smaller devices.
+  
+  A media query was implmented, `@media(min-width:792px)`, to reduce the width size
+  to `60%` for `<forms>` on the `contact.html`. This allowed for a beter UX on
+  larger screens.
 
   The font size for the Navbar was reduced from `20px` to `28px` using the
   `@media(min-width:576px)` which allowed for a better sizing font
@@ -384,6 +385,11 @@ The following technolgies were used in this project:
 - Further `Media Queries`were used to render images in index.html and
     bio.html to size the images correctly in diffrent devices as
     even though responsive were either too small or too large.
+
+- The `Forename`and `Surname` fields in `contact.html` became to
+  squashed on mobile devices. This was resolved by using the Bootstrap
+  function of `d-none d-sm-block` and `d-block d-sm-none` and adding
+  extra form fields to span the full length for the mobile.
 
 ## DEPLOYMENT
 

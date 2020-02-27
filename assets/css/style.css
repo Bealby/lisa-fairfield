@@ -80,7 +80,7 @@
 
 .contact-center-form{
     margin:0 auto;
-    max-width:90%;
+    max-width:100%;
     padding:0px;
 }
 
@@ -125,7 +125,7 @@
 @media(min-width:792px){
 .contact-center-form{
     margin:0 auto;
-    max-width:100%;
+    max-width:60%;
     padding:20px;}
 }
 
