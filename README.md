@@ -285,10 +285,7 @@ The following technolgies were used in this project:
     `<article>` element in future projects.
 
 [WSC](https://jigsaw.w3.org/css-validator/) - CSS data was directly inputted in
-    the CSS Validation Service. The results produced one error:- `Imported style
-    sheets are not checked in direct input and file upload modes`. Which
-    concludes that the `@import url` fonts will not be checked. The variety of
-    fonts are currently all working on the Website.
+    the CSS Validation Service. The results: `Congratulations! No Error Found.`
 
 [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
     feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
