@@ -384,6 +384,13 @@ The following technolgies were used in this project:
   function of `d-none d-sm-block` and `d-block d-sm-none` and adding
   extra form fields to span the full length for the mobile.
 
+- For the `bio.html` page there is a moment of transition from large
+  to medium screen where the image startes to look off alignment. 
+  I implimented a media query of `@media(min-width:992px)` and increased
+  the `margin-top` to `90px` which improved the alignment until all
+  content is fitted to 1 column. 
+
+
 ## DEPLOYMENT
 
 [Contents](#contents)
