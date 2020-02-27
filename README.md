@@ -1,10 +1,12 @@
-# ACTRESS - LISA FAIRFIELD
+# ACTOR - LISA FAIRFIELD
 
 ---
 
-The aim of this website is to promote and attract potential casting agents
-that are looking for roles in Advertising, Theatre and Film. to give Lisa
-Fairfield the opportunity to launch her career in the competitive,
+The aim of this website is to promote Actor Lisa Fairfield.
+the Website has been particulary deisgned to attract
+potential casting agents that are looking for artists in
+Advertising, Theatre and Film. to thus give Lisa Fairfield
+the opportunity to launch her career in the competitive,
 challenging world of acting.
 
 ## DEMO
@@ -32,7 +34,7 @@ A live version of Website can be found
 - [FEATURES FOR SMALLER DEVICES](#features-for-smaller-devices)
 - [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
 
-3.[TEACHNOLOGIES USED](#technologies-used)
+3.[TECHNOLOGIES USED](#technologies-used)
 
 4.[TESTING](#testing)
 
@@ -69,10 +71,10 @@ competitive, the website needs to stand out from the crowd; be intuitive
 in gaining information; while exuding professionalism.
 
 It needs to come across well on mobile devices while users are on the move,
-as well as being highly afective on tablets and desktop to allow for a more
+as well as being highly affective on tablets and desktop to allow for more
 comfortable viewing in the office/ home.
 
-Some snippets of user feeback can be find below:
+Typical comments from key players in the industry include:
 
 - ”Producers and directors work under a lot of pressure. Searching for actors/
    actresses will be a ruthless process”
@@ -80,8 +82,8 @@ Some snippets of user feeback can be find below:
 - “Casting agents mainly seek information on: Naturalness, Personality,
    Professionalism, Well-rounded, Training”
 
-- “To have an online presence so that casting directors, producers and
-   directors who are interested can learn more about you.”
+- “It is essential to have an online presence so that casting directors,
+    producers an directors who are interested can learn more about you.”
 
 A graph below illustrates features to implement, valued with importance against
 viability:
@@ -90,7 +92,7 @@ viability:
 
 ### SCOPE
 
-To meet the clients objectives fo the Website an online presence is fundamental
+To meet the client's objectives fo the Website an online presence is fundamental
 and will be implemented. The client has provided a montage of photos that will
 be narrowed down to highlight her different personalities and potentual. A
 biography of past and present performances, along with an introduction to
@@ -102,17 +104,17 @@ level.
 
 The tradeoff in not implementing all desired features mentioned at launch,
 will not be detrimental to the website, and the Website can be continually
-refreshed as time passes.
+refreshed and expaned as time passes.
 
 ### STRUCTURE
 
 The website needs to be clean and slick without too much clutter and information,
 which can cause cognitive overload. It needs to be fresh, stylistic and minimalist
 for the artistic audience. At the same time it needs to provide enough content to
-promote Lisa Fairfield as an actress. A ‘hero-image’ will be the prominent feature
+promote Lisa Fairfield as an actor. A ‘hero-image’ will be the prominent feature
 on the index.html page, alluring potential agents and enticing them to learn more.
 The navigation bar and footer will remain fixed through all pages. Alterations will
-be madeon the navigation bars in mobile and tablets to maintain the look and feel.
+be made on the navigation bars on mobiles and tablets to maintain the look and feel.
 
 The navigation bar will include tabs for Home, Gallery, Bio, Resume and Contact.
 My client’s name will be centered above the navigation bar in clear standout font.
@@ -129,7 +131,7 @@ It is important not to overly glitz-and-glam the website (as the user
 may believe), but to keep the website slick and minimal so that is easy for a
 potential agent to navigate. I have chosen to use a white color theme with grey
 dividers for overall structure. This will allow photos and text to stand out boldly
-against the white background, encouraging the desire and ease to navigate fluidly.
+against the white background.
 
 ## FEATURES
 
@@ -138,15 +140,15 @@ against the white background, encouraging the desire and ease to navigate fluidl
 ---
 
 The website consists of five separate sections; Home, Gallery, Bio, Resume and
-Contact; that are centred between a navigation bar and footer that remain constant
-and similar throughout. Keeping to the premise that the name and contact details
-are always visable for potential agents.
+Contact. These are centred between a navigation bar and footer that remain constant
+and similar throughout thus ensuring that the name and contact details
+are always visible for potential agents.
 
 The website is divided into four separate pages that can be clicked
 accordingly. It was decided against having too much content on one single page
-as the user could be found scrolling endlessely thorugh images and their smaller
-devices. It also helps keep to the concise, simplistic selling goal of the Website.
-That requires only ever one click to get in contact with Lisa Fairfield.
+as the user could be found scrolling endlessely through images on their smaller
+devices. It also helps keep to the concise, simplistic selling goal of the
+Website, which requires only one click to get in contact with Lisa Fairfield.
 
 Much of the layout of the website used the Bootstrap grid system of containers,
 rows and columns; styled by css. This allowed the Website to be clearly structured
@@ -169,17 +171,17 @@ and directly link to either their email or telephone respectively.
 **Sections:**
 
 - **Home:** A striking and bold Hero-Image centred over a white background, nestled
-   between the Navbar and Footer.
+   between the `Navbar`(provided by Bootstrap) and Footer.
 
 - **Gallery:** Users are presented with a collage of photos using the Bootstrap
    Grid System.
 
 - **Bio:** A combination of photos and text explaining Lisa’s dreams and desires.
-   Including a link to a reference which opens up in a separate page.
+   This includes a link to a reference which opens up in a separate page.
 
 - **Resume:** When the Resume is clicked another tab will be opened to display a
-  CV in PDF format. This ensures user does not lose their way on the website. This
-  is implemented by using `target="_blank"`
+  CV in PDF format. This ensures that the user does not lose their way on the
+  website. This is implemented by using `target="_blank"`.
 
 - **Contact:** As well as the contact details in the footer a content section was
   also implemented with the use of `<forms>` in Bootstrap. This allowes for a more
@@ -194,12 +196,13 @@ and directly link to either their email or telephone respectively.
 
 **Mobile:** It was important to collapse the navigation bar on mobile devices but
   at the same time keep the bold, distint heading. A series of block features were
-  used to remove a block divider and keep main header but in a smaller format using
-  Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
-  To reduce the size of the forms in the Contact page a media query was
-  used `@(min-width:992px)`. This allowed for a beter UX in smaller devices.
+  used to remove a block divider and keep the main header but in a smaller format
+  using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
+  To reduce the size of the form field left and right margins in the Contact page,
+  a media query was used `@(min-width:992px)`. This allowed for a beter UX in
+  smaller devices.
 
-  Font Awesome icons were also removed on mobile devices to reduce whote space
+  Font Awesome icons were also removed on mobile devices to increase white space
   and allow for Telephone and Email links to fit cleaner on screen. An
   `d-none d-sm-block` was used for this feature.
 
@@ -208,27 +211,27 @@ and directly link to either their email or telephone respectively.
 Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
 
-**Blog:**  As Lisa Fairfield career progresses and added feature could be a
+**Blog:** As Lisa Fairfield career progresses on added feature could be a
 blog page which can be updated on a regular basis. This could also include
-a calendar of productions in which Lisa Fairfield is taking part. Along with
+a calendar of productions in which Lisa Fairfield is taking part; along with
 a comment section for punters/professional fellow actors to express their
 views/comments on Lisa Fairfield’s performances.
 
-**statistics** Add a feature to enable tabulation of data from potential
+**statistics:** Add a feature to enable tabulation of data from potential
 clients, as well as statistics of people viewing her site and what they look at.
 
-**Voice/Show Reels:** An important feature to implement when they become
+**Voice/Show Reels:**: An important feature to implement when they become
 available are showreels and voicereels, which will be a crucial feature
 in promoting Lisa Fairfield.
 
-**Search Function** A search funciton where you can speculatively look for
+**Search Function:** A search funciton where you can speculatively look for
 performances in which Lisa Fairfield took part.
 
-**Fans/Mechandise** Develop a “Fans of Lisa Fairfield” page where people
+**Fans/Mechandise:** Develop a “Fans of Lisa Fairfield” page where people
 could join/register and buy “Lisa Fairfield” branded goods eg signed photos.
 
-**Booking** A page for punters to book tickets for shows she is in without
-having to go to the venue website.
+**Booking:** A page for punters to book tickets directly for shows;
+negating any booking fees.
 
 ## TECHNOLOGIES USED
 
@@ -340,6 +343,13 @@ The following technolgies were used in this project:
   **Actor Lisa Fairfield**, does increase in thickness
   but does not affect UX overall.
 
+#### User Testing
+
+- People were asked to use the finished Website to test usability
+  and adopt the role of an agent. This helped reinforce that the
+  aims of the Website were being acheived.  
+
+
 #### User Experience
 
 - Overall the User experience fits the objective of the UX goals.
@@ -439,8 +449,8 @@ The following technolgies were used in this project:
 
 ### Acknowledgements
 
-- **Bootstrap:** For it's features and tutorials
+- **Bootstrap:** For it's features and tutorials.
 - **Slack Forum/ Code Institute Tutorial:** The benevolent force that
-   always provide advice and support when needed
-- **Aaron Sinnott:** My Mentor for professional advice and good practice
-- **Friends and Family:** For critical User advice and ideas.
+   always provide advice and support when needed.
+- **Aaron Sinnott:** My Mentor for professional advice and good practice.
+- **Friends and Family:** For User feedback.
