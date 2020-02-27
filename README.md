@@ -45,7 +45,7 @@ A live version of Website can be found
 - [PUBLISH GitHub REPOSITORY](#publish-github-repository)
 - [CLONE GitHub REPOSITORY](#clone-github-repository)
 
-6.[CREDITS](#credit)
+6.[CREDITS](#credits)
 
 ---
 
@@ -434,10 +434,8 @@ The following technolgies were used in this project:
 ### Media
 
 - All photos were provided by Lisa Fairfield who in turn recieved permission
-  from her Peers to publish on Website.
-
-  Nick Brice - Artistic Director
-  Jack Shepherd - English Actor, Playwright and Theatre director
+  from her Peers to publish on Website. **Nick Brice** - Artistic Director
+  & **Jack Shepherd** - English Actor, Playwright and Theatre director.
 
 ### Acknowledgements
 
