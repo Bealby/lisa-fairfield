@@ -3,7 +3,7 @@
 ---
 
 The aim of this website is to promote Actor Lisa Fairfield.
-the Website has been particulary deisgned to attract
+The Website has been particulary designed to attract
 potential casting agents that are looking for artists in
 Advertising, Theatre and Film. to thus give Lisa Fairfield
 the opportunity to launch her career in the competitive,
@@ -82,17 +82,17 @@ Typical comments from key players in the industry include:
 - “Casting agents mainly seek information on: Naturalness, Personality,
    Professionalism, Well-rounded, Training”
 
-- “It is essential to have an online presence so that casting directors,
+- “It is essential to have an online presence so that casting agents,
     producers an directors who are interested can learn more about you.”
 
-A graph below illustrates features to implement, valued with importance against
-viability:
+A graph below illustrates features to implement, valued with importance
+against viability:
 
 ![viabilty-importance-graph](/assets/readme/viability-importance.png/)
 
 ### SCOPE
 
-To meet the client's objectives fo the Website an online presence is fundamental
+To meet the client's objectives for the Website an online presence is fundamental
 and will be implemented. The client has provided a montage of photos that will
 be narrowed down to highlight her different personalities and potentual. A
 biography of past and present performances, along with an introduction to
@@ -150,9 +150,9 @@ as the user could be found scrolling endlessely through images on their smaller
 devices. It also helps keep to the concise, simplistic selling goal of the
 Website, which requires only one click to get in contact with Lisa Fairfield.
 
-Much of the layout of the website used the Bootstrap grid system of containers,
-rows and columns; styled by css. This allowed the Website to be clearly structured
-and for the content to be responsive.
+Much of the layout of the website used the Bootstrap Grid System of 'containers',
+'rows' and 'columns'; styled by css. This allowed the Website to be clearly
+structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
 
@@ -165,8 +165,8 @@ applies for all other sections, enabling the user to reference where they are on
 the Website. Center `mx-auto` was used to centre Nav Bar horizontally.
 
 **Footer:** Lisa Fairfield’s email and phone number are always visible at the
-footer of the page. Each is initially grey, but once clicked are highlight black
-and directly link to either their email or telephone respectively.
+footer of the page. Each is initially grey, but once clicked are highlighted
+black and directly link to either their email or telephone respectively.
 
 **Sections:**
 
@@ -203,9 +203,9 @@ and directly link to either their email or telephone respectively.
   to `60%` for `<forms>` on the `contact.html`. This allowed for a beter UX on
   larger screens.
 
-  The font size for the Navbar was reduced from `20px` to `28px` using the
-  `@media(min-width:576px)` which allowed for a better sizing font
-  when the collaspe function kick-in on mobile devices.  
+  The font size for the Navbar was reduced from `28px` to `20px` using the
+  `@media(min-width:640px)` which allowed for a better sizing font
+  when the collaspe function kicks-in on mobile devices.  
 
   Font Awesome icons were also removed on mobile devices to increase white space
   and allow for Telephone and Email links to fit cleaner on screen. An
@@ -222,7 +222,7 @@ a calendar of productions in which Lisa Fairfield is taking part; along with
 a comment section for punters/professional fellow actors to express their
 views/comments on Lisa Fairfield’s performances.
 
-**statistics:** Add a feature to enable tabulation of data from potential
+**Statistics:** Add a feature to enable tabulation of data from potential
 clients, as well as statistics of people viewing her site and what they look at.
 
 **Voice/Show Reels:**: An important feature to implement when they become
@@ -233,7 +233,7 @@ in promoting Lisa Fairfield.
 performances in which Lisa Fairfield took part.
 
 **Fans/Mechandise:** Develop a “Fans of Lisa Fairfield” page where people
-could join/register and buy “Lisa Fairfield” branded goods eg signed photos.
+could join/register and buy “Lisa Fairfield” branded goods, e.g. signed photos.
 
 **Booking:** A page for punters to book tickets directly for shows;
 negating any booking fees.
@@ -302,7 +302,7 @@ The following technolgies were used in this project:
 - **Mobile:** An overall average of 96% was recieved. No major changes
     to implement but potential for some further tweaks at a later date.
 - **Desktop:** An overall average of 93% was recieved.
-    **Search Engine Optimisation** scored the lowest and would need further
+    **Search Engine Optimisation** scored the lowest and requires further
     anaylsis to improve
 
 ### NON-AUTOMATED TESTING
@@ -313,7 +313,7 @@ The following technolgies were used in this project:
   ensuring each becomes active and highlighted black.
 - Click each navigation link and randomaly navigate to other links.
 - For each link navigated to, ensure main header `Actress Lisa Bealby`,
-  directs you back to `Home` each time.
+  directs you back to `index.html` each time.
 
 #### Resume
 
@@ -327,13 +327,13 @@ The following technolgies were used in this project:
 - Fill in all required fields in form with an invalid email address. An
   error message should appear.
 - Fill in all required fields in form with a valid email address. No
-  error message should appear and data fields become blank
+  error message should appear and data fields become blank.
 
 #### Footer
 
 - Ensure that on each Web Page the footer links work for
-  Telephone and Email (Opening up Email and Calling features on
-  devices accordingly).
+  Telephone and Email (Opening up 'Email' and 'Calling' features
+  accordingly).
 
 #### Bio Reference
 
@@ -344,25 +344,32 @@ The following technolgies were used in this project:
 - Chrome: Website renders well on all screen sizes.
 
 - Firefox/Safari: Website renders well on both Firefox and Safari
-  for all screen sizes. The Main Header however,
+  for all screen sizes. The Main Header font however,
   **Actor Lisa Fairfield**, does increase in thickness
   but does not affect UX overall.
+
+#### Devices
+
+- The Website was tested for usability on tablets and a variety of
+  mobiles, including iPhone and Samsung. The results were
+  satifying and accomplished the UX goal fort smaller devices.
 
 #### User Testing
 
 - People were asked to use the finished Website to test usability
   and adopt the role of an agent. This helped reinforce that the
-  aims of the Website were being acheived.
+  aims of the Website were being acheived. 
 
 #### User Experience
 
 - Overall the User experience fits the objective of the UX goals.
-  The Website is highly affective on mobile devices, with contact
-  details, as well as imagery is bold and apparant through out
-  a User's navigation through the Website.
+  The Website is highly affective on mobile devices. The contact
+  details, as well as imagery, are bold and apparant through out
+  a User's navigation on the Website.
 
-- It provides information on Lisa Fairfield with an option to delve
-  into futher information through links in `Resume` and in `Bio`.
+- It accomplished the goal of providing information on Lisa Fairfield
+  with an option to delve into futher information through links
+  in `Resume` and in `Bio`.
 
 #### FIXES
 
@@ -373,22 +380,25 @@ The following technolgies were used in this project:
 
 - For the email address in Footer the digit **1** was not
   clear/elligible in the email address. This was fixed by implementing
-  a `<span>`element and changing the font and size of digit **1**.
+  a `<span>`element and changing the font and size of digit **1** to
+  make it clearer.
 
-- Further `Media Queries`were used to render images in index.html and
-    bio.html to size the images correctly in diffrent devices as
-    even though responsive were either too small or too large.
+- Further `Media Queries` were used to increase the size of images
+  in index.html and bio.html in mobile devices as they were
+  otherwise looking too small even though responsive.
 
 - The `Forename`and `Surname` fields in `contact.html` became to
-  squashed on mobile devices. This was resolved by using the Bootstrap
-  function of `d-none d-sm-block` and `d-block d-sm-none` and adding
-  extra form fields to span the full length for the mobile.
+  squashed on mobile devices. This was resolved by adding extra
+  form fields that triggered on smaller devices with a greater width.
+  The Bootstrap function of `d-none d-sm-block` and
+  `d-block d-sm-none` were used to implment this procedure.
 
 - For the `bio.html` page there is a moment of transition from large
-  to medium screen where the image startes to look off alignment. 
-  I implimented a media query of `@media(min-width:992px)` and increased
-  the `margin-top` to `90px` which improved the alignment until all
-  content is fitted to 1 column. 
+  to medium screen where the image starts to look unpleasantly
+  aligned. A media query of `@media(min-width:992px)` was implmented
+  to increase the `margin-top` to `90px`to improve the look before
+  image is transitioned to a single column on medium devices. There
+  still however is a further need for improvement.
 
 
 ## DEPLOYMENT
@@ -399,44 +409,46 @@ The following technolgies were used in this project:
 
 ### PUBLISH GitHub REPOSITORY
 
-1.Load up GitHub at <https://github.com>
+- Load up GitHub at <https://github.com>
 
-2.Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
 
-3.Click Settings
+- Click Settings:
 
-4.![Deployment](/assets/readme/deployment-1.png/)
+![Deployment](/assets/readme/deployment-1.png/)
 
-5.Scroll down to:
+- Scroll down to:
 
-- Github Pages
-- Source
-- From drop-down menu choose master branch
+    - Github Pages
+    - Source
+    - From drop-down menu choose master branch
 
-6.![Deployment](/assets/readme/deployment-2.png/)
+![Deployment](/assets/readme/deployment-2.png/)
 
-7.From selecting master branch the repository will be refreshed and
-   published.
-8.Published website will be found highlighted in green under Github Pages
-   as below:
+- After selecting 'master branch' the repository will be refreshed and
+   published
+
+- The published website will be found highlighted in green under 'Github
+  Pages', as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
 ### CLONE GitHub REPOSITORY
 
-1.Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>.
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>
 
-2.In the main page for the Repository click Clone or Downlaod as shown below.
+- On the main page for the repository click **Clone or Downlaod** as shown below.
 
-3.In the main page for the Repository click Clone or Download, then click on
+- On the main page for the Repository click Clone or Download. Then click on the
    URL as shown below.
 
 ![Deployment](/assets/readme/deployment-4.png/)
 
-4.Open in Terminal
+- Open in Terminal
 
-- Change current directory to local directory
-- Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`.
+- Change the current directory to the local directory
+
+- Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`
 
 ## CREDITS
 
@@ -453,8 +465,9 @@ The following technolgies were used in this project:
 ### Media
 
 - All photos were provided by Lisa Fairfield who in turn recieved permission
-  from her Peers to publish on Website. **Nick Brice** - Artistic Director
-  & **Jack Shepherd** - English Actor, Playwright and Theatre director.
+  from her Peers to publish on Website:
+- **Nick Brice** - Artistic Director
+- **Jack Shepherd** - English Actor, Playwright and Theatre director.
 
 ### Acknowledgements
 
