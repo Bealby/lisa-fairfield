@@ -198,14 +198,14 @@ black and directly link to either their email or telephone respectively.
   at the same time keep the bold, distint heading. A series of block features were
   used to remove a block divider and keep the main header but in a smaller format
   using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
-  
+
   A media query was implmented, `@media(min-width:792px)`, to reduce the width size
   to `60%` for `<forms>` on the `contact.html`. This allowed for a beter UX on
   larger screens.
 
   The font size for the Navbar was reduced from `28px` to `20px` using the
   `@media(min-width:640px)` which allowed for a better sizing font
-  when the collaspe function kicks-in on mobile devices.  
+  when the collaspe function kicks-in on mobile devices.
 
   Font Awesome icons were also removed on mobile devices to increase white space
   and allow for Telephone and Email links to fit cleaner on screen. An
@@ -358,7 +358,7 @@ The following technolgies were used in this project:
 
 - People were asked to use the finished Website to test usability
   and adopt the role of an agent. This helped reinforce that the
-  aims of the Website were being acheived. 
+  aims of the Website were being acheived.
 
 #### User Experience
 
@@ -400,7 +400,6 @@ The following technolgies were used in this project:
   image is transitioned to a single column on medium devices. There
   still however is a further need for improvement.
 
-
 ## DEPLOYMENT
 
 [Contents](#contents)
@@ -418,10 +417,9 @@ The following technolgies were used in this project:
 ![Deployment](/assets/readme/deployment-1.png/)
 
 - Scroll down to:
-
-    - Github Pages
-    - Source
-    - From drop-down menu choose master branch
+- Github Pages
+- Source
+- From drop-down menu choose master branch
 
 ![Deployment](/assets/readme/deployment-2.png/)
 
