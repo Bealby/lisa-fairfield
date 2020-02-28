@@ -197,7 +197,7 @@ black and directly link to either their email or telephone respectively.
   used to remove a block divider and keep the main header but in a smaller format
   using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
 
-  A media query was implmented, `@media(min-width:792px)`, to reduce the width size
+  A media query was implmented, `@media(min-width:992px)`, to reduce the width size
   to `60%` for `<forms>` on the `contact.html`. This allowed for a beter UX on
   larger screens.
 
@@ -322,6 +322,10 @@ The following technolgies were used in this project:
 
 - Navigate to `Contact` page and click `Send` without submitting any data.
   An error message should appear.
+- Fill in all required fields in form without adding Name. An
+  error message should appear.
+- Fill in all required fields in form without adding any comment. An
+  error message should appear.
 - Fill in all required fields in form with an invalid email address. An
   error message should appear.
 - Fill in all required fields in form with a valid email address. No
