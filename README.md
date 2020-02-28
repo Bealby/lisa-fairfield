@@ -13,7 +13,7 @@ challenging world of acting.
 
 ---
 
-![Mockup Generator](/assets/readme/mockup-generator.png/)
+![Mockup Generator](/documentation/readme/mockup-generator.png/)
 
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-1/)
@@ -86,7 +86,7 @@ Typical comments from key players in the industry include:
 A graph below illustrates features to implement, valued with importance
 against viability:
 
-![viabilty-importance-graph](/assets/readme/viability-importance.png/)
+![viabilty-importance-graph](/documentation/readme/viability-importance.png/)
 
 ### SCOPE
 
@@ -121,7 +121,7 @@ all pages so that an agent can click intuitively and with ease.
 
 ### SKELETON
 
-Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/assets/wireframes/lisa-fairfield-wireframes.pdf)
+Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/documentation/wireframes/lisa-fairfield-wireframes.pdf)
 
 ### SURFACE
 
@@ -412,14 +412,14 @@ The following technolgies were used in this project:
 
 - Click Settings:
 
-![Deployment](/assets/readme/deployment-1.png/)
+![Deployment](/documentation/readme/deployment-1.png/)
 
 - Scroll down to:
 - Github Pages
 - Source
 - From drop-down menu choose master branch
 
-![Deployment](/assets/readme/deployment-2.png/)
+![Deployment](/documentation/readme/deployment-2.png/)
 
 - After selecting **master branch** the repository will be refreshed and
    published
@@ -427,7 +427,7 @@ The following technolgies were used in this project:
 - The published website will be found highlighted in green under **Github
   Pages**, as below:
 
-![Deployment](/assets/readme/deployment-3.png/)
+![Deployment](/documentation/readme/deployment-3.png/)
 
 ### CLONE GitHub REPOSITORY
 
@@ -438,7 +438,7 @@ The following technolgies were used in this project:
 - On the main page for the Repository click Clone or Download. Then click on the
    URL as shown below.
 
-![Deployment](/assets/readme/deployment-4.png/)
+![Deployment](/documentation/readme/deployment-4.png/)
 
 - Open in Terminal
 
