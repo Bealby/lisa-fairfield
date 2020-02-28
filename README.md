@@ -53,8 +53,6 @@ A live version of Website can be found
 
 ## UX
 
-[Contents](#contents)
-
 ---
 
 Our client desires a website to seek out agents or key contacts, while being
@@ -133,9 +131,9 @@ potential agent to navigate. I have chosen to use a white color theme with grey
 dividers for overall structure. This will allow photos and text to stand out boldly
 against the white background.
 
-## FEATURES
+[Go to top](#contents)
 
-[Contents](#contents)
+## FEATURES
 
 ---
 
@@ -238,9 +236,9 @@ could join/register and buy “Lisa Fairfield” branded goods, e.g. signed phot
 **Booking:** A page for punters to book tickets directly for shows;
 negating any booking fees.
 
-## TECHNOLOGIES USED
+[Go to top](#contents)
 
-[Contents](#contents)
+## TECHNOLOGIES USED
 
 ---
 
@@ -277,9 +275,9 @@ The following technolgies were used in this project:
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
     to generate Mockup of Website on different devices
 
-## TESTING
+[Go to top](#contents)
 
-[Contents](#contents)
+## TESTING
 
 ---
 
@@ -400,9 +398,9 @@ The following technolgies were used in this project:
   image is transitioned to a single column on medium devices. There
   still however is a further need for improvement.
 
-## DEPLOYMENT
+[Go to top](#contents)
 
-[Contents](#contents)
+## DEPLOYMENT
 
 ---
 
@@ -448,9 +446,9 @@ The following technolgies were used in this project:
 
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`
 
-## CREDITS
+[Go to top](#contents)
 
-[Contents](#contents)
+## CREDITS
 
 ---
 
