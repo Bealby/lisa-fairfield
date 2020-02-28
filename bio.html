@@ -16,6 +16,7 @@
     <header>
 
         <!--Main Header-->
+        <!--Main header removed on smaller devices-->
         <div class="container-fluid">
             <div class="row">
                 <div class="col d-none d-sm-block">
@@ -28,11 +29,14 @@
                 </div>
                 
                 <!--Block Divider-->
+                <!--Block divider removed on smaller devices-->
                 <div class="col-12 d-none d-sm-block">
                     <div class="header-block-divider mx-auto"></div>
                 </div>
 
                 <!--Nav Bar-->
+                <!--For the collaspe Navbar function for smaller devices new headers are implimented with smaller font size. 
+                At the same time original headers are removed-->
                 <div class="col-12">
                     <nav class="navbar navbar-expand-sm navbar-light bg-white nav-menuitem">
                         <a class="navbar-brand d-block d-sm-none" href="index.html">
@@ -54,7 +58,7 @@
                                 <li class="nav-item pr-3">
                                     <a class="nav-link" href="gallery.html">Gallery</a>
                                 </li>
-                                <li class="nav-item pr-3 active">
+                                <li class="nav-item active pr-3">
                                     <a class="nav-link" href="bio.html">Bio</a>
                                 </li>
                                 <li class="nav-item pr-3">
@@ -113,15 +117,18 @@
     <footer class="container-fluid">
         <div class="row">
             <div class="col-12">
-                <nav class="navbar navbar-expand-sm navbar-light justify-content-center mb-5">
+                <nav class="navbar navbar-expand-sm navbar-light justify-content-center mb-5 mt-0">
                     <ul class="navbar-nav footer-menuitem">
-                        <li class="nav-item mt-3 text-secondary">
+                        <li class="nav-item mt-3 text-secondary text-center">
+                        <!--Font Awesome Icons removed on smaller devices-->
                             <i class="far fa-envelope d-none d-sm-block"></i>
                         </li>
                         <li>
-                            <a class="nav-link" href="mailto:toid@example.com?">lisafairfield<span>1</span>@gmail.com<span class="sr-only">Email</span></a>
+                            <a class="nav-link" href="mailto:toid@example.com?">lisafairfield<span>1</span>@gmail.com<span class="sr-only">Email</span>
+                            </a>
                         </li>
                         <li class="nav-item mt-3 text-secondary">
+                        <!--Font Awesome Icons removed on smaller devices-->
                             <i class="fas fa-phone d-none d-sm-block ml-4"></i>
                         </li>
                         <li>

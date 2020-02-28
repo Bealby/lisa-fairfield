@@ -15,69 +15,73 @@
 
 <body>
 
-	<header>
+    <header>
 
-		<!--Main Header-->
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col d-none d-sm-block">
-					<div class="header-title">
-						<a href="index.html">
-							<h2>Actor</h2>
-							<h1>Lisa Fairfeld</h1>
-						</a>
-					</div>
-				</div>
+        <!--Main Header-->
+        <!--Main header removed on smaller devices-->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col d-none d-sm-block">
+                    <div class="header-title">
+                        <a href="index.html">
+                            <h2>Actor</h2>
+                            <h1>Lisa Fairfeld</h1>
+                        </a>
+                    </div>
+                </div>
+                
+                <!--Block Divider-->
+                <!--Block divider removed on smaller devices-->
+                <div class="col-12 d-none d-sm-block">
+                    <div class="header-block-divider mx-auto"></div>
+                </div>
 
-				<!--Block Divider-->
-				<div class="col-12 d-none d-sm-block">
-					<div class="header-block-divider mx-auto"></div>
-				</div>
-
-				<!--Nav Bar-->
-				<div class="col-12">
-					<nav class="navbar navbar-expand-sm navbar-light bg-white nav-menuitem">
-						<a class="navbar-brand d-block d-sm-none" href="index.html">
-							<div class="row">
-								<span class="nav-menu-title-actress mx-auto mb-1 ">Actor</span>
-							</div>
-							<div class="row">
-								<span class="nav-menu-title-lisa">Lisa Fairfield</span>
-							</div>
-						</a>
-						<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+                <!--Nav Bar-->
+                <!--For the collaspe Navbar function for smaller devices new headers are implimented with smaller font size. 
+                At the same time original headers are removed-->
+                <div class="col-12">
+                    <nav class="navbar navbar-expand-sm navbar-light bg-white nav-menuitem">
+                        <a class="navbar-brand d-block d-sm-none" href="index.html">
+                            <div class="row">
+                                <span class="nav-menu-title-actress mx-auto mb-1 ">Actor</span>
+                            </div>
+                            <div class="row">
+                                <span class="nav-menu-title-lisa">Lisa Fairfield</span>
+                            </div>
+                        </a>
+                        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span></button>
 
-						<div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-							<ul class="navbar-nav mr-auto mt-3 mt-sm-0 mx-auto">
-								<li class="nav-item pr-3">
-									<a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-								</li>
-								<li class="nav-item pr-3">
-									<a class="nav-link" href="gallery.html">Gallery</a>
-								</li>
-								<li class="nav-item pr-3">
-									<a class="nav-link" href="bio.html">Bio</a>
-								</li>
-								<li class="nav-item pr-3">
-									<a class="nav-link" href="assets/cv/lisa-fairfield.pdf" target="_blank">Resume</a>
-								</li>
-								<li class="nav-item pr-3 active">
-									<a class="nav-link" href="contact.html">Contact</a>
-								</li>
-							</ul>
-						</div>
-					</nav>
-				</div>
+                        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                            <ul class="navbar-nav mr-auto mt-3 mt-sm-0 mx-auto">
+                                <li class="nav-item pr-3">
+                                    <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item pr-3">
+                                    <a class="nav-link" href="gallery.html">Gallery</a>
+                                </li>
+                                <li class="nav-item pr-3">
+                                    <a class="nav-link" href="bio.html">Bio</a>
+                                </li>
+                                <li class="nav-item pr-3">
+                                    <a class="nav-link" href="assets/cv/lisa-fairfield.pdf" target="_blank">Resume</a>
+                                </li>
+                                <li class="nav-item active pr-3">
+                                    <a class="nav-link" href="contact.html">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
 
-				<!--Block Divider-->
-				<div class="col-12">
-					<div class="header-block-divider mx-auto mt-0"></div>
-				</div>
-			</div>
-		</div>
+                <!--Block Divider-->
+                <div class="col-12">
+                    <div class="header-block-divider mx-auto mt-0"></div>
+                </div>
+            </div>
+        </div>
 
-	</header>
+    </header>
 
 	<!--Section Contact-->
 	<section>
@@ -104,30 +108,32 @@
 	</section>
 
 	<!--Footer-->
-	<footer class="container-fluid">
-		<div class="row">
-			<div class="col-12">
-				<nav class="navbar navbar-expand-sm navbar-light justify-content-center mb-5">
-					<ul class="navbar-nav footer-menuitem">
-						<li class="nav-item mt-3 text-secondary">
-							<i class="far fa-envelope d-none d-sm-block"></i>
-						</li>
-						<li>
-							<a class="nav-link"
-								href="mailto:toid@example.com?">lisafairfield<span>1</span>@gmail.com<span class="sr-only">Email</span></a>
-						</li>
-						<li class="nav-item mt-3 text-secondary">
-							<i class="fas fa-phone d-none d-sm-block ml-4"></i>
-						</li>
-						<li>
-							<a class="nav-link text-center" href="tel:+447890287456">+44 7890 287
+    <footer class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-sm navbar-light justify-content-center mb-5 mt-0">
+                    <ul class="navbar-nav footer-menuitem">
+                        <li class="nav-item mt-3 text-secondary text-center">
+                        <!--Font Awesome Icons removed on smaller devices-->
+                            <i class="far fa-envelope d-none d-sm-block"></i>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="mailto:toid@example.com?">lisafairfield<span>1</span>@gmail.com<span class="sr-only">Email</span>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-3 text-secondary">
+                        <!--Font Awesome Icons removed on smaller devices-->
+                            <i class="fas fa-phone d-none d-sm-block ml-4"></i>
+                        </li>
+                        <li>
+                            <a class="nav-link text-center" href="tel:+447890287456">+44 7890 287
 								456<span class="sr-only">Telephone</span></a>
-						</li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</footer>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </footer>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
