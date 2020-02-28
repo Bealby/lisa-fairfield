@@ -151,7 +151,7 @@ For smaller devices it resorts back to 100% width and 0 padding */
 Otherwise it becomes to small on mobile*/
 	@media(min-width:792px) {
 		.section-hero-image {
-			width: 60%;
+			width: 55%;
 		}
 	}
 	/*Allows bio-images to be at 80% width for mobile devices and reduced
