@@ -122,6 +122,9 @@
 
 /*MÉDIA QUERIES*/
 
+
+/*Reduces width and padding in <form> in contact.html for desktop.
+For smaller devices it resorts back to 100% width and 0 padding */
 @media(min-width:992px){
 .contact-center-form{
     margin:0 auto;
@@ -129,26 +132,36 @@
     padding:20px;}
 }
 
+/*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices.
+Otherwise it becomes to small on mobile*/
 @media(min-width:792px){
 .section-hero-image{
     width:60%;}
 }
 
+/*Allows bio-images to be at 80% width for mobile devices and reduced
+to 70% width for larger devices in bio.html.*/
 @media(min-width:510px){
 .bio-image{
     width:70%;}
 }
 
+/*Allows bio-image-1 to have a slightly lower margin for medium devices before
+transition to 1 column for smaller devices in bio.html.*/
 @media(min-width:992px){
 .bio-image-1-top-margin{
     margin-top:90px;}
 }
 
+/*In bio.html we wanted text to be justified. For mobile devices text became mis-aligned.
+This Media query allows text not to be justified on mobile devices.*/
 @media(min-width:510px){
 .bio-text-justify{
     text-align:justify;}
 }
 
+/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
+Text otherwise lloked too big*/
 @media(min-width:640px){
 .nav-menuitem a{
     font-family: 'Playfair Display', serif;
@@ -158,6 +171,8 @@
     margin:0px;}
 }
 
+/*This Media query allows for a tidy margin in medium to large devices but reduces to margin-left and right to
+0px to be eligible on mobile*/
 @media(min-width:510px){
 .section-text{
     margin-left:20px;
