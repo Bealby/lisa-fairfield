@@ -425,11 +425,11 @@ The following technolgies were used in this project:
 
 ![Deployment](/assets/readme/deployment-2.png/)
 
-- After selecting 'master branch' the repository will be refreshed and
+- After selecting **master branch** the repository will be refreshed and
    published
 
-- The published website will be found highlighted in green under 'Github
-  Pages', as below:
+- The published website will be found highlighted in green under **Github
+  Pages**, as below:
 
 ![Deployment](/assets/readme/deployment-3.png/)
 
