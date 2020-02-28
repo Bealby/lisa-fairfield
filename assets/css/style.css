@@ -1,188 +1,199 @@
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800|PT+Serif&display:100,200,300,400,500,600,700,800');
+	@import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800|PT+Serif&display:100,200,300,400,500,600,700,800');
 
 /*HEADERS*/
 
-.header-title h1{
-    font-family: 'Calligraffitti', cursive;
-    font-size:60px;
-    color:#000;
-    text-align:center;
-    margin-top:0px;
-    margin-bottom:25px;
-    letter-spacing:4px;
-}
-.header-title h2{
-    font-family: 'Playfair Display', serif;
-    font-size:25px;
-    color:#000;
-    text-align:center;
-    margin-top:20px;
-    margin-bottom:16px;
-    letter-spacing:1px;
+.header-title h1 {
+	font-family: 'Calligraffitti', cursive;
+	font-size: 60px;
+	color: #000;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	letter-spacing: 4px;
 }
 
-.header-title a{
-    text-decoration:none;
+.header-title h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	color: #000;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 16px;
+	letter-spacing: 1px;
 }
+
+.header-title a {
+	text-decoration: none;
+}
+
 
 /*HEADER BLOCK DIVIDERS*/
 
-.header-block-divider{
-    width: 95%;
-    height: 1px;
-    border: 0;
-    background-color:#000;
-    margin-top:1px;
-    margin-bottom:1px;
+.header-block-divider {
+	width: 95%;
+	height: 1px;
+	border: 0;
+	background-color: #000;
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
+
 
 /*NAVBARS*/
 
-.nav-menuitem a{
-    font-family: 'Playfair Display', serif;
-    font-size:20px;
-    font-weight:600;
-    color:#000;
-    margin:0px;
+.nav-menuitem a {
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-weight: 600;
+	color: #000;
+	margin: 0px;
 }
 
-.nav-menu-title-lisa{
-    font-family: 'Calligraffitti', cursive;
-    font-size:30px;
-    color:#000;
-    margin-top:0px;
-    margin-left:10px;
-    margin-bottom:0px;
-    margin-right:0px;
-    letter-spacing:2px;
+.nav-menu-title-lisa {
+	font-family: 'Calligraffitti', cursive;
+	font-size: 30px;
+	color: #000;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	letter-spacing: 2px;
 }
 
-.nav-menu-title-actress{
-    font-family: 'Playfair Display', serif;
-    font-size:20px;
-    color:#000;
-    margin-top:0px;
-    letter-spacing:1px;
+.nav-menu-title-actress {
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	color: #000;
+	margin-top: 0px;
+	letter-spacing: 1px;
 }
+
 
 /*SECTIONS*/
 
-.section-text{
-    font-family:'Playfair Display', serif;
-    font-size:17px;
-    color:#000;
-    margin-left:0px;
-    margin-right:0px;
+.section-text {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+	color: #000;
+	margin-left: 0px;
+	margin-right: 0px;
 }
+
 
 /*Separate text class for contact.html text as not to affect margins as it would do for bio.html*/
-.contact-text{
-    font-family:'Playfair Display', serif;
-    font-size:17px;
-    color:#000;
+
+.contact-text {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+	color: #000;
 }
 
-.contact-center-form{
-    margin:0 auto;
-    max-width:100%;
-    padding:0px;
+.contact-center-form {
+	margin: 0 auto;
+	max-width: 100%;
+	padding: 0px;
 }
 
-.bio-text-justify{
-    text-align: initial;
+.bio-text-justify {
+	text-align: initial;
 }
 
-.gallery-images{
-    max-width:90%;
-    max-height:350px;
+.gallery-images {
+	max-width: 90%;
+	max-height: 350px;
 }
 
-.bio-image{
-    width:80%;
+.bio-image {
+	width: 80%;
 }
 
-.section-hero-image{
-    width:90%;
+.section-hero-image {
+	width: 90%;
 }
 
-.bio-image-1-top-margin{
-    margin-top:0px;
+.bio-image-1-top-margin {
+	margin-top: 0px;
 }
+
 
 /*FOOTER*/
 
-.footer-menuitem{
-    font-family: 'Playfair Display', serif;
-    font-size:22px;
-    font-weight:600;
-    color:#000;
-    margin:0px;
+.footer-menuitem {
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
+	font-weight: 600;
+	color: #000;
+	margin: 0px;
 }
 
+
 /*Font for digit "1" in email address for clarity*/
-.footer-menuitem span{
-    font-family: 'PT Serif';
-    font-size:22px;
+
+.footer-menuitem span {
+	font-family: 'PT Serif';
+	font-size: 22px;
 }
+
 
 /*MÉDIA QUERIES*/
 
 
 /*Reduces width and padding in <form> in contact.html for desktop.
 For smaller devices it resorts back to 100% width and 0 padding */
-@media(min-width:992px){
-.contact-center-form{
-    margin:0 auto;
-    max-width:60%;
-    padding:20px;
-}
 
-/*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices.
+@media(min-width:992px) {
+	.contact-center-form {
+		margin: 0 auto;
+		max-width: 60%;
+		padding: 20px;
+	}
+	/*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices.
 Otherwise it becomes to small on mobile*/
-@media(min-width:792px){
-.section-hero-image{
-    width:60%;}
-}
-
-/*Allows bio-images to be at 80% width for mobile devices and reduced
+	@media(min-width:792px) {
+		.section-hero-image {
+			width: 60%;
+		}
+	}
+	/*Allows bio-images to be at 80% width for mobile devices and reduced
 to 70% width for larger devices in bio.html.*/
-@media(min-width:510px){
-.bio-image{
-    width:70%;}
-}
-
-/*Allows bio-image-1 to have a slightly lower margin for medium devices before
+	@media(min-width:510px) {
+		.bio-image {
+			width: 70%;
+		}
+	}
+	/*Allows bio-image-1 to have a slightly lower margin for medium devices before
 transition to 1 column for smaller devices in bio.html.*/
-@media(min-width:992px){
-.bio-image-1-top-margin{
-    margin-top:90px;}
-}
-
-/*In bio.html we wanted text to be justified. For mobile devices text became mis-aligned.
+	@media(min-width:992px) {
+		.bio-image-1-top-margin {
+			margin-top: 90px;
+		}
+	}
+	/*In bio.html we wanted text to be justified. For mobile devices text became mis-aligned.
 This Media query allows text not to be justified on mobile devices.*/
-@media(min-width:510px){
-.bio-text-justify{
-    text-align:justify;}
-}
-
-/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
+	@media(min-width:510px) {
+		.bio-text-justify {
+			text-align: justify;
+		}
+	}
+	/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
 Text otherwise lloked too big*/
-@media(min-width:640px){
-.nav-menuitem a{
-    font-family: 'Playfair Display', serif;
-    font-size:28px;
-    font-weight:600;
-    color:#000;
-    margin:0px;}
-}
-
-/*This Media query allows for a tidy margin in medium to large devices but reduces to margin-left and right to
+	@media(min-width:640px) {
+		.nav-menuitem a {
+			font-family: 'Playfair Display', serif;
+			font-size: 28px;
+			font-weight: 600;
+			color: #000;
+			margin: 0px;
+		}
+	}
+	/*This Media query allows for a tidy margin in medium to large devices but reduces to margin-left and right to
 0px to be eligible on mobile*/
-@media(min-width:510px){
-.section-text{
-    font-family:'Playfair Display', serif;
-    font-size:17px;
-    color:#000;
-    margin-left:20px;
-    margin-right:20px;}
-}
+	@media(min-width:510px) {
+		.section-text {
+			font-family: 'Playfair Display', serif;
+			font-size: 17px;
+			color: #000;
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	}
