@@ -385,12 +385,6 @@ The following technolgies were used in this project:
   in index.html and bio.html in mobile devices as they were
   otherwise looking too small even though responsive.
 
-- The `Forename`and `Surname` fields in `contact.html` became to
-  squashed on mobile devices. This was resolved by adding extra
-  form fields that triggered on smaller devices with a greater width.
-  The Bootstrap function of `d-none d-sm-block` and
-  `d-block d-sm-none` were used to implment this procedure.
-
 - For the `bio.html` page there is a moment of transition from large
   to medium screen where the image starts to look unpleasantly
   aligned. A media query of `@media(min-width:992px)` was implmented
