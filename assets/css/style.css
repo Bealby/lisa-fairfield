@@ -67,15 +67,19 @@
 
 /*SECTIONS*/
 
-.section-text p{
+.section-text{
     font-family:'Playfair Display', serif;
     font-size:17px;
     color:#000;
-}
-
-.section-text{
     margin-left:0px;
     margin-right:0px;
+}
+
+/*Separate text class for contact.html text as not to affect margins as it would do for bio.html*/
+.contact-text{
+    font-family:'Playfair Display', serif;
+    font-size:17px;
+    color:#000;
 }
 
 .contact-center-form{
@@ -175,6 +179,9 @@ Text otherwise lloked too big*/
 0px to be eligible on mobile*/
 @media(min-width:510px){
 .section-text{
+    font-family:'Playfair Display', serif;
+    font-size:17px;
+    color:#000;
     margin-left:20px;
     margin-right:20px;}
 }
