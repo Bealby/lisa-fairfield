@@ -133,7 +133,7 @@ For smaller devices it resorts back to 100% width and 0 padding */
 .contact-center-form{
     margin:0 auto;
     max-width:60%;
-    padding:20px;}
+    padding:20px;
 }
 
 /*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices.
