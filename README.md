@@ -354,7 +354,7 @@ The following technolgies were used in this project:
 
 - The Website was tested for usability on tablets and a variety of
   mobiles, including iPhone and Samsung. The results were
-  satifying and accomplished the UX goal fort smaller devices.
+  satifying and accomplished the UX goal for smaller devices.
 
 #### User Testing
 
