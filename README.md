@@ -16,7 +16,7 @@ challenging world of acting.
 ![Mockup Generator](/documentation/readme/mockup-generator.png/)
 
 A live version of Website can be found
-[here](https://bealby.github.io/Milestone-Project-1/)
+[here](https://bealby.github.io/Milestone-Project-1/ target="_blank")
 
 ## CONTENTS
 
@@ -121,7 +121,9 @@ all pages so that an agent can click intuitively and with ease.
 
 ### SKELETON
 
-Please find my Wireframes for Desktop, Tablet and Mobile [here](https://github.com/Bealby/Milestone-Project-1/blob/master/documentation/wireframes/lisa-fairfield-wireframes.pdf)
+Please find my Wireframes for Desktop, Tablet and Mobile
+[here](https://github.com/Bealby/Milestone-Project-1/blob/master/documentation/wireframes/lisa-fairfield-wireframes.pdf
+target="_blank")
 
 ### SURFACE
 
