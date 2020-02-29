@@ -80,7 +80,7 @@
 }
 
 
-/*Separate text class for contact.html text as not to affect margins as it would do for bio.html*/
+/*Separate class for contact.html text, as not to affect margins (as it would do for bio.html)*/
 
 .contact-text {
 	font-family: 'Playfair Display', serif;
@@ -99,8 +99,7 @@
 }
 
 .gallery-images {
-	max-width: 90%;
-	max-height: 350px;
+	max-width: 70%;
 }
 
 .bio-image {
