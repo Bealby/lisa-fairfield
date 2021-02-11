@@ -43,7 +43,7 @@
 
 .nav-menuitem a {
 	font-family: 'Playfair Display', serif;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 600;
 	color: #000;
 	margin: 0px;
@@ -215,7 +215,7 @@ This Media query allows text not to be justified on mobile devices.*/
 }
 	/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
 Text otherwise looked too big*/
-@media(min-width:640px) {
+@media(min-width:880px) {
     .nav-menuitem a {
         font-family: 'Playfair Display', serif;
         font-size: 28px;
