@@ -456,6 +456,9 @@ The following technolgies were used in this project:
 - All content for this Website was provided by Lisa Fairfied.
 - Lisa Fairfeid's referece in Bio was provided by
   Nick Brice – Artistic Director.
+- Image Modal Functionality
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_modal_js
+
 
 ### Media
 

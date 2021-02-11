@@ -94,37 +94,67 @@
         <div class="container-fluid">
             <div class="row p-4 align-items-center no-gutters">
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-1.jpg" id="myImg" class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
-                    
-                    <!--Modal-->
-                    <div id="myModal" class="modal">
-                        <span class="close">&times;</span>
-                        <img class="modal-content" id="img01">
-                        <div id="caption"></div>
-                    </div>
-                    
+                    <img src="assets/images/gallery-image-1.jpg" onclick="openModal();currentSlide(1)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-3.jpg"
-                        class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
+                    <img src="assets/images/gallery-image-3.jpg" onclick="openModal();currentSlide(2)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-5.jpg"
-                        class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
+                    <img src="assets/images/gallery-image-5.jpg" onclick="openModal();currentSlide(3)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-6.jpg"
-                        class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
+                    <img src="assets/images/gallery-image-6.jpg" onclick="openModal();currentSlide(4)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-4.jpg"
-                        class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
+                    <img src="assets/images/gallery-image-4.jpg" onclick="openModal();currentSlide(5)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
                 <div class="col-md-6 col-lg-4 mb-5 mt-3">
-                    <img src="assets/images/gallery-image-2.jpg"
-                        class="img-fluid d-block mx-auto gallery-images rounded" alt="Lisa Fairfield Actress">
+                    <img src="assets/images/gallery-image-2.jpg" onclick="openModal();currentSlide(6)" class="img-fluid d-block mx-auto gallery-images rounded hover-shadow" alt="Lisa Fairfield">
                 </div>
+            </div>
+            <!-- The Modal/Lightbox -->
+            <div id="myModal" class="modal">
+                <span class="close cursor" onclick="closeModal()">&times;</span>
+                <div class="modal-content">
 
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 6</div>
+                        <img src="assets/images/gallery-image-1.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 6</div>
+                        <img src="assets/images/gallery-image-3.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 6</div>
+                        <img src="assets/images/gallery-image-5.jpg" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 6</div>
+                        <img src="assets/images/gallery-image-6.jpg" style="width:100%">
+                    </div>
+                    <div class="mySlides">
+                        <div class="numbertext">5 / 6</div>
+                        <img src="assets/images/gallery-image-4.jpg" style="width:100%">
+                    </div>
+                    <div class="mySlides">
+                        <div class="numbertext">6 / 6</div>
+                        <img src="assets/images/gallery-image-2.jpg" style="width:100%">
+                    </div>
+
+                    <!-- Next/previous controls -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+                    <!-- Caption text -->
+                    <div class="caption-container">
+                        <p id="caption"></p>
+                    </div>
+
+                </div>
             </div>
         </div>
     </section>
