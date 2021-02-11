@@ -285,6 +285,15 @@ img.hover-shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/*FONT AWESOME*/
+
+.fa-envelope{
+    color:rgb(0, 0, 0, .5);
+}
+
+.fa-phone{
+    color:rgb(0, 0, 0, .5);v
+}
 
 /*FOOTER*/
 
@@ -292,8 +301,24 @@ img.hover-shadow {
     font-family: 'Playfair Display', serif;
 	font-size: 22px;
 	font-weight: 600;
-	color: #000;
-	margin: 0px;
+	color:rgb(0,0,0,.5);
+    margin: 0px;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer-align-email{
+    text-align: center;
+}
+
+.footer-align-tel{
+    text-align: center;
+}
+
+.footer-margin-bottom{
+    margin-bottom: 1rem;
 }
 
 
@@ -390,4 +415,25 @@ Text otherwise looked too big*/
   .modal-content {
     width: 100%;
   }
+}
+
+/* Footer align for mobile devices for center positioning */
+@media(min-width:992px){
+    .footer-align-email{
+        text-align: right;
+    }
+}
+
+/* Footer align for mobile devices for center positioning */
+@media(min-width:992px){
+    .footer-align-tel{
+        text-align: left;
+    }
+}
+
+/* Footer align margin-bottom for mobile devices for better spacing*/
+@media(min-width:992px){
+    .footer-margin-bottom{
+        margin-bottom: 0rem;
+    }
 }
