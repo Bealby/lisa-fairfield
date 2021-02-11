@@ -88,12 +88,16 @@
 	color: rgb(255,255, 255);
 }
 
+.contact-form {
+	padding-right: 2rem;
+	padding-left: 2rem;
+}
+
 /*Hover Overlay for SEND Icon Button */
 
 .hover-overlay-text:hover{
     transform: scale(1.1) !important;
 }
-
 
 /*SECTIONS*/
 
@@ -183,51 +187,58 @@ For smaller devices it resorts back to 100% width and 0 padding */
     }
 	/*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices.
 Otherwise it becomes to small on mobile*/
-	@media(min-width:792px) {
-		.section-hero-image {
-			width: 55%;
-		}
-	}
+@media(min-width:792px) {
+    .section-hero-image {
+        width: 55%;
+    }
+}
 	/*Allows bio-images to be at 80% width for mobile devices and reduced
 to 70% width for larger devices in bio.html.*/
-	@media(min-width:510px) {
-		.bio-image {
-			width: 70%;
-		}
-	}
+@media(min-width:510px) {
+    .bio-image {
+        width: 70%;
+    }
+}
 	/*Allows bio-image-1 to have a slightly lower margin for medium devices before
 transition to 1 column for smaller devices in bio.html.*/
-	@media(min-width:992px) {
-		.bio-image-1-top-margin {
-			margin-top: 90px;
-		}
-	}
+@media(min-width:992px) {
+    .bio-image-1-top-margin {
+        margin-top: 90px;
+    }
+}
 	/*In bio.html we wanted text to be justified. For mobile devices text became mis-aligned.
 This Media query allows text not to be justified on mobile devices.*/
-	@media(min-width:510px) {
-		.bio-text-justify {
-			text-align: justify;
-		}
-	}
+@media(min-width:510px) {
+    .bio-text-justify {
+        text-align: justify;
+    }
+}
 	/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
 Text otherwise looked too big*/
-	@media(min-width:640px) {
-		.nav-menuitem a {
-			font-family: 'Playfair Display', serif;
-			font-size: 28px;
-			font-weight: 600;
-			color: #000;
-			margin: 0px;
-		}
-	}
+@media(min-width:640px) {
+    .nav-menuitem a {
+        font-family: 'Playfair Display', serif;
+        font-size: 28px;
+        font-weight: 600;
+        color: #000;
+        margin: 0px;
+    }
+}
 	/*This Media query allows for a tidy margin in medium to large devices but reduces to margin-left and right to
 0px to be eligible on mobile*/
-	@media(min-width:510px) {
-		.section-text {
-			font-family: 'Playfair Display', serif;
-			font-size: 17px;
-			color: #000;
-			margin-left: 20px;
-			margin-right: 20px;
-		}
-    } 
+@media(min-width:510px) {
+    .section-text {
+        font-family: 'Playfair Display', serif;
+        font-size: 17px;
+        color: #000;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+} 
+
+@media(min-width:880px) {
+    .contact-form {
+        padding-right: 12rem;
+        padding-left: 12rem;
+    }
+}
