@@ -53,7 +53,7 @@
 .nav-menu-title-lisa {
 	font-family: 'Calligraffitti', cursive;
 	font-size: 30px;
-	color: #000;
+	color: rgb(0, 0, 0);
 	margin-top: 0px;
 	margin-left: 10px;
 	margin-bottom: 0px;
@@ -65,7 +65,7 @@
 .nav-menu-title-actress {
 	font-family: 'Playfair Display', serif;
 	font-size: 20px;
-	color: #000;
+	color: rgb(0, 0, 0);
 	margin-top: 0px;
 	letter-spacing: 1px;
 }
@@ -80,13 +80,20 @@
 }
 
 .btn-font {
-	background-color: rgb(109, 189, 174);
+	background-color:rgb(67, 67, 67, 1);
 	font-weight: 600;
 	letter-spacing: 2px;
 	border-radius: 0.5rem;
 	box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1);
-	color: rgb(255, 255, 255);
+	color: rgb(255,255, 255);
 }
+
+/*Hover Overlay for SEND Icon Button */
+
+.hover-overlay-text:hover{
+    transform: scale(1.1) !important;
+}
+
 
 /*SECTIONS*/
 
