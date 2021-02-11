@@ -79,6 +79,15 @@
 	border: rgb(211, 235, 230);
 }
 
+.btn-font {
+	background-color: rgb(109, 189, 174);
+	font-weight: 600;
+	letter-spacing: 2px;
+	border-radius: 0.5rem;
+	box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1);
+	color: rgb(255, 255, 255);
+}
+
 /*SECTIONS*/
 
 /*Text style for content in bio.html*/
@@ -93,6 +102,12 @@
 .section-text-showreels {
 	font-family: 'Playfair Display', serif;
 	font-size: 19px;
+	color: #000;
+}
+
+.section-text-contact {
+	font-family: 'Playfair Display', serif;
+	font-size: 22px;
 	color: #000;
 }
 
