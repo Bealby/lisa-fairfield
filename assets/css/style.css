@@ -93,6 +93,11 @@
 	padding-left: 2rem;
 }
 
+.contact-field-margin{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
 /*Hover Overlay for SEND Icon Button */
 
 .hover-overlay-text:hover{
@@ -236,9 +241,18 @@ Text otherwise looked too big*/
     }
 } 
 
+	/*Reduce contact form margins for contact form for better in fit on mobile devices*/
 @media(min-width:880px) {
     .contact-form {
         padding-right: 12rem;
         padding-left: 12rem;
+    }
+}
+
+	/*Reduce field margins on mobile devices for better viewing*/
+@media(min-width:880px) {
+    .contact-field-margin{
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
 }
