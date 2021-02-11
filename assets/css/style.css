@@ -82,6 +82,12 @@
 	margin-right: 0px;
 }
 
+.section-text-showreels {
+	font-family: 'Playfair Display', serif;
+	font-size: 17px;
+	color: #000;
+}
+
 
 /*Separate class for cintent contact.html, as not to affect margins (as it would do for bio.html content)*/
 
