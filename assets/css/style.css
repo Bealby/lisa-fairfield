@@ -111,8 +111,6 @@
 	font-family: 'Playfair Display', serif;
 	font-size: 17px;
 	color: #000;
-	margin-left: 0px;
-	margin-right: 0px;
 }
 
 .section-text-showreels {
@@ -127,6 +125,13 @@
 	color: #000;
 }
 
+.section-headers {
+	font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight:700;
+	color: #000;
+}
+
 /*Styling for contact form in contact.html*/
 .contact-center-form {
 	margin: 0 auto;
@@ -135,26 +140,16 @@
 }
 
 .bio-text-justify {
-	text-align: initial;
+	text-align: justify;
 }
 
 .gallery-images {
 	max-width: 70%;
 }
 
-/*Images in Bio.html*/
-.bio-image {
-	width: 80%;
-}
-
 /*Main image on index.html"*/
 .section-hero-image {
 	width: 90%;
-}
-
-/*First image on Bio.html page to drop down margin a little for medium devices*/
-.bio-image-1-top-margin {
-	margin-top: 0px;
 }
 
 /*Modal Feature*/
@@ -350,27 +345,9 @@ Otherwise it becomes to small on mobile*/
         width: 55%;
     }
 }
-/*Allows bio-images to be at 80% width for mobile devices and reduced
-to 70% width for larger devices in bio.html.*/
-@media(min-width:510px) {
-    .bio-image {
-        width: 70%;
-    }
+
 }
-/*Allows bio-image-1 to have a slightly lower margin for medium devices before
-transition to 1 column for smaller devices in bio.html.*/
-@media(min-width:992px) {
-    .bio-image-1-top-margin {
-        margin-top: 90px;
-    }
-}
-/*In bio.html we wanted text to be justified. For mobile devices text became mis-aligned.
-This Media query allows text not to be justified on mobile devices.*/
-@media(min-width:510px) {
-    .bio-text-justify {
-        text-align: justify;
-    }
-}
+
 /*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
 Text otherwise looked too big*/
 @media(min-width:880px) {
@@ -382,17 +359,6 @@ Text otherwise looked too big*/
         margin: 0px;
     }
 }
-/*This Media query allows for a tidy margin in medium to large devices but reduces to margin-left and right to
-0px to be eligible on mobile*/
-@media(min-width:510px) {
-    .section-text {
-        font-family: 'Playfair Display', serif;
-        font-size: 17px;
-        color: #000;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-} 
 
 /*Reduce contact form margins for contact form for better in fit on mobile devices*/
 @media(min-width:880px) {
