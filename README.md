@@ -16,7 +16,7 @@ challenging world of acting.
 ![Mockup Generator](/documentation/readme/mockup-generator.png/)
 
 A live version of Website can be found
-[here](https://bealby.github.io/Milestone-Project-1/)
+[here](https://lisafairfield.com/)
 
 ## CONTENTS
 
