@@ -127,7 +127,7 @@
 
 .section-headers {
 	font-family: 'Playfair Display', serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight:700;
 	color: #000;
 }
@@ -346,20 +346,6 @@ Otherwise it becomes to small on mobile*/
     }
 }
 
-}
-
-/*This Media query reduces size of text in Nav bar to a smaller font in smaller devices.
-Text otherwise looked too big*/
-@media(min-width:880px) {
-    .nav-menuitem a {
-        font-family: 'Playfair Display', serif;
-        font-size: 28px;
-        font-weight: 600;
-        color: #000;
-        margin: 0px;
-    }
-}
-
 /*Reduce contact form margins for contact form for better in fit on mobile devices*/
 @media(min-width:880px) {
     .contact-form {
@@ -401,5 +387,16 @@ Text otherwise looked too big*/
 @media(min-width:992px){
     .footer-margin-bottom{
         margin-bottom: 0rem;
+    }
+}
+
+/* Reduce nav font for better fitting for medium devices*/
+@media(min-width:992px){
+    .nav-menuitem a {
+        font-family: 'Playfair Display', serif;
+        font-size: 26px;
+        font-weight: 600;
+        color: #000;
+        margin: 0px;
     }
 }
