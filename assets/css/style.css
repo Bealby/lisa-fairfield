@@ -132,6 +132,11 @@
 	color: #000;
 }
 
+.bio-margin{
+    margin-left:0.8rem;
+    margin-right:0.8rem;
+}
+
 /*Styling for contact form in contact.html*/
 .contact-center-form {
 	margin: 0 auto;
@@ -140,7 +145,7 @@
 }
 
 .bio-text-justify {
-	text-align: justify;
+	text-align: left;
 }
 
 .gallery-images {
@@ -398,5 +403,20 @@ Otherwise it becomes to small on mobile*/
         font-weight: 600;
         color: #000;
         margin: 0px;
+    }
+}
+
+/* Margin setting for lg and sm for better viewing of text in bio*/
+@media(min-width:992px){
+    .bio-margin{
+        margin-left:3rem;
+        margin-right:3rem;
+    }
+}
+
+/* Justiufy to left for claerer viewing of text on smaller devices*/
+@media(min-width:992px){
+    .bio-text-justify {
+        text-align: justify;
     }
 }
