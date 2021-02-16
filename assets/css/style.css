@@ -133,16 +133,18 @@
 }
 
 .bio-margin{
-    margin-left:0.4rem;
-    margin-right:0.4rem;
+    margin-left:1rem;
+    margin-right:1rem;
 }
 
 .padding-bio-left{
     padding-left:0rem;
+    padding-right:0rem;
 }
 
 .padding-bio-right{
     padding-right:0rem;
+    padding-left:0rem;
 }
 
 /*Styling for contact form in contact.html*/
@@ -335,6 +337,12 @@ img.hover-shadow {
 .footer-menuitem span {
     font-family: 'PT Serif';
 	font-size: 22px;
+}
+
+/*Images*/
+
+.image {
+    box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1)
 }
 
 
