@@ -137,6 +137,14 @@
     margin-right:0.4rem;
 }
 
+.padding-bio-left{
+    padding-left:0rem;
+}
+
+.padding-bio-right{
+    padding-right:0rem;
+}
+
 /*Styling for contact form in contact.html*/
 .contact-center-form {
 	margin: 0 auto;
@@ -413,6 +421,21 @@ Otherwise it becomes to small on mobile*/
         margin-right:3rem;
     }
 }
+
+/* Padding left for text in bio.html for better viewing on desktop*/
+@media(min-width:992px){
+    .padding-bio-left{
+        padding-left:2rem;
+    }
+}
+
+/* Padding right for text in bio.html for better viewing on desktop*/
+@media(min-width:992px){
+    .padding-bio-right{
+        padding-right:2rem;
+    }
+}
+
 
 /* Justiufy to left for claerer viewing of text on smaller devices*/
 @media(min-width:992px){
