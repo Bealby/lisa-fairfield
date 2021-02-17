@@ -303,11 +303,11 @@ img.hover-shadow {
 /*FONT AWESOME*/
 
 .fa-envelope{
-    color:rgb(0, 0, 0, .5);
+    color:rgb(0, 0, 0, 1);
 }
 
 .fa-phone{
-    color:rgb(0, 0, 0, .5);
+    color:rgb(0, 0, 0, 1);
 }
 
 /*FOOTER*/
@@ -472,13 +472,13 @@ Otherwise it becomes to small on mobile*/
 /*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom  -----*/
 @media (min-width: 992px) {
 .footer{
-    height:5rem;
+    height:3rem;
     }
 }
 
 /*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom-----*/
 @media (min-width: 992px) {
 #wrapper{
-    padding-bottom:5rem;
+    padding-bottom:3rem;
     }
 }
