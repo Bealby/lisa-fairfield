@@ -357,6 +357,10 @@ img.hover-shadow {
     box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1)
 }
 
+.close {
+    color: rgb(0, 0, 0, 1)
+}
+
 /*MÉDIA QUERIES*/
 
 

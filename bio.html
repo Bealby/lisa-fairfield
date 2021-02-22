@@ -22,11 +22,14 @@
             bottom: 0;
             left: 0;
             z-index: 1040;
-            background-color: rgb(0, 0, 0, 0.6);
         }
 
         .modal {
-            background-color: rgb(0, 0, 0, 0.6);
+            background-color: rgb(0, 0, 0, 0.8);
+        }
+        .modal-body {
+            max-height: calc(100vh - 210px);
+            overflow-y: auto;
         }
     </style>
 </head>
@@ -170,17 +173,70 @@
                         Modal</button>
 
                     <!-- Modal -->
-                    <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal fade modal-dialog-scrollable" id="myModal" role="dialog">
                         <div class="modal-dialog">
 
                             <!-- Modal content-->
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
                                     <h4 class="modal-title">Modal Header</h4>
+                                    <button type="button" class="close" data-dismiss="modal"><i class="fas fa-times"></i></button>
                                 </div>
                                 <div class="modal-body">
-                                    <p>Some text in the modal.</p>
+                                    <p>I worked with Lisa for 3 years on a range of theatre projects in Brighton,
+                                        Edinburgh, London and at Glastonbury.
+                                        She was initially with us as a performer, quickly moving on and taking on a
+                                        range of producer-stage manager-team leader
+                                        roles over the period that required a range of important competencies and
+                                        emotional intelligence due to the range or
+                                        pressures and challenges that performing live theatre and hospitality present.
+                                        As a professional performer she was top class in all respects, well prepared,
+                                        reliable, punctual, and a great 'team player' -
+                                        personable, friendly, warm and gently assertive when required. The shows she
+                                        helped develop and perform were top
+                                        quality, helping the team win a shortlisting for the premier theatre award at
+                                        the Edinburgh Festival.
+                                        In addition to performing, she quickly and proactively involved herself in all
+                                        aspects of the leadership and management
+                                        of the group.
+                                        This included developing and running the catering we would provide on our shows
+                                        - sourcing supplies, organizing food
+                                        preparation, serving the public.
+                                        She also took on the role of organizing the housing for our teams, sourcing
+                                        accommodation, dealing with agencies,
+                                        negotiating contracts, as well as setting up and organizing sleeping
+                                        arrangements to host guest and create revenue for the
+                                        group to help boost incomes for team members.
+                                        She also took a lead role in stage managing/supervising live high pressure show
+                                        environment with big audiences. This
+                                        required dealing positively and assertively with sensitive under pressure
+                                        performers. Her ability to get things done through
+                                        potentially 'difficult' people was very noticeable.
+                                        She would also handle public contact with audiences calmly and positively,
+                                        serving breakfast to hungry demanding crowds
+                                        at high speed and with great customer service.
+                                        Her roles including researching and sourcing props, costumes and equipment from
+                                        a range of suppliers, keeping clear
+                                        financial records, as well as ensuring everything was transported to venues, and
+                                        when on location, ensuring the team put
+                                        and kept everything in its right place.
+                                        She was always willing to take on any responsibility that needing doing - with
+                                        energy and calm, often leading other people,
+                                        winning their support, getting and keeping them on board with company procedures
+                                        and plans.
+                                        She was very effective in organizing housing for entire teams, dealing with the
+                                        landlord and agency, setting up and coordinating plans and schedules for room
+                                        sharing to raise additional income for the group.
+                                        She was always ahead of other members of the team on preparation and
+                                        organization, and was always positive, polite and
+                                        warm even when under very high pressure and demanding work schedules.
+                                        Our experience was one of a woman of energy, focus and dedication, who can
+                                        handle people with warmth and politeness,
+                                        as well as being gently and assertive, dealing with some very potentially
+                                        'difficult' characters under intense pressure, and
+                                        making sure a wide range of responsibilities were executed professionally. We
+                                        won several award nominations, awards
+                                        and 5 star press acclaim for our work during the time Lisa was on our team.</p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -231,7 +287,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <script src="assets/js/modal-reference.js"></script>
 </body>
 
 </html>
