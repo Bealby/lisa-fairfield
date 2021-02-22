@@ -101,6 +101,10 @@ body{
 	color: rgb(255,255, 255);
 }
 
+.margin-open{
+    margin-top:1rem;
+}
+
 .contact-form {
 	padding-right: 2rem;
 	padding-left: 2rem;
@@ -488,5 +492,12 @@ Otherwise it becomes to small on mobile*/
 @media (min-width: 992px) {
 #wrapper{
     padding-bottom:3.5rem;
+    }
+}
+
+/*-----Margin top for better spacing for button open in bio.html-----*/
+@media (min-width: 992px) {
+.margin-open{
+    margin-top:0rem;
     }
 }
