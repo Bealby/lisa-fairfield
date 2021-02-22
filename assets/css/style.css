@@ -172,6 +172,10 @@ body{
 	width: 90%;
 }
 
+.profile{
+    width: 50%;
+}
+
 /*Modal Feature*/
 
 .row > .column {
