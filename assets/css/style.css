@@ -84,12 +84,20 @@ body{
 	border: rgb(211, 235, 230);
 }
 
-.btn-font {
-	background-color:rgb(67, 67, 67, 1);
+.btn-font-send {
+	background-color:rgb(0, 0, 0, 1);
 	font-weight: 600;
 	letter-spacing: 2px;
 	border-radius: 0.5rem;
 	box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1);
+	color: rgb(255,255, 255);
+}
+
+.btn-font-open {
+	background-color:rgb(0, 0, 0, 1);
+	font-weight: 600;
+	letter-spacing: 2px;
+	border-radius: 0.5rem;
 	color: rgb(255,255, 255);
 }
 
@@ -138,8 +146,8 @@ body{
 }
 
 .bio-margin{
-    margin-left:1.5rem;
-    margin-right:1.5rem;
+    margin-left:1.2rem;
+    margin-right:1.2rem;
 }
 
 .padding-bio-left{
