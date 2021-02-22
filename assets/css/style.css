@@ -313,11 +313,12 @@ img.hover-shadow {
 /*FOOTER*/
 
 .footer-menuitem {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', serif;
 	font-size: 22px;
 	font-weight: 600;
 	color:rgb(0,0,0,.5);
     margin: 0px;
+    letter-spacing: 1.5px;
 }
 
 .footer a {
@@ -347,20 +348,11 @@ img.hover-shadow {
     margin-bottom: 1rem;
 }
 
-
-/*Font change for digit "1" in email address for clarity in Footer*/
-
-.footer-menuitem span {
-    font-family: 'PT Serif';
-	font-size: 22px;
-}
-
 /*Images*/
 
 .image {
     box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1)
 }
-
 
 /*MÉDIA QUERIES*/
 
