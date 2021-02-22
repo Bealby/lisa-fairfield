@@ -101,6 +101,14 @@ body{
 	color: rgb(255,255, 255);
 }
 
+.btn-close {
+	background-color:rgb(255, 255, 255, 1);
+	font-weight: 600;
+	letter-spacing: 2px;
+	border-radius: 0.5rem;
+	color: rgb(255,255, 255);
+}
+
 .margin-open{
     margin-top:1rem;
 }
