@@ -188,10 +188,6 @@ body{
 	width: 90%;
 }
 
-.profile{
-    width: 50%;
-}
-
 /*Modal Feature*/
 
 .row > .column {
@@ -378,6 +374,10 @@ img.hover-shadow {
     box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1)
 }
 
+.profile{
+    width: 50%;
+}
+
 /*MÉDIA QUERIES*/
 
 
@@ -496,5 +496,12 @@ Otherwise it becomes to small on mobile*/
 @media (min-width: 992px) {
 #wrapper{
     padding-bottom:3.5rem;
+    }
+}
+
+/*-----Reduce profile image for smaller devices for better viewing on sm/lg devices-----*/
+@media (min-width: 992px) {
+.profile{
+    width: 20%;
     }
 }
