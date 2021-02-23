@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800|PT+Serif&display:100,200,300,400,500,600,700,800');
- body{
+
+body{
      position: relative;
      min-height:calc(100vh);
 }
-/*HEADERS*/
+
+/*---Headers---*/
+
  .header-title h1 {
      font-family: 'Calligraffitti', cursive;
      font-size: 60px;
@@ -13,6 +16,7 @@
      margin-bottom: 25px;
      letter-spacing: 4px;
 }
+
  .header-title h2 {
      font-family: 'Playfair Display', serif;
      font-size: 25px;
@@ -22,10 +26,13 @@
      margin-bottom: 16px;
      letter-spacing: 1px;
 }
+
  .header-title a {
      text-decoration: none;
 }
-/*HEADER BLOCK DIVIDERS*/
+
+/*---Block Dividers---*/
+
  .header-block-divider {
      width: 95%;
      height: 1px;
@@ -34,7 +41,9 @@
      margin-top: 1px;
      margin-bottom: 1px;
 }
-/*NAVBARS*/
+
+/*---Navbar---*/
+
  .nav-menuitem a {
      font-family: 'Playfair Display', serif;
      font-size: 18px;
@@ -42,7 +51,7 @@
      color: #000;
      margin: 0px;
 }
-/*The main title above navbar - LISA FAIRFIELD*/
+
  .nav-menu-title-lisa {
      font-family: 'Calligraffitti', cursive;
      font-size: 30px;
@@ -53,7 +62,7 @@
      margin-right: 0px;
      letter-spacing: 2px;
 }
-/*The main title above navbar - ACTOR*/
+
  .nav-menu-title-actress {
      font-family: 'Playfair Display', serif;
      font-size: 20px;
@@ -61,13 +70,16 @@
      margin-top: 0px;
      letter-spacing: 1px;
 }
-/*CONTACT FORM*/
+
+/*---Contact Form---*/
+
  .contact-border {
      border-radius: 3rem;
      box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1);
      background-color: rgb(255, 255, 255);
      border: rgb(211, 235, 230);
 }
+
  .btn-font-send {
      background-color:rgb(67, 67, 67, 1);
      font-weight: 600;
@@ -76,6 +88,7 @@
      box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1);
      color: rgb(255,255, 255);
 }
+
  .btn-font-open {
      background-color:rgb(67, 67, 67, 1);
      font-weight: 600;
@@ -83,6 +96,7 @@
      border-radius: 0.5rem;
      color: rgb(255,255, 255);
 }
+
  .btn-close {
      background-color:rgb(255, 255, 255, 1);
      font-weight: 600;
@@ -90,74 +104,100 @@
      border-radius: 0.5rem;
      color: rgb(255,255, 255);
 }
+
  .contact-form {
      padding-right: 2rem;
      padding-left: 2rem;
 }
+
  .contact-field-margin{
      padding-left: 1.5rem;
      padding-right: 1.5rem;
 }
+
 /*Hover Overlay for SEND Icon Button */
  .hover-overlay-text:hover{
      transform: scale(1.1) !important;
 }
-/*SECTIONS*/
-/*Text style for content in bio.html*/
+
+/*---Text---*/
+
  .section-text {
      font-family: 'Playfair Display', serif;
      font-size: 17px;
      color: #000;
 }
+
  .reference-text{
      font-size: 14px;
 }
+
  .section-text-showreels {
      font-family: 'Playfair Display', serif;
      font-size: 19px;
      color: #000;
 }
+
  .section-text-contact {
      font-family: 'Playfair Display', serif;
      font-size: 22px;
      color: #000;
 }
+
  .section-headers {
      font-family: 'Playfair Display', serif;
      font-size: 24px;
      font-weight:700;
      color: #000;
 }
+
+ .bio-text-justify {
+     text-align: left;
+}
+
+/*---Margins---*/
+
  .bio-margin{
      margin-left:0.6rem;
      margin-right:1.2rem;
      margin-top:0rem;
 }
+
  .padding-bio-left{
      padding-left:0rem;
      padding-right:0rem;
 }
+
  .padding-bio-right{
      padding-right:0rem;
      padding-left:0rem;
 }
-/*Styling for contact form in contact.html*/
+
  .contact-center-form {
      margin: 0 auto;
      max-width: 100%;
      padding: 0px;
 }
- .bio-text-justify {
-     text-align: left;
-}
+
+/*---Images---*/
+
  .gallery-images {
      max-width: 70%;
 }
-/*Main image on index.html"*/
+
  .section-hero-image {
      width: 90%;
 }
-/*Modal Feature*/
+
+ .image {
+     box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1) 
+}
+ .profile{
+     width: 50%;
+}
+
+/*---Modal---*/
+
  .row > .column {
      padding: 0 8px;
 }
@@ -166,58 +206,67 @@
      display: table;
      clear: both;
 }
-/* Create four equal columns that floats next to eachother */
+/*---create four equal columns that float next to each other---*/
+
  .column {
      float: left;
      width: 25%;
 }
-/* The Modal (background) */
- .close {
-     color: rgb(0, 0, 0, 1) 
+
+/*---modal background---*/
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: black;
 }
-/* The Modal (background) */
- .modal {
-     display: none;
-     position: fixed;
-     z-index: 1;
-     padding-top: 100px;
-     left: 0;
-     top: 0;
-     width: 100%;
-     height: 100%;
-     overflow: auto;
-     background-color: black;
+
+/*---modal content---*/
+
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    width: 90%;
+    max-width: 1200px;
 }
-/* Modal Content */
- .modal-content {
-     position: relative;
-     background-color: #fefefe;
-     margin: auto;
-     padding: 0;
-     width: 90%;
-     max-width: 1200px;
+
+/*---the close button---*/
+
+.close {
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(0, 0, 0, 1) 
 }
-/* The Close Button */
- .close {
-     color: white;
-     position: absolute;
-     top: 10px;
-     right: 25px;
-     font-size: 35px;
-     font-weight: bold;
-}
+
  .close:hover, .close:focus {
      color: #999;
      text-decoration: none;
      cursor: pointer;
 }
-/* Hide the slides by default */
+
+/*---hide the slides by default---*/
+
  .mySlides {
      display: none;
 }
-/* Next & previous buttons */
+
+/*---next & previous buttons---*/
+
  .prev, .next {
-     cursor: pointer;
+    cursor: pointer;
      position: absolute;
      top: 50%;
      width: auto;
@@ -231,16 +280,22 @@
      user-select: none;
      -webkit-user-select: none;
 }
-/* Position the "next button" to the right */
+
+/*---position the "next button" to the right---*/
+
  .next {
      right: 0;
      border-radius: 3px 0 0 3px;
 }
-/* On hover, add a black background color with a little bit see-through */
+
+/*---on hover, add a black background color with a little bit see-through---*/
+
  .prev:hover, .next:hover {
      background-color: rgba(0, 0, 0, 0.8);
 }
-/* Number text (1/3 etc) */
+
+/*---number text (1/3 etc)---*/
+
  .numbertext {
      color: #f2f2f2;
      font-size: 12px;
@@ -248,33 +303,43 @@
      position: absolute;
      top: 0;
 }
-/* Caption text */
+/*---caption text---*/
+
  .caption-container {
      text-align: center;
      background-color: black;
      padding: 2px 16px;
      color: white;
 }
+
  img.demo {
      opacity: 0.6;
 }
+
  .active, .demo:hover {
      opacity: 1;
 }
+
  img.hover-shadow {
      transition: 0.3s;
 }
+
  .hover-shadow:hover {
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-/*FONT AWESOME*/
+
+/*---Font Awesome---*/
+
  .fa-envelope{
      color:rgb(0, 0, 0, 1);
 }
+
  .fa-phone{
      color:rgb(0, 0, 0, 1);
 }
-/*FOOTER*/
+
+/*---footer---*/
+
  .footer-menuitem {
      font-family: 'Roboto', serif;
      font-size: 20px;
@@ -282,24 +347,30 @@
      color:rgb(0,0,0,.5);
      margin: 0px;
 }
+
  .footer a {
      text-decoration: none;
 }
+
  .footer{
      position: absolute;
      bottom: 0;
      width:100%;
      height:7rem;
 }
+
  #wrapper {
      padding-bottom:7rem;
 }
+
  .footer-align-email{
      text-align: center;
 }
+
  .footer-align-tel{
      text-align: center;
 }
+
  .footer-margin-bottom{
      margin-bottom: 1rem;
 }
@@ -316,15 +387,10 @@
     margin-bottom:0.5rem;
 }
 
-/*Images*/
- .image {
-     box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1) 
-}
- .profile{
-     width: 50%;
-}
-/*MÉDIA QUERIES*/
-/*Reduces width and padding in <form> in contact.html for desktop. For smaller devices it resorts back to 100% width and 0 padding */
+/*--Media Queries--*/
+
+/*---Reduces width and padding in <form> in contact.html for desktop. For smaller devices it resorts back to 100% width and 0 padding---*/
+
  @media(min-width:992px) {
      .contact-center-form {
          margin: 0 auto;
@@ -332,52 +398,68 @@
          padding: 20px;
     }
 }
-/*Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices. Otherwise it becomes to small on mobile*/
+
+/*---Allows hero-image to be at 90% width for smaller devices and reduced to 60% width for larger devices. Otherwise it becomes to small on mobile---*/
+
  @media(min-width:792px) {
      .section-hero-image {
          width: 55%;
     }
 }
-/*Reduce contact form margins for contact form for better in fit on mobile devices*/
+
+/*---Reduce contact form margins for contact form for better in fit on mobile devices---*/
+
  @media(min-width:880px) {
      .contact-form {
          padding-right: 12rem;
          padding-left: 12rem;
     }
 }
-/*Reduce field margins on mobile devices for better viewing*/
+
+/*---Reduce field margins on mobile devices for better viewing---*/
+
  @media(min-width:880px) {
      .contact-field-margin{
          padding-left: 3rem;
          padding-right: 3rem;
     }
 }
-/* 100% Image Width on Smaller Screens */
+
+/*---100% Image Width on Smaller Screens---*/
+
  @media only screen and (max-width: 700px){
      .modal-content {
          width: 100%;
     }
 }
-/* Footer align for mobile devices for center positioning */
+
+/*---Footer align for mobile devices for center positioning---*/
+
  @media(min-width:992px){
      .footer-align-email{
          text-align: right;
     }
 }
-/* Footer align for mobile devices for center positioning */
+
+/*---Footer align for mobile devices for center positioning---*/
+
  @media(min-width:992px){
      .footer-align-tel{
          text-align: left;
          padding-left:4rem;
     }
 }
-/* Footer align margin-bottom for mobile devices for better spacing*/
+
+/*---Footer align margin-bottom for mobile devices for better spacing---*/
+
  @media(min-width:992px){
      .footer-margin-bottom{
          margin-bottom: 0rem;
     }
 }
-/* Reduce nav font for better fitting for medium devices*/
+
+/*---Reduce nav font for better fitting for medium devices---*/
+
  @media(min-width:992px){
      .nav-menuitem a {
          font-family: 'Playfair Display', serif;
@@ -387,7 +469,9 @@
          margin: 0px;
     }
 }
-/* Margin setting for lg and sm for better viewing of text in bio*/
+
+/*---Margin setting for lg and sm for better viewing of text in bio---*/
+
  @media(min-width:992px){
      .bio-margin{
          margin-left:3rem;
@@ -395,30 +479,38 @@
          margin-top:3rem;
     }
 }
-/* Padding left for text in bio.html for better viewing on desktop*/
+
+/*---Padding left for text in bio.html for better viewing on desktop---*/
+
  @media(min-width:992px){
      .padding-bio-left{
          padding-left:2rem;
     }
 }
-/* Padding right for text in bio.html for better viewing on desktop*/
+
+/*---Padding right for text in bio.html for better viewing on desktop---*/
+
  @media(min-width:992px){
      .padding-bio-right{
          padding-right:2rem;
     }
 }
-/* Justiufy to left for claerer viewing of text on smaller devices*/
+
+/*---Justify to left for clearer viewing of text on smaller devices---*/
+
  @media(min-width:992px){
      .bio-text-justify {
          text-align: justify;
     }
 }
+
 /*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom -----*/
  @media (min-width: 992px) {
      .footer{
          height:3.5rem;
     }
 }
+
 /*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom-----*/
  @media (min-width: 992px) {
      #wrapper{
