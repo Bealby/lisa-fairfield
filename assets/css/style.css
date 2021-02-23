@@ -160,6 +160,7 @@ body{
 .bio-margin{
     margin-left:0.6rem;
     margin-right:1.2rem;
+    margin-top:0rem;
 }
 
 .padding-bio-left{
@@ -464,6 +465,7 @@ Otherwise it becomes to small on mobile*/
     .bio-margin{
         margin-left:3rem;
         margin-right:3rem;
+        margin-top:3rem;
     }
 }
 
