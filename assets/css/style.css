@@ -303,6 +303,19 @@
  .footer-margin-bottom{
      margin-bottom: 1rem;
 }
+
+.copyright {
+	text-align: center;
+	font-size: 0.6rem;
+	font-family: 'Source Serif Pro', serif;
+    color: rgb(0, 0, 0, 1);
+    margin-top:0.8rem;
+}
+
+.copyright-text{
+    margin-bottom:0.5rem;
+}
+
 /*Images*/
  .image {
      box-shadow: 0rem 0rem 0.5rem 0rem rgb(0, 0, 0, 1) 
