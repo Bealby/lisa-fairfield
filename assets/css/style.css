@@ -375,7 +375,7 @@ img.hover-shadow {
 }
 
 .profile{
-    width: 50%;
+    width: 45%;
 }
 
 /*MÉDIA QUERIES*/
@@ -502,6 +502,6 @@ Otherwise it becomes to small on mobile*/
 /*-----Reduce profile image for smaller devices for better viewing on sm/lg devices-----*/
 @media (min-width: 992px) {
 .profile{
-    width: 20%;
+    width: 40%;
     }
 }
