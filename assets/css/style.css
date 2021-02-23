@@ -134,6 +134,10 @@ body{
 	color: #000;
 }
 
+.reference-text{
+    font-size: 16px;
+}
+
 .section-text-showreels {
 	font-family: 'Playfair Display', serif;
 	font-size: 19px;
