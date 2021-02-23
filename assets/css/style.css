@@ -504,14 +504,14 @@ body{
     }
 }
 
-/*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom -----*/
+/*---Increase height for footer for smaller devices to fit better on smaller devices at bottom---*/
  @media (min-width: 992px) {
      .footer{
          height:3.5rem;
     }
 }
 
-/*-----Increase height for footer for smaller devices to fit better on smaller devices at bottom-----*/
+/*---Increase height for footer for smaller devices to fit better on smaller devices at bottom---*/
  @media (min-width: 992px) {
      #wrapper{
          padding-bottom:3.5rem;
