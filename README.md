@@ -458,6 +458,8 @@ The following technolgies were used in this project:
   Nick Brice – Artistic Director.
 - Image Modal Functionality
 https://www.w3schools.com/css/tryit.asp?filename=trycss_image_modal_js
+- Audio pause/ players
+https://stackoverflow.com/questions/19790506/multiple-audio-html-auto-stop-other-when-current-is-playing-with-javascript
 
 
 ### Media
