@@ -387,6 +387,17 @@ body{
     margin-bottom:0.5rem;
 }
 
+/*--Audio background color---*/
+
+audio {
+     background-color: #b3b3b3 !important;
+     background-image: linear-gradient(#eaeaea, #eaeaea) !important;
+     background: -webkit-linear-gradient(#b3b3b3, #eaeaea) !important;
+     border: 0px solid #b3b3b3 !important;
+     border-radius: 0px 0px 0px 0px;
+     color: #6B6B6B;
+   }
+   
 /*--Media Queries--*/
 
 /*---Reduces width and padding in <form> in contact.html for desktop. For smaller devices it resorts back to 100% width and 0 padding---*/
