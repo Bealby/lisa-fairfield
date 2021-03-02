@@ -452,7 +452,7 @@ audio {
 
 /*---Reduce contact form margins for contact form for better in fit on mobile devices---*/
 
- @media(min-width:880px) {
+ @media(min-width:992px) {
      .contact-form {
          padding-right: 12rem;
          padding-left: 12rem;
