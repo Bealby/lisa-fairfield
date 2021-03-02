@@ -531,7 +531,7 @@ audio {
 
 /*---Margin setting for lg and sm for better viewing of text in Profile---*/
 
- @media(min-width:668px){
+ @media(min-width:768px){
      .profile-margin{
          margin-left:3rem;
          margin-right:3rem;
