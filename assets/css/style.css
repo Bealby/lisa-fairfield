@@ -175,6 +175,12 @@ body{
      margin-top:0rem;
 }
 
+ .profile-margin{
+     margin-left:0.6rem;
+     margin-right:1.2rem;
+     margin-top:0rem;
+}
+
  .padding-bio-left{
      padding-left:0rem;
      padding-right:0rem;
@@ -517,6 +523,16 @@ audio {
 
  @media(min-width:992px){
      .bio-margin{
+         margin-left:3rem;
+         margin-right:3rem;
+         margin-top:3rem;
+    }
+}
+
+/*---Margin setting for lg and sm for better viewing of text in Profile---*/
+
+ @media(min-width:668px){
+     .profile-margin{
          margin-left:3rem;
          margin-right:3rem;
          margin-top:3rem;
