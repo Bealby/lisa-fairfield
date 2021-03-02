@@ -484,7 +484,7 @@ audio {
 
 /*---Footer align for mobile devices for center positioning---*/
 
- @media(min-width:992px){
+ @media(min-width:768px){
      .footer-align-email{
          text-align: right;
     }
@@ -492,7 +492,7 @@ audio {
 
 /*---Footer align for mobile devices for center positioning---*/
 
- @media(min-width:992px){
+ @media(min-width:768px){
      .footer-align-tel{
          text-align: left;
          padding-left:4rem;
@@ -501,7 +501,7 @@ audio {
 
 /*---Footer align margin-bottom for mobile devices for better spacing---*/
 
- @media(min-width:992px){
+ @media(min-width:768px){
      .footer-margin-bottom{
          margin-bottom: 0rem;
     }
@@ -564,7 +564,7 @@ audio {
 }
 
 /*---Increase height for footer for smaller devices to fit better on smaller devices at bottom---*/
- @media (min-width: 992px) {
+ @media (min-width: 768px) {
      .footer{
          height:3.5rem;
     }
