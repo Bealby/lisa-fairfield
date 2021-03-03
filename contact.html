@@ -16,9 +16,8 @@
             emailjs.init("{{ EMAILJS_KEY }}");
         </script>
         <script>
-            var EMAILJS_KEY = config.SECRET_KEY;
-
             (function () {
+                var EMAILJS_KEY = config.SECRET_KEY;
                 emailjs.init("EMAILJS_KEY");
             })();
         </script>
