@@ -16,7 +16,7 @@ challenging world of acting.
 ![Mockup Generator](/documentation/readme/mockup-generator.png/)
 
 A live version of Website can be found
-[here](www.lisafairfield.com)
+[here](https://www.lisafairfield.com)
 
 ## CONTENTS
 
